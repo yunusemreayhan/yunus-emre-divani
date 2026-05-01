@@ -258,6 +258,9 @@ EXTRA_MEANINGS = {
     'cüneyd': 'Cüneyd-i Bağdadi, tasavvuf büyüğü',
     'yaraklanup': 'Hazırlanıp, yol azığını alıp',
     'ansuzın': 'Ansızın, birdenbire, habersizce',
+    'bigi': 'Gibi, benzer',
+    'talbınma': 'Çırpınma, çabalama',
+    'talbınmak': 'Çırpınmak, sıçramak',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
