@@ -280,8 +280,8 @@ function showPoem(num){
 }
 
 function countSyllables(text){
-  // In Turkish/Ottoman, each vowel = one syllable
-  return (text.match(/[aeıioöuüâîû]/gi)||[]).length;
+  // Turkish vowels: a e ı i o ö u ü â î û (and uppercase variants)
+  return (text.match(/[aeıioöuüâîûAEIİOÖUÜÂÎÛ]/g)||[]).length;
 }
 
 function splitBeyit(text){
