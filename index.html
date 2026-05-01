@@ -211,7 +211,7 @@ function updateSidebarList(){
     if(q&&!String(p.numara).includes(q)&&!p.beyitler.some(b=>b.metin.toLowerCase().includes(q)))return false;
     return true;
   });
-  ul.innerHTML=poems.slice(0,100).map(p=>`<li data-n="${p.numara}" class="${currentPoem&&currentPoem.numara===p.numara?'active':''}">
+  ul.innerHTML=poems.map(p=>`<li data-n="${p.numara}" class="${currentPoem&&currentPoem.numara===p.numara?'active':''}">
     <strong>${p.numara}.</strong> ${p.bölüm}
     <div class="preview">${p.beyitler[0]?.metin.slice(0,50)||''}...</div>
   </li>`).join('');
@@ -233,7 +233,7 @@ function renderSearchResults(){
     poems=poems.filter(p=>String(p.numara)===q||p.beyitler.some(b=>b.metin.toLowerCase().includes(q)));
   }
   if(!poems.length){el.innerHTML='<div class="empty">Sonuç bulunamadı.</div>';return}
-  el.innerHTML=poems.slice(0,50).map(p=>`<div class="item" data-n="${p.numara}">
+  el.innerHTML=poems.map(p=>`<div class="item" data-n="${p.numara}">
     <h3>${p.numara}. Şiir — ${p.bölüm}</h3>
     <div class="preview">${p.beyitler[0]?.metin||''}</div>
   </div>`).join('');
@@ -303,17 +303,15 @@ function renderWords(text,anlamlar){
 }
 
 function updateNavButtons(){
-  const idx=data.şiirler.indexOf(currentPoem);
-  const prev=idx>0;
-  const next=idx<data.şiirler.length-1;
-  document.getElementById('prev-btn').disabled=!prev;
-  document.getElementById('prev-btn2').disabled=!prev;
-  document.getElementById('next-btn').disabled=!next;
-  document.getElementById('next-btn2').disabled=!next;
+  const idx=data.şiirler.findIndex(p=>p.numara===currentPoem.numara);
+  document.getElementById('prev-btn').disabled=idx<=0;
+  document.getElementById('prev-btn2').disabled=idx<=0;
+  document.getElementById('next-btn').disabled=idx>=data.şiirler.length-1;
+  document.getElementById('next-btn2').disabled=idx>=data.şiirler.length-1;
 }
 
 function navPoem(dir){
-  const idx=data.şiirler.indexOf(currentPoem);
+  const idx=data.şiirler.findIndex(p=>p.numara===currentPoem.numara);
   const ni=idx+dir;
   if(ni>=0&&ni<data.şiirler.length)showPoem(data.şiirler[ni].numara);
 }
