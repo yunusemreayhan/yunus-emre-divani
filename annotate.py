@@ -162,6 +162,7 @@ EXTRA_MEANINGS = {
     'koyucı': 'Koyan, yerleştiren',
     'sarıcı': 'Saran (kefen saran)',
     'iledüp': 'İletip, götürüp',
+    'tana': 'Hayrete, şaşkınlığa (tana kalmak: şaşmak)',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }

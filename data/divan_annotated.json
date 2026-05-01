@@ -552,13 +552,16 @@
           "numara": 3,
           "metin": "Ayruk bana ben dimeyem kimesneye sen dimeyem Ya kul ya sultân dimeyem kalsun işidenler tana",
           "anlamlar": {
-            "ayruk": "Başka, artık, gayrı"
+            "ayruk": "Başka, artık, gayrı",
+            "tana": "Hayrete, şaşkınlığa (tana kalmak: şaşmak)"
           }
         },
         {
           "numara": 4,
           "metin": "Senden sana varur yolum senden seni söyler dilüm Allah sana irmez elüm bu hikmete kaldum tana",
-          "anlamlar": {}
+          "anlamlar": {
+            "tana": "Hayrete, şaşkınlığa (tana kalmak: şaşmak)"
+          }
         },
         {
           "numara": 5,
@@ -1059,7 +1062,8 @@
           "anlamlar": {
             "müştâk": "Hasret çeken, göreceği gelen",
             "dün": "Gece",
-            "gün": "Gündüz, güneş"
+            "gün": "Gündüz, güneş",
+            "tana": "Hayrete, şaşkınlığa (tana kalmak: şaşmak)"
           }
         },
         {
@@ -20039,6 +20043,7 @@
           "numara": 5,
           "metin": "Binüp agaç atına yanulup Hızr'a tana Şol kara yir altına gire yatasın birgün",
           "anlamlar": {
+            "tana": "Hayrete, şaşkınlığa (tana kalmak: şaşmak)",
             "yir": "Yer, yeryüzü"
           }
         },
