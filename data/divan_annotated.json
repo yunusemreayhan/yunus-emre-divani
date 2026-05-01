@@ -463,7 +463,8 @@
           "numara": 2,
           "metin": "Çün ‘Azrâîl'i ne tuta assı kılmaz ana ata Kimse döymez o heybete halkdan meded irmez ola",
           "anlamlar": {
-            "assı": "Fayda, menfaat, kazanç"
+            "assı": "Fayda, menfaat, kazanç",
+            "irmez": "Erişmez, ulaşmaz"
           }
         },
         {
@@ -532,9 +533,12 @@
           "numara": 1,
           "metin": "İy ‘âşıkan iy ‘âşıkan ‘ışk mezhebi dîndür bana Gördi gözüm dost yüzüni yas kamu dügündür bana",
           "anlamlar": {
+            "âşıkan": "Ey âşıklar (hitap)",
             "ışk": "Aşk, ilahi sevgi",
+            "dîndür": "Dindir, inançtır",
             "dost": "Sevgili, Allah, mürşid",
-            "kamu": "Bütün, hep, herkes"
+            "kamu": "Bütün, hep, herkes",
+            "dügündür": "Düğündür, bayramdır"
           }
         },
         {
@@ -545,7 +549,8 @@
             "pâs": "Kir",
             "görklü": "Güzel, mübarek",
             "âvâz": "Sadâ, yüksek ses, şöhret",
-            "andan": "Ondan, ona, ondan sonra, ondan ötürü"
+            "andan": "Ondan, ona, ondan sonra, ondan ötürü",
+            "ündür": "Sestir, nidadır"
           }
         },
         {
@@ -553,6 +558,8 @@
           "metin": "Ayruk bana ben dimeyem kimesneye sen dimeyem Ya kul ya sultân dimeyem kalsun işidenler tana",
           "anlamlar": {
             "ayruk": "Başka, artık, gayrı",
+            "dimeyem": "Demeyeyim, söylemeyeyim",
+            "kimesneye": "Kimseye, hiç kimseye",
             "tana": "Hayrete, şaşkınlığa (tana kalmak: şaşmak)"
           }
         },
@@ -560,20 +567,25 @@
           "numara": 4,
           "metin": "Senden sana varur yolum senden seni söyler dilüm Allah sana irmez elüm bu hikmete kaldum tana",
           "anlamlar": {
+            "irmez": "Erişmez, ulaşmaz",
             "tana": "Hayrete, şaşkınlığa (tana kalmak: şaşmak)"
           }
         },
         {
           "numara": 5,
           "metin": "Ben ‘ışkundan ırılmayam dergâhundan sürülmeyem Bundan dahı giderisem senün ile varam sana",
-          "anlamlar": {}
+          "anlamlar": {
+            "ırılmayam": "Ayrılmayım",
+            "sürülmeyem": "Sürülmeyeyim, kovulmayayım"
+          }
         },
         {
           "numara": 6,
           "metin": "Ol dost bizi viribidi var dünyayı bir gör didi Geldüm gördüm bir ârâyiş seni seven kalmaz ana",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "viribidi": "Vermişti",
+            "viribidi": "Verdi, bıraktı",
+            "didi": "Dedi",
             "ârâyiş": "Süs, bezek, ziynet",
             "seven": "Âşık"
           }
@@ -582,7 +594,12 @@
           "numara": 7,
           "metin": "Kullarına va'deyledi yarınki gün görnem didi Ol dostlarun sevindügi yarınum bugündür bana",
           "anlamlar": {
-            "gün": "Gündüz, güneş"
+            "va'deyledi": "Vaad etti, söz verdi",
+            "gün": "Gündüz, güneş",
+            "görnem": "Göreyim, göstereyim",
+            "didi": "Dedi",
+            "sevindügi": "Sevindiği",
+            "yarınum": "Yarınım"
           }
         },
         {
@@ -590,8 +607,10 @@
           "metin": "Dost ‘ışka ulaşalıdan dünyâ âhiret bir oldı Ezel-ebed sorarısan dün ile bugündür bana",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
+            "ulaşalıdan": "Ulaşalıdan beri, kavuştuğundan beri",
             "ezel": "Başlangıçsız geçmiş, öncesizlik",
             "ebed": "Sonsuz gelecek",
+            "sorarısan": "Sorarsan, soracak olursan",
             "dün": "Gece"
           }
         },
@@ -599,7 +618,9 @@
           "numara": 9,
           "metin": "Yûnus seni dîn idindi dîn nedür îman idindi ‘Işka bugün yarın n'olur işi nedür öndin sona",
           "anlamlar": {
-            "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek"
+            "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek",
+            "idindi": "Edindi, kabul etti",
+            "öndin": "Önce, evvel"
           }
         }
       ]
@@ -826,6 +847,7 @@
             "çogaç": "Gün, güneş",
             "delük": "Delik, açık",
             "şu'le": "Işık, alev",
+            "irmez": "Erişmez, ulaşmaz",
             "günden": "Gündüz, güneş"
           }
         },
@@ -1047,7 +1069,9 @@
         {
           "numara": 2,
           "metin": "Sensin bu gözümde gören sensin dilümde söyleyen Sensin beni var eyleyen sensin hemin öndin sona",
-          "anlamlar": {}
+          "anlamlar": {
+            "öndin": "Önce, evvel"
+          }
         },
         {
           "numara": 3,
@@ -1079,7 +1103,8 @@
           "metin": "Yûnus bu sır Hak durur bu dilile gelmek yok durur Bilmesi bunun zevk durur ‘aklıla fehm irmez ana",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
-            "fehm": "Anlama, anlayış, kavrama"
+            "fehm": "Anlama, anlayış, kavrama",
+            "irmez": "Erişmez, ulaşmaz"
           }
         }
       ]
@@ -1216,6 +1241,7 @@
           "anlamlar": {
             "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek",
             "millet": "Din, mezhep, aynı dinden olan topluluk",
+            "sorarısan": "Sorarsan, soracak olursan",
             "âşık": "Seven, Allah aşığı",
             "diyânet": "Dindârlık"
           }
@@ -1886,7 +1912,7 @@
           "numara": 4,
           "metin": "Hîç kimesne kendüden hâlden hâle gelmedi ‘Âşıklarun cânına ma'şûka urur minkâr",
           "anlamlar": {
-            "kimesne": "Kimse",
+            "kimesne": "Kimse, hiç kimse",
             "cânına": "Cism-i latif",
             "ma'şûka": "Sevgili, Allah",
             "minkâr": "Kuş gagası"
@@ -2119,6 +2145,7 @@
           "metin": "Sözi togrı diyene Kuli'l-Hak didi Çalap Bunda yalan söyleyen yarın utanasıdur",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
+            "didi": "Dedi",
             "çalap": "Tanrı, Allah"
           }
         },
@@ -2203,7 +2230,8 @@
           "numara": 3,
           "metin": "Seni bunda viribidi teferrüc eylegil didi Sen ev yaparsın iy hâce evi tarâş olan kimdür",
           "anlamlar": {
-            "viribidi": "Vermişti"
+            "viribidi": "Verdi, bıraktı",
+            "didi": "Dedi"
           }
         },
         {
@@ -3149,6 +3177,7 @@
           "metin": "Miskîn Yûnus'un bu cânı şol dosta ulaşalıdan Dem-be-dem arturur ‘ışkı ulu yirden tîmârum var",
           "anlamlar": {
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
+            "ulaşalıdan": "Ulaşalıdan beri, kavuştuğundan beri",
             "dem": "An, zamân, vakit, soluk, nefes",
             "yirden": "Yer, yeryüzü"
           }
@@ -4243,6 +4272,7 @@
           "numara": 3,
           "metin": "Kur'ân kelâmum didi gönüle evüm didi Gönül ev ıssın bilmez âdemden tutmayalar",
           "anlamlar": {
+            "didi": "Dedi",
             "gönül": "Kalp, yürek, iç dünya"
           }
         },
@@ -4985,6 +5015,7 @@
           "metin": "Sordum anda var mıdur ‘uşşâka bu bendden halâs Didiler kim yok durur urgan ucın dilber tutar",
           "anlamlar": {
             "bendden": "Bağlanan, bağlanmış, bağ, boğum",
+            "didiler": "Dedi",
             "urgan": "Halat, kalın ip"
           }
         },
@@ -5009,6 +5040,7 @@
           "numara": 9,
           "metin": "Yûnus'a sorarısan bu sözleri kandan alur Meger ol dîvân-ı ‘ışkun defterinden yâd ider",
           "anlamlar": {
+            "sorarısan": "Sorarsan, soracak olursan",
             "kandan": "Nereden",
             "dîvân": "Huzur, meclis",
             "yâd": "Hatırlamak"
@@ -5467,6 +5499,7 @@
           "numara": 8,
           "metin": "Eger bana sorarısan cânı yokdur şol kişinün Ma'şûka sevmekden artuk gönline endîşe gelür",
           "anlamlar": {
+            "sorarısan": "Sorarsan, soracak olursan",
             "ma'şûka": "Sevgili, Allah",
             "artuk": "Başka, başkası, gayrı, fazla, artık",
             "endîşe": "Düşünce, fikir"
@@ -5880,6 +5913,7 @@
           "metin": "Hak anı ögdi yaratdı sevdi Habîb'üm didi Yir yüzinde cümle çiçek Mustafâ'nun teridür",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
+            "didi": "Dedi",
             "yir": "Yer, yeryüzü"
           }
         },
@@ -6113,6 +6147,7 @@
           "metin": "Hak ere benüm didi varlıgın erde kodı Erenlerün himmeti yirden göge direkdür",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
+            "didi": "Dedi",
             "yirden": "Yer, yeryüzü"
           }
         },
@@ -6354,6 +6389,7 @@
           "metin": "Yatanlarun yatlu hâli Hiç nesneye irmez eli Seher eser rahmet yili Tanla seher vaktinde tur",
           "anlamlar": {
             "yatlu": "Kötü, fenâ",
+            "irmez": "Erişmez, ulaşmaz",
             "eser": "İz, yapı, nişan",
             "rahmet": "Acıma, esirgeme, koruma, yargılama",
             "tanla": "Şaşırmak, hayrette kalmak"
@@ -6474,6 +6510,7 @@
           "metin": "Yûnus bu göz anı görmez görenler hod haber virmez Bu menzile ‘akıl irmez bu kodugun serâb nedür",
           "anlamlar": {
             "hod": "Kendi, esasen, bizzat",
+            "irmez": "Erişmez, ulaşmaz",
             "serâb": "Çölde ışık tesiriyle yeşillik ve suluk gibi yerlerin oluşması"
           }
         }
@@ -6518,7 +6555,7 @@
           "metin": "Bu ‘ışk kandalıgın bilmez kimesne Bilürler haddini pâyân-ı ‘ışkdur",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
-            "kimesne": "Kimse",
+            "kimesne": "Kimse, hiç kimse",
             "haddini": "Şeriatçe verilen ceza",
             "pâyân": "Son, nihâyet, uç, kenar",
             "ışkdur": "Aşk, ilahi sevgi"
@@ -7407,7 +7444,8 @@
           "metin": "Gönlüm bana yoldaş iken zühd ü tâ‘at kılurıdum Yıkıldı bu tertîblerüm gönülsüzem elüm irmez",
           "anlamlar": {
             "yoldaş": "Yol arkadaşı",
-            "zühd": "Dünyadan el çekme, ibadet"
+            "zühd": "Dünyadan el çekme, ibadet",
+            "irmez": "Erişmez, ulaşmaz"
           }
         },
         {
@@ -7427,7 +7465,8 @@
             "gönül": "Kalp, yürek, iç dünya",
             "sünnet": "Hz",
             "teşvîş": "Kargaşalık, karışıklık",
-            "amel": "İş, hayır, çalışma"
+            "amel": "İş, hayır, çalışma",
+            "irmez": "Erişmez, ulaşmaz"
           }
         },
         {
@@ -7756,6 +7795,7 @@
           "numara": 1,
           "metin": "Bu bir ‘acâyib hâldür bu hâle kimse irmez ‘Âlimler da'vî kılur velî degme göz görmez",
           "anlamlar": {
+            "irmez": "Erişmez, ulaşmaz",
             "da'vî": "İddia, dava",
             "velî": "Ermiş, seven, dost, sahib",
             "degme": "Herhangi, her bir, her, rastgele"
@@ -7765,14 +7805,15 @@
           "numara": 2,
           "metin": "‘İlmile hikmetile kimse irmez bu sırra Bu bir ‘acâyib sırdur ‘ilme kitâba sıgmaz",
           "anlamlar": {
-            "hikmetile": "Bir işteki sebep"
+            "hikmetile": "Bir işteki sebep",
+            "irmez": "Erişmez, ulaşmaz"
           }
         },
         {
           "numara": 3,
           "metin": "‘Âlem ‘ilmin okıyan dört mezheb sırrın tuyan ‘Âciz kaldı bu yolda bu ‘ışka el uramaz",
           "anlamlar": {
-            "mezheb": "Gidilen yol"
+            "mezheb": "Yol, din yolu"
           }
         },
         {
@@ -7802,7 +7843,8 @@
           "numara": 7,
           "metin": "Hadîs'dür Mustafâ'dan ‘ışkıla ikrâr didi Binde bir ‘ârif bunı bakup okıyubilmez",
           "anlamlar": {
-            "ışkıla": "Aşk, ilahi sevgi"
+            "ışkıla": "Aşk, ilahi sevgi",
+            "didi": "Dedi"
           }
         },
         {
@@ -7928,7 +7970,7 @@
           "metin": "Öldüren ol dirgüren ol Yûnus imdi Hakk'ıla ol Hak'dan artuk hîç kimesne yok nesneyi var eylemez",
           "anlamlar": {
             "artuk": "Başka, başkası, gayrı, fazla, artık",
-            "kimesne": "Kimse"
+            "kimesne": "Kimse, hiç kimse"
           }
         }
       ]
@@ -8327,6 +8369,7 @@
           "numara": 8,
           "metin": "Sorarısan dost kandadur kanda istersen andadur Hem gönülde hem cândadur hîç kalmadı gümânumuz",
           "anlamlar": {
+            "sorarısan": "Sorarsan, soracak olursan",
             "dost": "Sevgili, Allah, mürşid",
             "kandadur": "Nerede",
             "andadur": "Orada, oraya, o konuda, o hususta, o zamân"
@@ -8427,7 +8470,7 @@
           "metin": "Çalap viribidi bizi var dünyeyi görün diyü Bu dünye hod bâkî degül mülke Süleymân neyimiş",
           "anlamlar": {
             "çalap": "Tanrı, Allah",
-            "viribidi": "Vermişti",
+            "viribidi": "Verdi, bıraktı",
             "hod": "Kendi, esasen, bizzat",
             "süleymân": "İsrailoğullarından Hz"
           }
@@ -8655,7 +8698,9 @@
         {
           "numara": 2,
           "metin": "Ol karınca söyledi Süleymân'a yol didi Ol karınca söyledügi cevâb alıncayımış",
-          "anlamlar": {}
+          "anlamlar": {
+            "didi": "Dedi"
+          }
         },
         {
           "numara": 3,
@@ -9007,7 +9052,8 @@
           "metin": "Evliyâdur Hak kapusı Yûnus durur kapucısı ‘Işkıla geldi bu yola ‘ışkı idindi hem turak",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
-            "işkıla": "Aşk, candan sevme, sevgi"
+            "işkıla": "Aşk, candan sevme, sevgi",
+            "idindi": "Edindi, kabul etti"
           }
         }
       ]
@@ -9432,7 +9478,8 @@
           "metin": "Kadem bir taşa basdı taş kopdı bile vardı Kak yâ mübârek didi şöyle kaldı mu‘allak",
           "anlamlar": {
             "kadem": "Ayak, adım, bir uzunluk ölçüsü, uğur",
-            "taş": "Dış, zahir"
+            "taş": "Dış, zahir",
+            "didi": "Dedi"
           }
         },
         {
@@ -9643,7 +9690,8 @@
           "anlamlar": {
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
             "dost": "Sevgili, Allah, mürşid",
-            "katına": "Yan, huzur"
+            "katına": "Yan, huzur",
+            "öndin": "Önce, evvel"
           }
         },
         {
@@ -10603,7 +10651,8 @@
           "numara": 5,
           "metin": "Resûl indi tapuya elin urdı kapuya Didiler kimsin ana miskîni dervîşlerün",
           "anlamlar": {
-            "resûl": "Peygamber, yeni kitap ve şeriatle gönderilen Peygamber"
+            "resûl": "Peygamber, yeni kitap ve şeriatle gönderilen Peygamber",
+            "didiler": "Dedi"
           }
         },
         {
@@ -10822,6 +10871,7 @@
           "numara": 4,
           "metin": "Beni beşige urdılar elüm ayagum sardılar Öndin acısın virdiler tuz içine düşdi gönül",
           "anlamlar": {
+            "öndin": "Önce, evvel",
             "gönül": "Kalp, yürek, iç dünya"
           }
         },
@@ -11873,7 +11923,7 @@
           "metin": "Tehî görmen kimseyi hîç kimesne boş degül Eksükligile nazar erenlere hoş degül",
           "anlamlar": {
             "tehî": "Boş",
-            "kimesne": "Kimse",
+            "kimesne": "Kimse, hiç kimse",
             "nazar": "Göz atmak, yan bakmak, tetkik"
           }
         },
@@ -12047,6 +12097,7 @@
           "metin": "Kaygu eli irmezidi gussa gözi görmezidi Endîşe şehrinden taşra bir ulu mekândayıdum",
           "anlamlar": {
             "kaygu": "Korku, endîşe, tasa, üzüntü",
+            "irmezidi": "Erişmez, ulaşmaz",
             "gussa": "Tasa, üzüntü",
             "endîşe": "Düşünce, fikir",
             "taşra": "Dışarı"
@@ -12314,6 +12365,7 @@
           "anlamlar": {
             "gussa": "Tasa, üzüntü",
             "kaygu": "Korku, endîşe, tasa, üzüntü",
+            "irmezidi": "Erişmez, ulaşmaz",
             "endîşe": "Düşünce, fikir",
             "taşra": "Dışarı"
           }
@@ -12387,7 +12439,9 @@
           "numara": 7,
           "metin": "Bu bizden öndin gelenler ma'nîyi pinhân didiler Ben anadan togmış gibi geldüm ki ‘uryân eyleyem",
           "anlamlar": {
+            "öndin": "Önce, evvel",
             "pinhân": "Gizli, saklı",
+            "didiler": "Dedi",
             "uryân": "Çıplak"
           }
         },
@@ -12707,7 +12761,7 @@
             "ezelden": "Zamanın önsüzlüğü, başlangıcı olmayan zamân",
             "ma'şûkıla": "Sevgili, Allah",
             "hak": "Allah, gerçek, doğru",
-            "viribidi": "Vermişti"
+            "viribidi": "Verdi, bıraktı"
           }
         },
         {
@@ -13353,7 +13407,8 @@
           "metin": "Abdü'r-rezzâk ol dervîş yoldaş idindi beni Hallâc-ı Mansûr'ıla dâra asılan benem",
           "anlamlar": {
             "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
-            "yoldaş": "Yol arkadaşı"
+            "yoldaş": "Yol arkadaşı",
+            "idindi": "Edindi, kabul etti"
           }
         },
         {
@@ -13369,7 +13424,8 @@
           "numara": 9,
           "metin": "Adumı Yûnus dakdum sırrum ‘âleme çakdum Levh ü kalemden öndin dilde söylenen benem",
           "anlamlar": {
-            "kalemden": "Halka ait zuhur yerlerinde Hakk'ın taayyünlerine bir evveldir"
+            "kalemden": "Halka ait zuhur yerlerinde Hakk'ın taayyünlerine bir evveldir",
+            "öndin": "Önce, evvel"
           }
         }
       ]
@@ -14460,7 +14516,8 @@
           "numara": 5,
           "metin": "Yûnus bu cismüm adıdur cisim anun bünyâdıdur Adum eger sorarısan bilgil câna cânân benem",
           "anlamlar": {
-            "bünyâdıdur": "Temel, esâs, asıl"
+            "bünyâdıdur": "Temel, esâs, asıl",
+            "sorarısan": "Sorarsan, soracak olursan"
           }
         }
       ]
@@ -14718,6 +14775,7 @@
           "metin": "Degmeler bu sırra irmezler ledünnîdür ‘azîz Hızr'ı koyup yolda ben kerrûbıla gerdân olam",
           "anlamlar": {
             "degmeler": "Herhangi, her bir, her, rastgele",
+            "irmezler": "Erişmez, ulaşmaz",
             "ledünnîdür": "Ledünne müteallik, gayb ilmiyle alakalı",
             "azîz": "Sevgide üstün tutulan, hürmetli, saygı değer",
             "kerrûbıla": "Allah'a en yakın melekler",
@@ -15470,7 +15528,8 @@
           "metin": "Cânum nâ-çârıdı bunda kalmışıdum bu zindânda Gel didiler vardum anda varlıgumdan geçer oldum",
           "anlamlar": {
             "cânum": "Canım, ruhum",
-            "çârıdı": "Dört"
+            "çârıdı": "Dört",
+            "didiler": "Dedi"
           }
         },
         {
@@ -17146,6 +17205,7 @@
           "numara": 8,
           "metin": "Yitmiş bin yıl öndinden yaratdı Muhammed'i Hak kendü âşık oldı bahâne bir yılduzdan",
           "anlamlar": {
+            "öndinden": "Önce, evvel",
             "hak": "Allah, gerçek, doğru",
             "âşık": "Seven, Allah aşığı"
           }
@@ -17159,7 +17219,8 @@
           "numara": 10,
           "metin": "Âlimler bunı bilmez degme ‘akl ana irmez Hidâyetdür Yûnus'a keşf oldı hacemüzden",
           "anlamlar": {
-            "degme": "Herhangi, her bir, her, rastgele"
+            "degme": "Herhangi, her bir, her, rastgele",
+            "irmez": "Erişmez, ulaşmaz"
           }
         }
       ]
@@ -17322,7 +17383,7 @@
             "milletden": "Din, mezhep, aynı dinden olan topluluk",
             "ışk": "Aşk, ilahi sevgi",
             "eserini": "İz, yapı, nişan",
-            "mezheb": "Gidilen yol"
+            "mezheb": "Yol, din yolu"
           }
         },
         {
@@ -17354,7 +17415,7 @@
           "metin": "‘Âşıkları sorarsan bî-mezheb ü bî-millet Yolda kalupdur sakın gice vü gündüz sayan",
           "anlamlar": {
             "âşıkları": "Seven, Allah aşığı",
-            "mezheb": "Gidilen yol",
+            "mezheb": "Yol, din yolu",
             "millet": "Din, mezhep, aynı dinden olan topluluk"
           }
         },
@@ -18343,7 +18404,9 @@
         {
           "numara": 5,
           "metin": "Yûnus yok dünyâ tadı çün kim fânîymiş adı Muhammed zindân didi biz şâd olmamagiçün",
-          "anlamlar": {}
+          "anlamlar": {
+            "didi": "Dedi"
+          }
         }
       ]
     },
@@ -18413,6 +18476,7 @@
           "numara": 2,
           "metin": "Varayın her bir mahfile sırrum dimeyem her dile Sırdan haber diyenlere mihmân olayın bir zamân",
           "anlamlar": {
+            "dimeyem": "Demeyeyim, söylemeyeyim",
             "mihmân": "Konuk, misafir"
           }
         },
@@ -18791,7 +18855,7 @@
           "numara": 2,
           "metin": "Kimesne kimseye itmemiş ola Anı kim kendüme ben itmişem ben",
           "anlamlar": {
-            "kimesne": "Kimse"
+            "kimesne": "Kimse, hiç kimse"
           }
         },
         {
@@ -19499,7 +19563,7 @@
           "numara": 4,
           "metin": "Dört mezhebün ‘âşıkıyam yidi mezheb geçdi cânum Kogıl beni söyletmegil bu yollarda uyanayın",
           "anlamlar": {
-            "mezheb": "Gidilen yol",
+            "mezheb": "Yol, din yolu",
             "cânum": "Canım, ruhum"
           }
         },
@@ -19631,7 +19695,9 @@
         {
           "numara": 2,
           "metin": "N'idem elüm irmez yâre bulınmaz derdüme çâre Oldum ilümden âvâre beni bunda egler misin",
-          "anlamlar": {}
+          "anlamlar": {
+            "irmez": "Erişmez, ulaşmaz"
+          }
         },
         {
           "numara": 3,
@@ -20668,7 +20734,8 @@
           "numara": 5,
           "metin": "İy bî-çâre miskîn Yûnus günâhun çok neyleyesin Sıgındum ol Allâh'uma didi hem ‘afv kılam diyü",
           "anlamlar": {
-            "miskîn": "Yoksul, alçakgönüllü, benliksiz"
+            "miskîn": "Yoksul, alçakgönüllü, benliksiz",
+            "didi": "Dedi"
           }
         }
       ]
@@ -21010,6 +21077,7 @@
           "numara": 4,
           "metin": "Beni benden alana irmez elüm Kadem kim basa sultândan içerü",
           "anlamlar": {
+            "irmez": "Erişmez, ulaşmaz",
             "kadem": "Ayak, adım, bir uzunluk ölçüsü, uğur"
           }
         },
@@ -21048,7 +21116,8 @@
           "numara": 9,
           "metin": "Süleymân kuş dili bilür didiler Süleymân var Süleymân'dan içerü",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "İsrailoğullarından Hz",
+            "didiler": "Dedi"
           }
         },
         {
@@ -21056,7 +21125,7 @@
           "metin": "Sülûk seyir iden ‘ışkun erine Niçe mezheb olur dînden içerü",
           "anlamlar": {
             "sülûk": "Tarikat yolculuğu",
-            "mezheb": "Gidilen yol"
+            "mezheb": "Yol, din yolu"
           }
         },
         {
@@ -21801,6 +21870,7 @@
           "metin": "Yûnus yidi nişân didi evet üçini gizledi Anı dahı eydivirem gelüp halvet soranlara",
           "anlamlar": {
             "nişân": "Alâmet, iz, belirti, eser",
+            "didi": "Dedi",
             "evet": "Metinde bir yerde “Fakat” manasınadır",
             "halvet": "Yalnızlık"
           }
@@ -21982,6 +22052,7 @@
           "metin": "Bana kiriş didiler ‘ışka giriş didiler Benüm adum ‘ışk virdi ben durmazam kolmaşda",
           "anlamlar": {
             "kiriş": "Kalın direk",
+            "didiler": "Dedi",
             "ışk": "Aşk, ilahi sevgi"
           }
         },
@@ -22767,7 +22838,7 @@
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
             "hak": "Allah, gerçek, doğru",
             "çalap": "Tanrı, Allah",
-            "viribidi": "Vermişti"
+            "viribidi": "Verdi, bıraktı"
           }
         }
       ]
@@ -22935,7 +23006,8 @@
           "metin": "Unluk sinündür senün sakın gûr ‘azâbından Mustafâ böyle didi inanursan Kur'ân'a",
           "anlamlar": {
             "gûr": "Mezâr, kabir",
-            "mustafâ": "Istıfa edilmiş"
+            "mustafâ": "Istıfa edilmiş",
+            "didi": "Dedi"
           }
         },
         {
@@ -23255,6 +23327,7 @@
           "numara": 4,
           "metin": "Anı bana sorarısan yönüm dostdan yana benüm Her ne hâlde yürürisem mihrüm arta durur günde",
           "anlamlar": {
+            "sorarısan": "Sorarsan, soracak olursan",
             "dostdan": "Sevgili, Allah, mürşid"
           }
         },
@@ -23318,7 +23391,7 @@
           "metin": "Ma‘nî berâtın alduk uş gine elümüze Hak sözi viribidi pâdişâh dilümüze",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
-            "viribidi": "Vermişti",
+            "viribidi": "Verdi, bıraktı",
             "pâdişâh": "Padişah, mecazen Ruh, Cenâb-ı Hak"
           }
         },
@@ -23335,6 +23408,7 @@
           "numara": 3,
           "metin": "Sırrumuza irmezler inen yoldaş olmazlar Degmeler hâldaş olmaz bu bizüm hâlümüze",
           "anlamlar": {
+            "irmezler": "Erişmez, ulaşmaz",
             "yoldaş": "Yol arkadaşı",
             "degmeler": "Herhangi, her bir, her, rastgele",
             "hâldaş": "Aynı durumda, hal arkadaşı"
@@ -23406,7 +23480,8 @@
             "sak": "1-Uyanık, çabuk duyan, ihtiyatlı, rahat, emin",
             "gönüller": "Gönül, yürek, kalp, fuad",
             "mutlak": "Serbest, salıverilmiş, kati, değişmez",
-            "saddâk": "Gerçektir, doğrudur"
+            "saddâk": "Gerçektir, doğrudur",
+            "didi": "Dedi"
           }
         },
         {
@@ -23460,7 +23535,8 @@
           "numara": 10,
           "metin": "Bu göz kendözin görmez nişânun nişân virmez Yûnus'un ‘aklı irmez inen oldı dîvâne",
           "anlamlar": {
-            "nişân": "Alâmet, iz, belirti, eser"
+            "nişân": "Alâmet, iz, belirti, eser",
+            "irmez": "Erişmez, ulaşmaz"
           }
         }
       ]
@@ -23500,7 +23576,8 @@
           "metin": "Taş elinde söyledi Hak Resûl'sün sen didi Anun içün komadı bir taşı taş üstine",
           "anlamlar": {
             "taş": "Dış, zahir",
-            "hak": "Allah, gerçek, doğru"
+            "hak": "Allah, gerçek, doğru",
+            "didi": "Dedi"
           }
         },
         {
@@ -23987,7 +24064,8 @@
           "metin": "Dost urdı yürege yare yaram onulmaz ne çâre Şu gönlüm düşdügi yire elüm irmez döndürmege",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "yire": "Yere"
+            "yire": "Yere",
+            "irmez": "Erişmez, ulaşmaz"
           }
         },
         {
@@ -24060,7 +24138,9 @@
         {
           "numara": 7,
           "metin": "Yûnus gönlün alanı sen kime söyleyesin Sorarısan sor imdi sen anı bulmışlara",
-          "anlamlar": {}
+          "anlamlar": {
+            "sorarısan": "Sorarsan, soracak olursan"
+          }
         }
       ]
     },
@@ -24943,7 +25023,9 @@
         {
           "numara": 10,
           "metin": "Yuvandan yavrun aldılar Seni dîvâne kıldılar Zamân böyl'olur didiler Söyle bülbülcügüm söyle",
-          "anlamlar": {}
+          "anlamlar": {
+            "didiler": "Dedi"
+          }
         },
         {
           "numara": 11,
@@ -25051,6 +25133,7 @@
           "anlamlar": {
             "kevser": "Cennet ırmağı",
             "havzına": "Havuz, su biriktirmeye mahsus üstü açık, etrafı duvarlı yer",
+            "öndin": "Önce, evvel",
             "nefsini": "Benlik, ego",
             "tûbâ": "Cennette bulunan kökü gökte, dalları yerde bir ağaç"
           }
@@ -25156,6 +25239,7 @@
           "anlamlar": {
             "yoldaş": "Yol arkadaşı",
             "yâr": "Sevgili, dost",
+            "öndin": "Önce, evvel",
             "ışk": "Aşk, ilahi sevgi"
           }
         },
@@ -25527,7 +25611,8 @@
           "metin": "Dört hâl içinde dervîş gerek siyâset çeke Menzile irmez kalur yol eri yuvacası",
           "anlamlar": {
             "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
-            "siyâset": "Ceza vermek, asmak"
+            "siyâset": "Ceza vermek, asmak",
+            "irmez": "Erişmez, ulaşmaz"
           }
         },
         {
@@ -25697,7 +25782,8 @@
           "numara": 9,
           "metin": "Çün Mansûr gördi ol benem didi Oda yakdılar işitdün anı",
           "anlamlar": {
-            "mansûr": "Hallac-ı Mansur, aşk şehidi"
+            "mansûr": "Hallac-ı Mansur, aşk şehidi",
+            "didi": "Dedi"
           }
         },
         {
@@ -25797,6 +25883,7 @@
           "numara": 10,
           "metin": "Senün ‘ışkun odı meger sıçramaya kimesneye Bir zerre degdi Yûnus'a cihân içinde fâş oldı",
           "anlamlar": {
+            "kimesneye": "Kimseye, hiç kimseye",
             "zerre": "Çok küçük parça, atom",
             "fâş": "Faş etmek, meydana çıkarmak"
           }
@@ -25831,6 +25918,7 @@
           "numara": 3,
           "metin": "Göge eytdi dön didi ay-gün yürisün didi Suyı mu‘allak kodı üstinde yir eyledi",
           "anlamlar": {
+            "didi": "Dedi",
             "gün": "Gündüz, güneş",
             "yir": "Yer, yeryüzü"
           }
@@ -26043,7 +26131,8 @@
           "numara": 19,
           "metin": "Mûsâ geldi la‘îne didi Hakk'un buyrugın Secdeyi işidicek döndi inkâr eyledi",
           "anlamlar": {
-            "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi"
+            "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi",
+            "didi": "Dedi"
           }
         },
         {
@@ -26687,6 +26776,7 @@
           "metin": "‘Âkil eli irmez ile irse dahı gelmez dile Dertli hâlin dertli bile sayru ne bilsün sagları",
           "anlamlar": {
             "âkil": "Akıllı, aklî düşünen ve hareket eden",
+            "irmez": "Erişmez, ulaşmaz",
             "sayru": "Hasta"
           }
         },
@@ -27815,7 +27905,7 @@
           "anlamlar": {
             "pâdişâhlar": "Padişah, mecazen Ruh, Cenâb-ı Hak",
             "ganî": "Hiç bir şeye ihtiyacı olmayan",
-            "viribidi": "Vermişti"
+            "viribidi": "Verdi, bıraktı"
           }
         },
         {
@@ -28645,6 +28735,7 @@
           "metin": "Gaflet ile yaturıdum şâh nazar eyledi bana Didi ki uyhudan uyan geldi işâret eyledi",
           "anlamlar": {
             "nazar": "Göz atmak, yan bakmak, tetkik",
+            "didi": "Dedi",
             "uyhudan": "Uyku, gaflet"
           }
         },
@@ -28759,6 +28850,7 @@
           "metin": "Dost yüzin ‘ıyân gördüm sır haberlerin sordum Didi gizlü bilmezsin uş söyledüm fâş oldı",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
+            "didi": "Dedi",
             "fâş": "Faş etmek, meydana çıkarmak"
           }
         },
@@ -28999,6 +29091,7 @@
           "numara": 2,
           "metin": "Yarınum bugün bana hoş bayram dügün bana Düşde gelür ün bana işidün ahbârını",
           "anlamlar": {
+            "yarınum": "Yarınım",
             "ahbârını": "Haberler"
           }
         },
@@ -30409,7 +30502,7 @@
           "numara": 11,
           "metin": "Yûnus imdi yavu var birlikden durur ikrâr Hîç kimesne bu milkden virmez nişânumuz",
           "anlamlar": {
-            "kimesne": "Kimse",
+            "kimesne": "Kimse, hiç kimse",
             "milkden": "Elde bulunan, tasarruf edilen şey, mal, mülk"
           }
         }
