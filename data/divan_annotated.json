@@ -407,7 +407,9 @@
         {
           "numara": 3,
           "metin": "Âsil-zâdeler nişânın eger bilmek dilerisen Her sözinün ma'nîsi var sözi sebük sal olmaya",
-          "anlamlar": {}
+          "anlamlar": {
+            "sebük": "Hafif, değersiz, önemsiz"
+          }
         },
         {
           "numara": 4,

@@ -152,6 +152,8 @@ EXTRA_MEANINGS = {
     'da\'vîden': 'İddiadan, davadan',
     'da\'vîsin': 'İddiasını, davasını',
     'da\'vî kılmak': 'İddia etmek',
+    'sebük': 'Hafif, değersiz, önemsiz',
+    'sebüksal': 'Hafif, önemsiz, değersiz',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
