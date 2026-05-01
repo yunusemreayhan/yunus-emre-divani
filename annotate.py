@@ -106,6 +106,9 @@ EXTRA_MEANINGS = {
     'ferş': 'Yeryüzü',
     'mi\'râc': 'Hz. Peygamber\'in göğe yükselişi',
     'kıyâmet': 'Dünyanın sonu, diriliş günü',
+    'kamu': 'Bütün, hep, herkes',
+    'kamusı': 'Hepsi, tamamı',
+    'kamudan': 'Herkesten, hepsinden',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
@@ -126,7 +129,7 @@ def find_meaning(word, sozluk):
               'kanda', 'anda', 'bunda', 'sana', 'bana', 'anun', 'bunun', 'senün', 'benüm',
               'olsa', 'ola', 'gele', 'gide', 'kala', 'tura', 'diye', 'eyde', 'söyle',
               'degül', 'degil', 'gerek', 'yok', 'var', 'ola', 'olan', 'iken', 'imiş',
-              'kişi', 'kişinün', 'cümle', 'kamudan', 'kamu', 'hep', 'şol', 'oldı',
+              'kişi', 'kişinün', 'cümle', 'hep', 'şol', 'oldı',
               'başum', 'başı', 'yüzin', 'yüzi', 'gözüm', 'gözi', 'dilüm', 'dili',
               'bilüm', 'bilür', 'bilmez', 'bildi', 'geldi', 'gitdi', 'virdi', 'aldı'}
     if w in common:

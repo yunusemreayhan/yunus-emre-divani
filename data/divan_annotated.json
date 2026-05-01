@@ -143,6 +143,7 @@
           "metin": "İzzet ü erkân kamusı bunlardur dünyâ sevgüsi ‘Işkdan haber eyitmesün kim dünyâ ‘izzetin seve",
           "anlamlar": {
             "erkân": "Rükûnlar, direkler, esaslar, âdet, töre",
+            "kamusı": "Hepsi, tamamı",
             "işkdan": "Aşk, candan sevme, sevgi"
           }
         },
@@ -507,7 +508,8 @@
           "metin": "İy ‘âşıkan iy ‘âşıkan ‘ışk mezhebi dîndür bana Gördi gözüm dost yüzüni yas kamu dügündür bana",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
-            "dost": "Sevgili, Allah, mürşid"
+            "dost": "Sevgili, Allah, mürşid",
+            "kamu": "Bütün, hep, herkes"
           }
         },
         {
@@ -585,6 +587,7 @@
           "anlamlar": {
             "pâdişâh": "Padişah, mecazen Ruh, Cenâb-ı Hak",
             "genc": "Hazine, define",
+            "kamusı": "Hepsi, tamamı",
             "önden": "Önce, evvel, ilkin, önceden"
           }
         },
@@ -677,6 +680,7 @@
           "anlamlar": {
             "mâlik": "Cehennemin kapıcısı, zebânîlerin başı olan azâb meleği",
             "tamu": "Cehennem",
+            "kamu": "Bütün, hep, herkes",
             "bişe": "Orman, meşelik, sazlık",
             "biryân": "Kebâb, kızarmış, yanmış"
           }
@@ -905,6 +909,7 @@
           "anlamlar": {
             "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
+            "kamusı": "Hepsi, tamamı",
             "halîl": "Sâdık, samimi, dost",
             "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi",
             "hüccet": "Senet, vesika, delil",
@@ -2465,6 +2470,7 @@
           "numara": 7,
           "metin": "Yûnus'un yanar içi kamudan gönli kiçi Soya sayılmamak suçı erenün himmetidür",
           "anlamlar": {
+            "kamudan": "Herkesten, hepsinden",
             "himmetidür": "Çalışma"
           }
         }
@@ -2893,6 +2899,7 @@
           "numara": 1,
           "metin": "İy bana eyü diyen benem kamudan kemter Şöyle mücrimem yolda mücrimler benden server",
           "anlamlar": {
+            "kamudan": "Herkesten, hepsinden",
             "kemter": "Değersiz, değeri az, daha aşağı",
             "mücrimler": "Suçlu, kabahatli",
             "server": "Baş, reis"
@@ -3267,7 +3274,8 @@
           "metin": "Yûnus erdür nihâyetsüz ‘ışk andan dahı gâyetsüz Ne gâyet var ne nihâyet kamusı bir Hazret olur",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
-            "andan": "Ondan, ona, ondan sonra, ondan ötürü"
+            "andan": "Ondan, ona, ondan sonra, ondan ötürü",
+            "kamusı": "Hepsi, tamamı"
           }
         }
       ]
@@ -3528,7 +3536,9 @@
         {
           "numara": 13,
           "metin": "Musahhardur kamu emrün içinde Cem‘î kullaruna mürüvvetün var",
-          "anlamlar": {}
+          "anlamlar": {
+            "kamu": "Bütün, hep, herkes"
+          }
         },
         {
           "numara": 14,
@@ -3544,7 +3554,8 @@
           "numara": 16,
           "metin": "Degül Yûnus'a bes yâ Rahmeti çok Kamu günâhlulara rahmetün var",
           "anlamlar": {
-            "bes": "Yeter"
+            "bes": "Yeter",
+            "kamu": "Bütün, hep, herkes"
           }
         }
       ]
@@ -5429,6 +5440,7 @@
           "numara": 5,
           "metin": "Esilmiş incü dişleri dökilmiş saru saçları Bitmiş kamu teşvişleri Hak varlıgın almış yatur",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "hak": "Allah, gerçek, doğru"
           }
         },
@@ -5884,6 +5896,7 @@
           "numara": 8,
           "metin": "El baglamışdur kamusı Hak Çalap'dandur umusı Nökerlü kızdur kimisi alınmaduk çoklar yatur",
           "anlamlar": {
+            "kamusı": "Hepsi, tamamı",
             "hak": "Allah, gerçek, doğru"
           }
         },
@@ -6207,6 +6220,7 @@
           "numara": 8,
           "metin": "Kamu ‘âlem ümid tutar âhiretde görem diye Yûnus eydür dervîş olan bunda Hak'ı buldı gider",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "dervîş": "Yoksul, tarikat ehli, Allah yolcusu"
           }
         }
@@ -6401,6 +6415,7 @@
           "metin": "Bu ‘ışk elinde ‘âciz cümle eşyâ Ne sır kim kamu ser-gerdân-ı ‘ışkdur",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
+            "kamu": "Bütün, hep, herkes",
             "gerdân": "Dönen, dönücü",
             "ışkdur": "Aşk, ilahi sevgi"
           }
@@ -7030,7 +7045,9 @@
         {
           "numara": 1,
           "metin": "Yirün gögün safâsı Mustafâ'dur Kamu ‘ahdün vefâsı Mustafâ'dur",
-          "anlamlar": {}
+          "anlamlar": {
+            "kamu": "Bütün, hep, herkes"
+          }
         },
         {
           "numara": 2,
@@ -7385,6 +7402,7 @@
           "numara": 1,
           "metin": "İy bana eyü diyen benem kamudan yavuz Alnumı ay bilürem bu gözlerümi yılduz",
           "anlamlar": {
+            "kamudan": "Herkesten, hepsinden",
             "yavuz": "Kötü, fena, yaman, kara yağız"
           }
         },
@@ -7485,7 +7503,9 @@
         {
           "numara": 6,
           "metin": "Âlet ü hareket kamu senündür Anunçün işüne kimse karılmaz",
-          "anlamlar": {}
+          "anlamlar": {
+            "kamu": "Bütün, hep, herkes"
+          }
         },
         {
           "numara": 7,
@@ -8253,6 +8273,7 @@
           "numara": 5,
           "metin": "Bu kamu günâhlarun yuyan miskînligimiş Var Yûnus sen miskîn ol gel tama‘un yayın yas",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "miskîn": "Yoksul, alçakgönüllü, benliksiz"
           }
         }
@@ -9251,7 +9272,8 @@
           "metin": "Yûnus'un sözleri Hak cümle didügi saddâk Ne gördüysen kamu Hak cümle vücûdda bulduk",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
-            "saddâk": "Gerçektir, doğrudur"
+            "saddâk": "Gerçektir, doğrudur",
+            "kamu": "Bütün, hep, herkes"
           }
         }
       ]
@@ -9490,7 +9512,8 @@
           "anlamlar": {
             "terk": "Bırakmak, vazgeçmek",
             "eyle": "Öyle, o şekilde",
-            "virgil": "Ver"
+            "virgil": "Ver",
+            "kamudan": "Herkesten, hepsinden"
           }
         },
         {
@@ -9529,7 +9552,8 @@
           "metin": "Dünyâ vü âhiretden niçe dürlü ni‘metden Dost yüzini görmege kamudan geçer gerek",
           "anlamlar": {
             "dürlü": "Türlü",
-            "dost": "Sevgili, Allah, mürşid"
+            "dost": "Sevgili, Allah, mürşid",
+            "kamudan": "Herkesten, hepsinden"
           }
         },
         {
@@ -9681,6 +9705,7 @@
           "numara": 5,
           "metin": "Korkarısan sen Tamu'dan (gel) alçak olgıl kamudan Ol güni ince köpriden (bil) kamular geçmek gerek",
           "anlamlar": {
+            "kamudan": "Herkesten, hepsinden",
             "bil": "Bel",
             "kamular": "Bütün, hep"
           }
@@ -9855,6 +9880,7 @@
           "numara": 2,
           "metin": "Gelmek gerek terbiyete kamu bildüklerin koya Mürebbîsi ne dirise pes ol anı dutmak gerek",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "pes": "O halde, öyle ise",
             "dutmak": "Tutmak, sahib olmak"
           }
@@ -13457,6 +13483,7 @@
           "metin": "Tolalı hüsnün illere hayrân kamu gönüllere Niçe tolusın dillere senden nişân alımazam",
           "anlamlar": {
             "hayrân": "Şaşırmış, şaşkın",
+            "kamu": "Bütün, hep, herkes",
             "nişân": "Alâmet, iz, belirti, eser"
           }
         },
@@ -13473,7 +13500,8 @@
           "numara": 6,
           "metin": "Benüm dürüp bünyâdumı Yûnus ezelden adumı Kesdüm kamudan dadumı ‘ışkundan ayrılımazam",
           "anlamlar": {
-            "ezelden": "Zamanın önsüzlüğü, başlangıcı olmayan zamân"
+            "ezelden": "Zamanın önsüzlüğü, başlangıcı olmayan zamân",
+            "kamudan": "Herkesten, hepsinden"
           }
         }
       ]
@@ -13690,6 +13718,7 @@
           "numara": 3,
           "metin": "‘Aklum yavı vardı besi tagıldı fikrüm kamusı Boşaldum uş toldum velî neyile toldum bilmezem",
           "anlamlar": {
+            "kamusı": "Hepsi, tamamı",
             "velî": "Ermiş, seven, dost, sahib"
           }
         },
@@ -13990,6 +14019,7 @@
           "numara": 9,
           "metin": "Ben ‘âbidem ben ma'bûdam kamu yirlerde hâzıram Zâlimlerden dâd alıcı miskînleri dutan benem",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "dâd": "Adalet",
             "miskînleri": "Hiçbir şeye mâlik olmayan yoksul, halsiz, hareketsiz"
           }
@@ -14242,6 +14272,7 @@
           "numara": 1,
           "metin": "İy kamu derd ehli gelün derd benem ü dermân benem Kâfirdeki küfr-i nihân mü'mindeki îmân benem",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "nihân": "Gizli, saklı"
           }
         },
@@ -15100,6 +15131,7 @@
             "nazar": "Göz atmak, yan bakmak, tetkik",
             "mest": "Sarhoş, kendinden geçmiş",
             "hayrân": "Şaşırmış, şaşkın",
+            "kamusı": "Hepsi, tamamı",
             "tedbîr": "Bir şeyi temin edecek veya def edecek yol"
           }
         },
@@ -15167,6 +15199,7 @@
           "metin": "Yıkılmış sinleri tolmış hep evleri harâb olmış Kamu endîşeden kalmış ne düşvâr hâlleri gördüm",
           "anlamlar": {
             "sinleri": "Mezâr",
+            "kamu": "Bütün, hep, herkes",
             "endîşeden": "Düşünce, fikir",
             "düşvâr": "Güç, zor"
           }
@@ -16211,7 +16244,9 @@
         {
           "numara": 11,
           "metin": "Yûnus turdı girdi yola kamu gurbetleri bile Kendü cigerüm kanıla vasf-ı hâlüm yazar oldum",
-          "anlamlar": {}
+          "anlamlar": {
+            "kamu": "Bütün, hep, herkes"
+          }
         }
       ]
     },
@@ -16385,7 +16420,9 @@
         {
           "numara": 4,
           "metin": "Şeyhüm kamudan ulu yolda uludan ulu Gönlüm idi kaygulu nefsüm âsâyiş benüm",
-          "anlamlar": {}
+          "anlamlar": {
+            "kamudan": "Herkesten, hepsinden"
+          }
         },
         {
           "numara": 5,
@@ -16636,6 +16673,7 @@
           "numara": 5,
           "metin": "Bî-çâre za‘îf Yûnus neye hased idersün Kamu esbâbunı döküp ‘uryân olasın birgün",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "uryân": "Çıplak"
           }
         }
@@ -16932,7 +16970,8 @@
           "anlamlar": {
             "berü": "Yakın, beri, bu yana, beriye, bu tarafa",
             "velî": "Ermiş, seven, dost, sahib",
-            "hak": "Allah, gerçek, doğru"
+            "hak": "Allah, gerçek, doğru",
+            "kamu": "Bütün, hep, herkes"
           }
         },
         {
@@ -18427,6 +18466,7 @@
           "metin": "Hem evvelsin hem âhir kamu yirlerde zâhir Hîç makâm yokdur sensüz ben niçün göremezin",
           "anlamlar": {
             "evvelsin": "Allah'ın sıfatı",
+            "kamu": "Bütün, hep, herkes",
             "zâhir": "Görünen, açık, belli, meydanda"
           }
         },
@@ -18570,7 +18610,8 @@
           "numara": 3,
           "metin": "‘Amelüm rahtını dirdüm götürdüm Kamu assum ziyâna satmışam ben",
           "anlamlar": {
-            "rahtını": "At takımı, yol levâzımatı, mâl-mülk"
+            "rahtını": "At takımı, yol levâzımatı, mâl-mülk",
+            "kamu": "Bütün, hep, herkes"
           }
         },
         {
@@ -19845,7 +19886,8 @@
           "anlamlar": {
             "garîb": "Gurbette olan kişi",
             "bencileyin": "Benim gibi, bana benzeyen",
-            "başlu": "Yaralı"
+            "başlu": "Yaralı",
+            "kamu": "Bütün, hep, herkes"
           }
         },
         {
@@ -20119,7 +20161,8 @@
           "numara": 6,
           "metin": "Sımasan bûtın nefsün ‘abes kamu tâ‘atün Anı sımaga çâre hele şimdi buldum ben",
           "anlamlar": {
-            "abes": "Boş, mânâsız, faydasız"
+            "abes": "Boş, mânâsız, faydasız",
+            "kamu": "Bütün, hep, herkes"
           }
         },
         {
@@ -20580,6 +20623,7 @@
           "numara": 9,
           "metin": "Cümle cihân Gufrân'ıdur kamu ‘âlem hayrânıdur Yûnus anun hayrânıdur tekrâr iden gelsün berü",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "hayrânıdur": "Şaşırmış, şaşkın",
             "berü": "Yakın, beri, bu yana, beriye, bu tarafa"
           }
@@ -23945,6 +23989,7 @@
           "metin": "Adumuz miskîndür bizüm düşmânumuz kimdür bizüm Biz kimseye kîn tutmazuz kamu ‘âlem yârdur bize",
           "anlamlar": {
             "miskîndür": "Hiçbir şeye mâlik olmayan yoksul, halsiz, hareketsiz",
+            "kamu": "Bütün, hep, herkes",
             "yârdur": "Sevgili, dost"
           }
         },
@@ -24545,6 +24590,7 @@
           "numara": 1,
           "metin": "Bir ay gördüm bu gice kamu burclardan yüce Esritdi gönlüm cânum bilmezem hâlüm niçe",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "cânum": "Canım, ruhum"
           }
         },
@@ -24980,7 +25026,8 @@
           "metin": "Dost yolına gönülene girü dönmek olmayısar Bilme misin bu kamusı senden girü kalasını",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "kamusı": "Hepsi, tamamı"
           }
         },
         {
@@ -25793,6 +25840,7 @@
           "numara": 23,
           "metin": "Ma‘nî nedür İblîsden câhillik kamu bizden Ne duydun iş bu sözden sırrı esrâr eyledi",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "esrâr": "Sırlar, gizli mânâlar, hikmetler"
           }
         },
@@ -25902,7 +25950,9 @@
         {
           "numara": 4,
           "metin": "Çün yaratdı Âdem'i bileyidük biz kamu Bu kamu hâs u ‘âmı bir ma‘denden eyledi",
-          "anlamlar": {}
+          "anlamlar": {
+            "kamu": "Bütün, hep, herkes"
+          }
         },
         {
           "numara": 5,
@@ -25927,6 +25977,7 @@
           "numara": 7,
           "metin": "Kamu bir yire gider kimse niçesi yiter İki birdür bir biter gör bir neden eyledi",
           "anlamlar": {
+            "kamu": "Bütün, hep, herkes",
             "niçesi": "Nasıl, ne şekilde"
           }
         },
@@ -25959,7 +26010,8 @@
           "metin": "Elest'de bileyidük göz açduk “Belî” didük Yûnus'ıla gayrını kamu birden eyledi",
           "anlamlar": {
             "belî": "Bkz",
-            "gayrını": "Ayrı, başka"
+            "gayrını": "Ayrı, başka",
+            "kamu": "Bütün, hep, herkes"
           }
         }
       ]
@@ -26108,6 +26160,7 @@
           "anlamlar": {
             "cân": "Can, ruh, hayat",
             "dost": "Sevgili, Allah, mürşid",
+            "kamu": "Bütün, hep, herkes",
             "topdur": "Hep, tekmil, büsbütün",
             "dostı": "Sevgili, Allah, mürşid",
             "seven": "Âşık"
@@ -29863,6 +29916,7 @@
             "hayr": "Meşru iş, faydalı ve nurlu iş",
             "dürlü": "Türlü",
             "düşler": "Rüyâ, vakıa",
+            "kamu": "Bütün, hep, herkes",
             "teşvîşler": "Kargaşalık, karışıklık"
           }
         },
