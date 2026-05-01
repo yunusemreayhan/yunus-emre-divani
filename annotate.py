@@ -224,6 +224,9 @@ EXTRA_MEANINGS = {
     'tonı': 'Elbisesi, giysisi',
     'tonın': 'Elbisesini',
     'tonları': 'Elbiseleri',
+    'dîdâr': 'Yüz, Allah\'ın cemali, vuslat',
+    'münkir': 'İnkarcı, inanmayan',
+    'münkirisen': 'İnkarcısın, inanmıyorsun',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }

@@ -811,7 +811,9 @@
           "numara": 4,
           "metin": "Gökden inen dört kitâbı günde bin kez okurısan Erenlere münkirisen dîdâr ırak senden yana",
           "anlamlar": {
-            "kez": "Defa, kere"
+            "kez": "Defa, kere",
+            "münkirisen": "İnkarcısın, inanmıyorsun",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -1062,7 +1064,8 @@
           "numara": 6,
           "metin": "Her kim diler ise benüm o dostumdan ayrıldugum Gözlerinden hicâb gitsin dîdâr ıyân olsun ana",
           "anlamlar": {
-            "hicâb": "Örtü, perde, utanma, sakınma"
+            "hicâb": "Örtü, perde, utanma, sakınma",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -1897,7 +1900,7 @@
           "metin": "Yûnus sözin tak kılan görmedi münkir olan ‘Ömrin zulmete salan ma'rifet yohsulıdur",
           "anlamlar": {
             "tak": "Özür, kusur",
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "ma'rifet": "Allah bilgisi, irfan"
           }
         }
@@ -2964,7 +2967,7 @@
           "numara": 5,
           "metin": "Mahkûmısan sen bu işe münkir gibi dime n'işe Müşkili yok başdan başa mü'min olan ölmediler",
           "anlamlar": {
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "n'işe": "Nasıl, neden, niçin",
             "başdan": "Yasa"
           }
@@ -4262,7 +4265,7 @@
             "burc": "Kal'a çıkıntısı, sabit yıldız",
             "bârû": "Kale duvarı, hisar burcu, sûr",
             "mürşidile": "Doğru yolu gösteren, irşad eden kılavuz, şeyh, tarikat piri",
-            "münkir": "İnkarcı"
+            "münkir": "İnkarcı, inanmayan"
           }
         },
         {
@@ -4604,7 +4607,7 @@
             "çalap": "Tanrı, Allah",
             "pes": "O halde, öyle ise",
             "niçün": "Niçin, neden",
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "hatar": "Tehlike, uçurum, emniyetsizlik, korku"
           }
         },
@@ -4637,7 +4640,8 @@
           "numara": 10,
           "metin": "Ol işler tamâm olıcak ol düzenlik dirilicek Gözün hicâbın silicek yir-gök tolu dîdâr durur",
           "anlamlar": {
-            "yir": "Yer, yeryüzü"
+            "yir": "Yer, yeryüzü",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -4746,13 +4750,15 @@
           "anlamlar": {
             "yiri": "Yeri",
             "tar": "Dar",
-            "âşıklar": "Seven, Allah aşığı"
+            "âşıklar": "Seven, Allah aşığı",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
           "numara": 4,
           "metin": "Maksûdumuz dîdârıdı şeyhümüz girçek er idi Evvel dahı ol varıdı âhir dahı var olısar",
           "anlamlar": {
+            "dîdârıdı": "Yüz, Allah'ın cemali, vuslat",
             "evvel": "Allah'ın sıfatı"
           }
         },
@@ -4983,7 +4989,7 @@
           "numara": 8,
           "metin": "Münkir sözini bilmez sözi ileri varmaz Neye teşbîh idersin anlanmaz düşe benzer",
           "anlamlar": {
-            "münkir": "İnkarcı"
+            "münkir": "İnkarcı, inanmayan"
           }
         },
         {
@@ -5133,7 +5139,7 @@
           "metin": "‘Işkdur Yûnus'un cânı başında ser-encâmı ‘Işka münkir âdemi bu meydândan sürmişler",
           "anlamlar": {
             "işkdur": "Aşk, candan sevme, sevgi",
-            "münkir": "İnkarcı"
+            "münkir": "İnkarcı, inanmayan"
           }
         }
       ]
@@ -6772,7 +6778,7 @@
           "numara": 5,
           "metin": "Bizüm hâlümüzden bilen kimdür ‘ışka münkir olan Bizüm sevdügümüz Hak'dur bu halka göz ü kaş gelür",
           "anlamlar": {
-            "münkir": "İnkarcı"
+            "münkir": "İnkarcı, inanmayan"
           }
         },
         {
@@ -6824,6 +6830,7 @@
           "numara": 3,
           "metin": "‘Âşıkısan dîdârına koma bugüni yarına Girenler ‘ışk bâzârına kendözinden bîzâr olur",
           "anlamlar": {
+            "dîdârına": "Yüz, Allah'ın cemali, vuslat",
             "yarına": "Yarılmış yer, suyun açtığı uçurum",
             "ışk": "Aşk, ilahi sevgi"
           }
@@ -6834,7 +6841,8 @@
           "anlamlar": {
             "terk": "Bırakmak, vazgeçmek",
             "ışkını": "Aşk, ilahi sevgi",
-            "ışk": "Aşk, ilahi sevgi"
+            "ışk": "Aşk, ilahi sevgi",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -7051,7 +7059,8 @@
           "metin": "‘Âşık lâ-mekân olur dünyâ terkini urur Dünyâ terkin uranlar dîdâr göregen olur",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
-            "terkini": "Bırakmak, vazgeçmek"
+            "terkini": "Bırakmak, vazgeçmek",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -7285,6 +7294,7 @@
           "numara": 1,
           "metin": "Bize dîdâr gerek dünyâ gerekmez Bize ma'nî gerek da'vâ gerekmez",
           "anlamlar": {
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "ma'nî": "Anlam, iç yüz, gerçek",
             "da'vâ": "Dava"
           }
@@ -7327,6 +7337,7 @@
           "anlamlar": {
             "yâr": "Sevgili, dost",
             "cân": "Can, ruh, hayat",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "deyyâr": "Bir kimse, yurt sahibi, manastır sahibi"
           }
         },
@@ -7805,7 +7816,7 @@
           "numara": 3,
           "metin": "Namâz kıluram diyüben münkir gelmen dervîşlere Eger bin yıl kılurısan kendü du‘ân yarlıgamaz",
           "anlamlar": {
-            "münkir": "İnkarcı"
+            "münkir": "İnkarcı, inanmayan"
           }
         },
         {
@@ -9516,7 +9527,8 @@
           "numara": 2,
           "metin": "Aç kendüne cinânun behişt ü dîdâr senün Seni okur Sübhân'un ne yatursın kıl yarak",
           "anlamlar": {
-            "behişt": "Cennet, firdevs"
+            "behişt": "Cennet, firdevs",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -9674,7 +9686,8 @@
           "numara": 4,
           "metin": "Sen hicâb oldun sana ne bakarsın dört yana Kaykımaz öne sona kime ki dîdâr gerek",
           "anlamlar": {
-            "hicâb": "Örtü, perde, utanma, sakınma"
+            "hicâb": "Örtü, perde, utanma, sakınma",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -10149,7 +10162,9 @@
         {
           "numara": 7,
           "metin": "Bakma bu dünyâ yüzine aldanma halkun sözine Dönüp dîdâr arzûsına ol Hakk'a yüz tutmak gerek",
-          "anlamlar": {}
+          "anlamlar": {
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
+          }
         },
         {
           "numara": 8,
@@ -10730,7 +10745,8 @@
           "anlamlar": {
             "resûl": "Peygamber, yeni kitap ve şeriatle gönderilen Peygamber",
             "yârenler": "Arkadaş, dost",
-            "âşıklar": "Seven, Allah aşığı"
+            "âşıklar": "Seven, Allah aşığı",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -11331,7 +11347,9 @@
         {
           "numara": 2,
           "metin": "Eksük olman ehillerden kaça görün câhillerden Tanrı bîzâr bahillerden bahil dîdâr görür degül",
-          "anlamlar": {}
+          "anlamlar": {
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
+          }
         },
         {
           "numara": 3,
@@ -11924,6 +11942,7 @@
           "anlamlar": {
             "yir": "Yer, yeryüzü",
             "tûr": "Tûr-u Sînâ",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi"
           }
         },
@@ -11968,7 +11987,7 @@
           "numara": 4,
           "metin": "Münkir ile müdde'îyi sayma buçuga koyanı Git ahûra tak buları her kim (ki) 'âşık-bâz degül",
           "anlamlar": {
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "tak": "Özür, kusur",
             "'âşık": "Seven, Allah aşığı"
           }
@@ -12885,6 +12904,7 @@
           "metin": "Bundan böylesi bilgil pâdişâh iklîmidür Dört yanum dîdâr oldı gör ne hûb yire geldüm",
           "anlamlar": {
             "pâdişâh": "Padişah, mecazen Ruh, Cenâb-ı Hak",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "hûb": "Güzel",
             "yire": "Yere"
           }
@@ -13431,7 +13451,9 @@
         {
           "numara": 19,
           "metin": "Yûnus tap uzat bu sözi Allâh'una dutgıl yüzi Dîdârdan ayırma bizi Allâh sana sundum elüm",
-          "anlamlar": {}
+          "anlamlar": {
+            "dîdârdan": "Yüz, Allah'ın cemali, vuslat"
+          }
         }
       ]
     },
@@ -17684,7 +17706,7 @@
           "numara": 7,
           "metin": "Dervîşün eli uzun çıkarur münkir gözin Şarka garba düp-düzin sunmadın iren gelsün",
           "anlamlar": {
-            "münkir": "İnkarcı"
+            "münkir": "İnkarcı, inanmayan"
           }
         },
         {
@@ -18071,6 +18093,7 @@
           "metin": "‘Âşık olgıl ma‘şûkın dîdârına Ma‘şûk olgıl ‘ışkıla sarmaşuban",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
+            "dîdârına": "Yüz, Allah'ın cemali, vuslat",
             "ışkıla": "Aşk, ilahi sevgi"
           }
         },
@@ -18916,6 +18939,7 @@
           "metin": "‘Işkun Hakk'a irgürür cân gözi dîdâr görür Görenler baş indürür İbrâhîm Edhem misin",
           "anlamlar": {
             "cân": "Can, ruh, hayat",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "baş": "Yasa"
           }
         },
@@ -18923,6 +18947,7 @@
           "numara": 8,
           "metin": "Yüzün dîdâr nûrıdur saçun Mi‘râc dünidür Gören cânın unıdur Fahr-ı ‘âlem sen misin",
           "anlamlar": {
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "nûrıdur": "Işık, aydınlık",
             "dünidür": "Gece"
           }
@@ -19478,7 +19503,7 @@
           "metin": "Erenlere muhib iken yâ münkir oldugun neden Key sakıngıl datlu cânun okları çıkmadın yaydan",
           "anlamlar": {
             "muhib": "Seven, sevgi besleyen, dost",
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
             "datlu": "Tatlı",
             "yaydan": "Yaz mevsimi"
@@ -19498,7 +19523,7 @@
           "metin": "Bize muhib olanları Hak'dan dilerüz anları Dönüp münkir olanları tîz çıkarurlar aradan",
           "anlamlar": {
             "muhib": "Seven, sevgi besleyen, dost",
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "tîz": "Çabuk, acele"
           }
         },
@@ -19768,7 +19793,7 @@
           "numara": 7,
           "metin": "Mansûr'layın dâra beni şöyle ‘ıyân göster seni Kurbân kılayın bu cânı 'ışka münkir olmayayın",
           "anlamlar": {
-            "münkir": "İnkarcı"
+            "münkir": "İnkarcı, inanmayan"
           }
         },
         {
@@ -20000,7 +20025,9 @@
         {
           "numara": 2,
           "metin": "Gör Hâlik'ün ‘inâyetin deryâ-yı bî-nihâyetin Bize dîdâr gösteriser bunca günâh itmiş iken",
-          "anlamlar": {}
+          "anlamlar": {
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
+          }
         },
         {
           "numara": 3,
@@ -20978,7 +21005,7 @@
           "numara": 6,
           "metin": "Münkir-münâfıklar beni öldürelüm dirlerimiş Beni yaradan öldürür yok-var iden gelsün berü",
           "anlamlar": {
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "berü": "Yakın, beri, bu yana, beriye, bu tarafa"
           }
         },
@@ -21055,6 +21082,7 @@
             "eyle": "Öyle, o şekilde",
             "usan": "Gâfil, ihmalkâr, ihtiyatsız",
             "nûr": "Işık, aydınlık",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "berü": "Yakın, beri, bu yana, beriye, bu tarafa"
           }
         },
@@ -22442,7 +22470,8 @@
           "anlamlar": {
             "cânlar": "Cism-i latif",
             "cân": "Can, ruh, hayat",
-            "işkıla": "Aşk, candan sevme, sevgi"
+            "işkıla": "Aşk, candan sevme, sevgi",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -23628,7 +23657,8 @@
           "metin": "Sen hâslarun bâbısın ‘âşıklar kitâbısın Mutlak dîdâr kapusın görenler mahlûk sana",
           "anlamlar": {
             "âşıklar": "Seven, Allah aşığı",
-            "mutlak": "Serbest, salıverilmiş, kati, değişmez"
+            "mutlak": "Serbest, salıverilmiş, kati, değişmez",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -23755,7 +23785,8 @@
           "numara": 3,
           "metin": "Hep yana yana bulmışlar Hak dîdârına irmişler Seferin kaydın görmişler Gel yanalum dostlarıla",
           "anlamlar": {
-            "hak": "Allah, gerçek, doğru"
+            "hak": "Allah, gerçek, doğru",
+            "dîdârına": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -24591,9 +24622,10 @@
           "numara": 9,
           "metin": "Câhil münâfık münkir cümle ‘aklına şâkir ‘Âşıklar dîdâr sever ‘ârifler niyâz ile",
           "anlamlar": {
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "şâkir": "Şükreden",
             "âşıklar": "Seven, Allah aşığı",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "niyâz": "Yalvarma"
           }
         },
@@ -24610,7 +24642,8 @@
           "numara": 11,
           "metin": "Ben dervîşin diyenler yalan da‘vî kılanlar Yarın Hak dîdârını görmeyiser göz ile",
           "anlamlar": {
-            "hak": "Allah, gerçek, doğru"
+            "hak": "Allah, gerçek, doğru",
+            "dîdârını": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -25600,7 +25633,7 @@
           "numara": 10,
           "metin": "Yûnus imdi söyle Hak'ı münkir dutar sana dakı Bişür kotar Hak hânını ‘ârifler datsun duzumı",
           "anlamlar": {
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "bişür": "Pişirmek, olgunlaştırmak",
             "kotar": "Boşaltmak, tahliye etmek, bir kapdan bir kaba boşaltmak",
             "hak": "Allah, gerçek, doğru",
@@ -27335,7 +27368,7 @@
           "numara": 5,
           "metin": "Münkir kişi tuymaz anı dertlülerün sizer cânı Ben dost bâgı bülbüliyem ol bâgçeden geldüm ahî",
           "anlamlar": {
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "dost": "Sevgili, Allah, mürşid",
             "ahî": "Kardeş, fütüvvet ehli"
           }
@@ -27717,6 +27750,7 @@
           "metin": "Gökden inen dört kitâbı günde bin kez okurısan Va'llâh dîdâr görmeyesin sevmezisen dervîşleri",
           "anlamlar": {
             "kez": "Defa, kere",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "dervîşleri": "Yoksul, mütevazî kişi, tarikate girmiş kimse"
           }
         },
@@ -28524,6 +28558,7 @@
             "işk": "Aşk, candan sevme, sevgi",
             "nazar": "Göz atmak, yan bakmak, tetkik",
             "âşık": "Seven, Allah aşığı",
+            "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "gönüller": "Gönül, yürek, kalp, fuad",
             "şâr": "Şehir"
           }
@@ -29260,7 +29295,8 @@
           "numara": 4,
           "metin": "Vücûda gelmeyince kimse Hakk'ı bilmedi Bu vücûddan gösterdi dost bize dîdârını",
           "anlamlar": {
-            "dost": "Sevgili, Allah, mürşid"
+            "dost": "Sevgili, Allah, mürşid",
+            "dîdârını": "Yüz, Allah'ın cemali, vuslat"
           }
         },
         {
@@ -29291,7 +29327,7 @@
           "numara": 8,
           "metin": "Kâlu belî dinildi münkir-muhib bilindi O demden duta geldi câhiller inkârını",
           "anlamlar": {
-            "münkir": "İnkarcı",
+            "münkir": "İnkarcı, inanmayan",
             "muhib": "Seven, sevgi besleyen, dost",
             "demden": "An, zamân, vakit, soluk, nefes"
           }
@@ -29554,6 +29590,7 @@
           "metin": "Her kim ol dost dîdârını bunda ‘ıyân görmezise Yarın ol ser-gerdân geze hîç bilmeye n'itdügini",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
+            "dîdârını": "Yüz, Allah'ın cemali, vuslat",
             "gerdân": "Dönen, dönücü"
           }
         },

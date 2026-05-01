@@ -208,7 +208,7 @@ function toOttoman(text){
 let data=null,currentPoem=null,currentSection='all',isOttoman=false;
 
 async function init(){
-  const r=await fetch('data/divan_annotated.json?v=17');
+  const r=await fetch('data/divan_annotated.json?v=18');
   data=await r.json();
   buildSidebar();
   showSearchView();
