@@ -53,8 +53,8 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 .beyit .copy-btn:hover{opacity:1;background:var(--border)}
 .beyit .copy-btn.copied{opacity:1;color:var(--accent)}
 .beyit .ai-btns{position:absolute;top:.6rem;right:2.2rem;display:flex;gap:.2rem}
-.beyit .ai-btns a{font-size:.65rem;opacity:.4;padding:.2rem .4rem;border-radius:4px;text-decoration:none;color:var(--muted);transition:opacity .2s}
-.beyit .ai-btns a:hover{opacity:1;background:var(--border)}
+.beyit .ai-btns a,.beyit .ai-btns button{font-size:.65rem;opacity:.4;padding:.2rem .4rem;border-radius:4px;text-decoration:none;color:var(--muted);transition:opacity .2s;background:none;border:none;cursor:pointer}
+.beyit .ai-btns a:hover,.beyit .ai-btns button:hover{opacity:1;background:var(--border)}
 .beyit .num{color:var(--gold);font-weight:700;font-size:.75rem;margin-bottom:.3rem}
 .beyit .text{font-size:1.1rem;line-height:2.2;direction:ltr;min-height:4.4em}
 .beyit .text.ottoman{direction:rtl;font-family:'Noto Naskh Arabic','Traditional Arabic','Amiri',serif;font-size:1.3rem;line-height:2.2;min-height:4.4em}
@@ -123,6 +123,7 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 <div class="poem-header">
 <h1 id="poem-title"></h1>
 <div class="meta" id="poem-meta"></div>
+<button onclick="speakAll()" style="margin-top:.5rem;padding:.3rem .8rem;border:1px solid var(--border);border-radius:6px;background:var(--card);cursor:pointer;font-size:.8rem">🔊 Tümünü Oku</button>
 </div>
 <div id="beyitler"></div>
 <div class="poem-nav-arrows" style="margin-top:1.5rem">
@@ -329,7 +330,7 @@ function renderBeyitler(){
     } else {
       textHtml=html1+'<br>'+html2;
     }
-    return`<div class="beyit"><div class="num">${b.numara}</div><div class="ai-btns"><a href="https://translate.google.com/?sl=ota&tl=tr&text=${encText}" target="_blank" title="Google Translate">GT</a><a href="https://chatgpt.com/?q=${prompt}" target="_blank" title="ChatGPT'ye sor">GPT</a><a href="https://gemini.google.com/app?q=${prompt}" target="_blank" title="Gemini'ye sor">Gem</a></div><button class="copy-btn" data-text="${copyText.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${textHtml}</div></div>`;
+    return`<div class="beyit"><div class="num">${b.numara}</div><div class="ai-btns"><button onclick="speak('${rawText.replace(/'/g,"\\'")}')" title="Oku">🔊</button><a href="https://translate.google.com/?sl=ota&tl=tr&text=${encText}" target="_blank" title="Google Translate">GT</a><a href="https://chatgpt.com/?q=${prompt}" target="_blank" title="ChatGPT'ye sor">GPT</a><a href="https://gemini.google.com/app?q=${prompt}" target="_blank" title="Gemini'ye sor">Gem</a></div><button class="copy-btn" data-text="${copyText.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${textHtml}</div></div>`;
   }).join('');
 }
 
@@ -427,6 +428,19 @@ document.getElementById('share-cp').onclick=()=>{
     setTimeout(()=>{btn.textContent='⎘ Kopyala'},1500);
   });
 };
+
+// TTS
+function speak(text){
+  speechSynthesis.cancel();
+  const u=new SpeechSynthesisUtterance(text);
+  u.lang='tr-TR';u.rate=0.85;
+  speechSynthesis.speak(u);
+}
+function speakAll(){
+  if(!currentPoem)return;
+  const text=currentPoem.beyitler.map(b=>b.metin).join('. ');
+  speak(text);
+}
 
 // Disqus
 var disqus_loaded=false;
