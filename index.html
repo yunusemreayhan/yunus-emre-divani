@@ -48,7 +48,10 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 .poem-nav-arrows button:hover{background:var(--hover-bg)}
 .poem-nav-arrows button:disabled{opacity:.3;cursor:default}
 /* BEYIT */
-.beyit{margin-bottom:1.2rem;padding:1rem;background:var(--card);border-radius:10px;border-left:4px solid var(--accent2);box-shadow:0 1px 4px rgba(0,0,0,.04)}
+.beyit{margin-bottom:1.2rem;padding:1rem;background:var(--card);border-radius:10px;border-left:4px solid var(--accent2);box-shadow:0 1px 4px rgba(0,0,0,.04);position:relative}
+.beyit .copy-btn{position:absolute;top:.6rem;right:.6rem;background:none;border:none;color:var(--muted);cursor:pointer;font-size:.75rem;opacity:.4;transition:opacity .2s;padding:.2rem .4rem;border-radius:4px}
+.beyit .copy-btn:hover{opacity:1;background:var(--border)}
+.beyit .copy-btn.copied{opacity:1;color:var(--accent)}
 .beyit .num{color:var(--gold);font-weight:700;font-size:.75rem;margin-bottom:.3rem}
 .beyit .text{font-size:1.1rem;line-height:2.2;direction:ltr;min-height:4.4em}
 .beyit .text.ottoman{direction:rtl;font-family:'Noto Naskh Arabic','Traditional Arabic','Amiri',serif;font-size:1.3rem;line-height:2.2;min-height:4.4em}
@@ -65,6 +68,15 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 .poem-list .item .preview{font-size:.8rem;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .empty{text-align:center;color:var(--muted);padding:3rem}
 /* RESPONSIVE */
+.share-section{margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--border);text-align:center}
+.share-section p{font-size:.8rem;color:var(--muted);margin-bottom:.6rem}
+.share-btns{display:flex;gap:.5rem;justify-content:center;flex-wrap:wrap}
+.share-btns a{display:inline-flex;align-items:center;gap:.3rem;padding:.4rem .8rem;border-radius:6px;font-size:.8rem;text-decoration:none;color:#fff;transition:opacity .2s}
+.share-btns a:hover{opacity:.85}
+.share-btns .tw{background:#1da1f2}
+.share-btns .fb{background:#1877f2}
+.share-btns .wa{background:#25d366}
+.share-btns .cp{background:var(--muted);cursor:pointer}
 @media(max-width:600px){
   nav{padding:.4rem .6rem}
   nav .brand{font-size:.9rem}
@@ -111,6 +123,15 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 <div class="poem-nav-arrows" style="margin-top:1.5rem">
 <button id="prev-btn2">← Önceki</button>
 <button id="next-btn2">Sonraki →</button>
+</div>
+<div class="share-section" id="share-section">
+<p>Bu şiiri paylaş</p>
+<div class="share-btns">
+<a class="tw" id="share-tw" target="_blank">𝕏 Twitter</a>
+<a class="fb" id="share-fb" target="_blank">f Facebook</a>
+<a class="wa" id="share-wa" target="_blank">◉ WhatsApp</a>
+<a class="cp" id="share-cp">⎘ Kopyala</a>
+</div>
 </div>
 </div>
 </main>
@@ -253,6 +274,7 @@ function showPoem(num){
   document.getElementById('poem-meta').textContent=meta;
   renderBeyitler();
   updateNavButtons();
+  updateShareLinks();
   updateSidebarList();
   window.scrollTo(0,0);
 }
@@ -282,7 +304,7 @@ function renderBeyitler(){
     const[misra1,misra2]=splitBeyit(b.metin);
     const html1=renderWords(misra1,b.anlamlar||{});
     const html2=renderWords(misra2,b.anlamlar||{});
-    return`<div class="beyit"><div class="num">${b.numara}</div><div class="text${isOttoman?' ottoman':''}">${html1}<br>${html2}</div></div>`;
+    return`<div class="beyit"><div class="num">${b.numara}</div><button class="copy-btn" data-text="${misra1.replace(/"/g,'&quot;')}\n${misra2.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${html1}<br>${html2}</div></div>`;
   }).join('');
 }
 
@@ -333,6 +355,38 @@ document.getElementById('script-btn').onclick=()=>{
   document.getElementById('script-btn').textContent=isOttoman?'A':'ع';
   document.getElementById('script-btn').classList.toggle('active',isOttoman);
   if(currentPoem)renderBeyitler();
+};
+
+// Copy beyit button (delegated)
+document.getElementById('beyitler').addEventListener('click',e=>{
+  const btn=e.target.closest('.copy-btn');
+  if(!btn)return;
+  navigator.clipboard.writeText(btn.dataset.text).then(()=>{
+    btn.textContent='✓';btn.classList.add('copied');
+    setTimeout(()=>{btn.textContent='⎘';btn.classList.remove('copied')},1500);
+  });
+});
+
+// Share buttons
+function updateShareLinks(){
+  if(!currentPoem)return;
+  const firstLine=currentPoem.beyitler[0]?.metin.slice(0,80)||'';
+  const title=`Yûnus Emre - ${currentPoem.numara}. Şiir`;
+  const url=location.href;
+  const text=`${title}\n\n${firstLine}...\n\n`;
+  document.getElementById('share-tw').href=`https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+  document.getElementById('share-fb').href=`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}&quote=${encodeURIComponent(text)}`;
+  document.getElementById('share-wa').href=`https://wa.me/?text=${encodeURIComponent(text+url)}`;
+}
+document.getElementById('share-cp').onclick=()=>{
+  if(!currentPoem)return;
+  const full=currentPoem.beyitler.map(b=>b.metin).join('\n');
+  const text=`Yûnus Emre - ${currentPoem.numara}. Şiir\n\n${full}`;
+  navigator.clipboard.writeText(text).then(()=>{
+    const btn=document.getElementById('share-cp');
+    btn.textContent='✓ Kopyalandı';
+    setTimeout(()=>{btn.textContent='⎘ Kopyala'},1500);
+  });
 };
 
 // Keyboard nav
