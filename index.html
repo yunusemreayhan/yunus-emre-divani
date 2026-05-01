@@ -116,21 +116,67 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 </main>
 
 <script>
-// Ottoman transliteration map (simplified Latin→Arabic)
-const OTT_MAP={'a':'ا','â':'آ','b':'ب','c':'ج','ç':'چ','d':'د','e':'ه','f':'ف','g':'گ','ğ':'غ','h':'ح','ı':'ی','i':'ی','î':'ای','j':'ژ','k':'ک','l':'ل','m':'م','n':'ن','o':'و','ö':'و','p':'پ','r':'ر','s':'س','ş':'ش','t':'ت','u':'و','ü':'و','û':'او','v':'و','y':'ی','z':'ز','\'':'ع'};
+// Ottoman Turkish transliteration (Latin → Arabic script)
+// Ottoman uses Arabic alphabet with Persian additions (پ چ ژ گ)
+// Vowels are largely omitted except at word boundaries
+const OTT = {
+  'a':'ا','â':'آ','b':'ب','c':'ج','ç':'چ','d':'د','e':'','f':'ف',
+  'g':'گ','ğ':'غ','h':'ح','ı':'','i':'','î':'ی','j':'ژ','k':'ک',
+  'l':'ل','m':'م','n':'ن','o':'','ö':'','p':'پ','r':'ر','s':'س',
+  'ş':'ش','t':'ت','u':'','ü':'','û':'و','v':'و','y':'ی','z':'ز'
+};
 
+// More accurate: map whole words/common patterns where possible
+// For display purposes, use a simplified but readable approach:
+// - Keep consonant skeleton with key vowels
 function toOttoman(text){
-  // Simple transliteration - not perfect but gives the feel
-  let result='';
-  const lower=text.toLowerCase();
-  for(let i=0;i<lower.length;i++){
-    const ch=lower[i];
-    if(OTT_MAP[ch])result+=OTT_MAP[ch];
-    else if(ch===' ')result+=' ';
-    else if(ch==='\n')result+='\n';
-    else result+=ch;
-  }
-  return result;
+  const words = text.split(/(\s+)/);
+  return words.map(w => {
+    if(/^\s+$/.test(w)) return w;
+    let result = '';
+    const lower = w.toLowerCase();
+    let i = 0;
+    while(i < lower.length) {
+      const ch = lower[i];
+      // Initial/final alef for 'a' sounds
+      if((ch==='a'||ch==='â') && (i===0||i===lower.length-1)) { result+='ا'; i++; continue; }
+      if(ch==='â') { result+='آ'; i++; continue; }
+      // Ayn for opening apostrophe
+      if(ch==="'") { result+='ع'; i++; continue; }
+      // Consonants
+      if(ch==='b') result+='ب';
+      else if(ch==='c') result+='ج';
+      else if(ch==='ç') result+='چ';
+      else if(ch==='d') result+='د';
+      else if(ch==='f') result+='ف';
+      else if(ch==='g') result+='گ';
+      else if(ch==='ğ') result+='غ';
+      else if(ch==='h') result+='ح';
+      else if(ch==='k') result+='ک';
+      else if(ch==='l') result+='ل';
+      else if(ch==='m') result+='م';
+      else if(ch==='n') result+='ن';
+      else if(ch==='p') result+='پ';
+      else if(ch==='r') result+='ر';
+      else if(ch==='s') result+='س';
+      else if(ch==='ş') result+='ش';
+      else if(ch==='t') result+='ت';
+      else if(ch==='v') result+='و';
+      else if(ch==='y') result+='ی';
+      else if(ch==='z') result+='ز';
+      else if(ch==='j') result+='ژ';
+      // Vowels: write vav for o/u/ö/ü, ye for i/ı at end, alef for a at start
+      else if(ch==='o'||ch==='u'||ch==='ö'||ch==='ü'||ch==='û') result+='و';
+      else if((ch==='i'||ch==='ı'||ch==='î') && (i===lower.length-1)) result+='ی';
+      else if(ch==='î') result+='ی';
+      else if(ch==='e' && i===0) result+='ا';
+      // Other vowels in middle: skip (Ottoman convention)
+      else if('aeıiöü'.includes(ch)) { /* skip mid vowels */ }
+      else result += ch;
+      i++;
+    }
+    return result;
+  }).join('');
 }
 
 let data=null,currentPoem=null,currentSection='all',isOttoman=false;
