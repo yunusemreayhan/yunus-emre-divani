@@ -233,6 +233,7 @@ EXTRA_MEANINGS = {
     'fermânam': 'Emrine uyarım, buyruğundayım',
     'fâyide': 'Fayda',
     'dutmazısa': 'Tutmazsa, uymazsa',
+    'bınar': 'Pınar, kaynak, gözyaşı kaynağı',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }

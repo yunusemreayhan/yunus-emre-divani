@@ -1076,7 +1076,8 @@
           "numara": 7,
           "metin": "Miskîn Yûnusun dünyede güldügini işitmeyin Agladugum isteyene gözüm bınar olsun ana",
           "anlamlar": {
-            "miskîn": "Yoksul, alçakgönüllü, benliksiz"
+            "miskîn": "Yoksul, alçakgönüllü, benliksiz",
+            "bınar": "Pınar, kaynak, gözyaşı kaynağı"
           }
         }
       ]
@@ -6820,7 +6821,8 @@
           "metin": "Hocam ‘âşık olanlarun işi âhıla zâr olur Hasretinden ol ma'şûkun gözi yaşı bınar olur",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
-            "zâr": "Ağlayış, inleme"
+            "zâr": "Ağlayış, inleme",
+            "bınar": "Pınar, kaynak, gözyaşı kaynağı"
           }
         },
         {
@@ -20547,6 +20549,7 @@
           "metin": "İy dost seni sevelden ‘aklum gitdi kaldum ben Bınarları terk idüp denizlere taldum ben Bir zerre ‘ışkun odı kaynadur denizleri Düşdüm ‘ışkun odına tutuşuban yandum ben",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
+            "bınarları": "Pınar, kaynak, gözyaşı kaynağı",
             "terk": "Bırakmak, vazgeçmek",
             "zerre": "Çok küçük parça, atom"
           }
@@ -21430,7 +21433,9 @@
         {
           "numara": 7,
           "metin": "Dirildük bınar olduk irkildük ırmag olduk Akduk denize tolduk taşduk el-hamdüli'llâh",
-          "anlamlar": {}
+          "anlamlar": {
+            "bınar": "Pınar, kaynak, gözyaşı kaynağı"
+          }
         },
         {
           "numara": 8,
@@ -26264,7 +26269,8 @@
           "numara": 11,
           "metin": "İlerü vardı Mûsâ la‘în oturmış aglar Gözinün yaşıyımış ol su bınar eyledi",
           "anlamlar": {
-            "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi"
+            "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi",
+            "bınar": "Pınar, kaynak, gözyaşı kaynağı"
           }
         },
         {
