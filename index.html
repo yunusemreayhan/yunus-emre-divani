@@ -134,6 +134,7 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 <a class="cp" id="share-cp">⎘ Kopyala</a>
 </div>
 </div>
+<div id="disqus_thread" style="margin-top:2rem"></div>
 </div>
 </main>
 
@@ -276,6 +277,7 @@ function showPoem(num){
   renderBeyitler();
   updateNavButtons();
   updateShareLinks();
+  loadDisqus();
   updateSidebarList();
   window.scrollTo(0,0);
 }
@@ -390,6 +392,19 @@ document.getElementById('share-cp').onclick=()=>{
     setTimeout(()=>{btn.textContent='⎘ Kopyala'},1500);
   });
 };
+
+// Disqus
+var disqus_loaded=false;
+function loadDisqus(){
+  if(!currentPoem)return;
+  if(!disqus_loaded){
+    disqus_loaded=true;
+    window.disqus_config=function(){this.page.url=location.origin+location.pathname+'#poem-'+currentPoem.numara;this.page.identifier='poem-'+currentPoem.numara;};
+    var s=document.createElement('script');s.src='https://yunus-emre-divani.disqus.com/embed.js';s.setAttribute('data-timestamp',+new Date());document.body.appendChild(s);
+  } else if(window.DISQUS){
+    DISQUS.reset({reload:true,config:function(){this.page.url=location.origin+location.pathname+'#poem-'+currentPoem.numara;this.page.identifier='poem-'+currentPoem.numara;}});
+  }
+}
 
 // Keyboard nav
 document.onkeydown=(e)=>{
