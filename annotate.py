@@ -191,6 +191,8 @@ EXTRA_MEANINGS = {
     'eydur': 'Der, söyler',
     'eyitdi': 'Söyledi, dedi',
     'eyit': 'Söyle, de',
+    'eyitmesün': 'Söylemesin, demesin',
+    'eyitdiler': 'Söylediler, dediler',
     'eydürem': 'Derim, söylerim',
     'düte': 'Tüte, yana, yanar',
     'sünük': 'Kemik',

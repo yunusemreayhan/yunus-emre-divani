@@ -148,7 +148,8 @@
           "anlamlar": {
             "erkân": "Rükûnlar, direkler, esaslar, âdet, töre",
             "kamusı": "Hepsi, tamamı",
-            "işkdan": "Aşk, candan sevme, sevgi"
+            "işkdan": "Aşk, candan sevme, sevgi",
+            "eyitmesün": "Söylemesin, demesin"
           }
         },
         {
@@ -866,6 +867,7 @@
           "numara": 4,
           "metin": "Eyitmesün çogaç togar etüm-tenüm üşütmeye Çün vücûdun delük degül şu'le irmez günden ana",
           "anlamlar": {
+            "eyitmesün": "Söylemesin, demesin",
             "çogaç": "Gün, güneş",
             "delük": "Delik, açık",
             "irmez": "Erişmez, ulaşmaz",
@@ -1202,7 +1204,7 @@
           "metin": "‘Âlimlere sordum nedür dermân günâhlu derdüme Anlar dahı eyitdiler dermân ana yine Çalap",
           "anlamlar": {
             "anlar": "Onlar",
-            "eyitdiler": "Söyledi, dedi",
+            "eyitdiler": "Söylediler, dediler",
             "çalap": "Tanrı, Allah"
           }
         },
@@ -22703,6 +22705,7 @@
           "anlamlar": {
             "dün": "Gece",
             "nişân": "Alâmet, iz, belirti, eser",
+            "eyitmesün": "Söylemesin, demesin",
             "kusûr": "Kasrlar, köşkler"
           }
         },
