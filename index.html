@@ -97,6 +97,7 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 <div class="spacer"></div>
 <input type="number" id="goto-num" min="1" max="417" placeholder="#" style="width:50px;padding:.3rem .4rem;border:1px solid rgba(255,255,255,.3);border-radius:5px 0 0 5px;background:rgba(255,255,255,.15);color:#fff;font-size:.85rem;text-align:center" title="Şiir numarasına git"><button id="goto-btn" style="padding:.3rem .5rem;border:1px solid rgba(255,255,255,.3);border-left:none;border-radius:0 5px 5px 0;background:rgba(255,255,255,.25);color:#fff;cursor:pointer;font-size:.75rem">Git</button>
 <button id="script-btn" title="Osmanlıca / Latin">ع</button>
+<button id="lines-btn" title="Mısra sayısı: 2/4">2</button>
 </nav>
 
 <div class="overlay" id="overlay"></div>
@@ -205,7 +206,7 @@ function toOttoman(text){
   }).join('');
 }
 
-let data=null,currentPoem=null,currentPoemIdx=-1,currentSection='all',isOttoman=false;
+let data=null,currentPoem=null,currentPoemIdx=-1,currentSection='all',isOttoman=false,linesMode=2;
 
 async function init(){
   const r=await fetch('data/divan_annotated.json?t='+Date.now());
@@ -320,7 +321,15 @@ function renderBeyitler(){
     const prompt=encodeURIComponent('Bu eski Türkçe beyiti günümüz Türkçesine çevir ve açıkla: '+rawText);
     const meanings=Object.entries(b.anlamlar||{}).map(([k,v])=>k+': '+v).join(', ');
     const copyText=misra1+'\n'+misra2+(meanings?'\n\n📖 '+meanings:'');
-    return`<div class="beyit"><div class="num">${b.numara}</div><div class="ai-btns"><a href="https://translate.google.com/?sl=ota&tl=tr&text=${encText}" target="_blank" title="Google Translate">GT</a><a href="https://chatgpt.com/?q=${prompt}" target="_blank" title="ChatGPT'ye sor">GPT</a><a href="https://gemini.google.com/app?q=${prompt}" target="_blank" title="Gemini'ye sor">Gem</a></div><button class="copy-btn" data-text="${copyText.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${html1}<br>${html2}</div></div>`;
+    let textHtml;
+    if(linesMode===4){
+      const[m1a,m1b]=splitBeyit(misra1);
+      const[m2a,m2b]=splitBeyit(misra2);
+      textHtml=[m1a,m1b,m2a,m2b].map(m=>renderWords(m,b.anlamlar||{})).join('<br>');
+    } else {
+      textHtml=html1+'<br>'+html2;
+    }
+    return`<div class="beyit"><div class="num">${b.numara}</div><div class="ai-btns"><a href="https://translate.google.com/?sl=ota&tl=tr&text=${encText}" target="_blank" title="Google Translate">GT</a><a href="https://chatgpt.com/?q=${prompt}" target="_blank" title="ChatGPT'ye sor">GPT</a><a href="https://gemini.google.com/app?q=${prompt}" target="_blank" title="Gemini'ye sor">Gem</a></div><button class="copy-btn" data-text="${copyText.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${textHtml}</div></div>`;
   }).join('');
 }
 
@@ -374,6 +383,13 @@ document.getElementById('script-btn').onclick=()=>{
   isOttoman=!isOttoman;
   document.getElementById('script-btn').textContent=isOttoman?'A':'ع';
   document.getElementById('script-btn').classList.toggle('active',isOttoman);
+  if(currentPoem)renderBeyitler();
+};
+
+// Lines mode toggle (2/4)
+document.getElementById('lines-btn').onclick=()=>{
+  linesMode=linesMode===2?4:2;
+  document.getElementById('lines-btn').textContent=linesMode;
   if(currentPoem)renderBeyitler();
 };
 
