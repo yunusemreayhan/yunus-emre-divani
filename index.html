@@ -288,17 +288,17 @@ function countSyllables(text){
 }
 
 function splitBeyit(text){
-  // Split beyit into two mısra based on syllable count (half point)
+  // Split beyit into two mısra at the word boundary closest to half syllable count
   const totalSyl=countSyllables(text);
   const target=Math.round(totalSyl/2);
   const words=text.split(/\s+/);
-  let sylCount=0, splitIdx=0;
+  let sylCount=0, bestIdx=Math.ceil(words.length/2), bestDiff=Infinity;
   for(let i=0;i<words.length;i++){
     sylCount+=countSyllables(words[i]);
-    if(sylCount>=target){splitIdx=i+1;break}
+    const diff=Math.abs(sylCount-target);
+    if(diff<bestDiff){bestDiff=diff;bestIdx=i+1;}
   }
-  if(splitIdx===0)splitIdx=Math.ceil(words.length/2);
-  return[words.slice(0,splitIdx).join(' '),words.slice(splitIdx).join(' ')];
+  return[words.slice(0,bestIdx).join(' '),words.slice(bestIdx).join(' ')];
 }
 
 function renderBeyitler(){
