@@ -285,7 +285,9 @@
         {
           "numara": 11,
           "metin": "Sekiz Uçmagun Hûrîsi eger bezenüp geleler Senün sevgünden özgeyi gönlüm hîç kabûl itmeye",
-          "anlamlar": {}
+          "anlamlar": {
+            "özgeyi": "Başkasını, gayrısını"
+          }
         },
         {
           "numara": 12,
@@ -7827,7 +7829,7 @@
             "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
             "miskînlikdür": "Metinde “Fenafillah”, benlik terki anlamlarındadır",
             "miskînlikden": "Metinde “Fenafillah”, benlik terki anlamlarındadır",
-            "özge": "Başka",
+            "özge": "Başka, gayrı, farklı",
             "mülk": "Elde bulunan, tasarruf olunan şeyler",
             "şâr": "Şehir"
           }
@@ -8032,7 +8034,7 @@
           "numara": 4,
           "metin": "Yûnus eydür hey sultânum özge şânum vardur benüm Ko dünyâ altûn gümişin ne bakır u tuncındayuz",
           "anlamlar": {
-            "özge": "Başka"
+            "özge": "Başka, gayrı, farklı"
           }
         }
       ]
@@ -9055,7 +9057,7 @@
           "numara": 9,
           "metin": "Dilerem fazlundan ayurmayasın Hocam senden özge sevmezem ayruk",
           "anlamlar": {
-            "özge": "Başka",
+            "özge": "Başka, gayrı, farklı",
             "ayruk": "Başka, artık, gayrı"
           }
         },
@@ -10920,7 +10922,7 @@
           "numara": 3,
           "metin": "Mâlunı özge kişi yir sen var anda hisâbın vir Sinün hemân bir adım yir gel gör âhir nedür bu fâl",
           "anlamlar": {
-            "özge": "Başka",
+            "özge": "Başka, gayrı, farklı",
             "yir": "Yer, yeryüzü",
             "hemân": "Aynı şekilde, öylece, derhâl"
           }
@@ -17450,7 +17452,7 @@
           "numara": 1,
           "metin": "Dervîşlerün yolına sıdkıla gelen gelsün Hak'dan özge nesneyi gönlinden süren gelsün",
           "anlamlar": {
-            "özge": "Başka"
+            "özge": "Başka, gayrı, farklı"
           }
         },
         {

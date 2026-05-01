@@ -146,6 +146,8 @@ EXTRA_MEANINGS = {
     'ögüme': 'Aklıma, zihnime',
     'ögüni': 'Aklını, zihnini',
     'ögin': 'Aklını, zihnini',
+    'özge': 'Başka, gayrı, farklı',
+    'özgeyi': 'Başkasını, gayrısını',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
