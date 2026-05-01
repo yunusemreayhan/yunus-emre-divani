@@ -465,6 +465,7 @@
           "metin": "Çün ‘Azrâîl'i ne tuta assı kılmaz ana ata Kimse döymez o heybete halkdan meded irmez ola",
           "anlamlar": {
             "assı": "Fayda, menfaat, kazanç",
+            "döymez": "Dayanamaz, tahammül edemez",
             "irmez": "Erişmez, ulaşmaz"
           }
         },
@@ -3844,7 +3845,8 @@
           "anlamlar": {
             "çokal": "Eskiden savaşlarda atlara giydirilen çelik zırh",
             "cevşen": "Zırh, savaş elbisesi",
-            "ışk": "Aşk, ilahi sevgi"
+            "ışk": "Aşk, ilahi sevgi",
+            "döymez": "Dayanamaz, tahammül edemez"
           }
         },
         {
@@ -17163,7 +17165,9 @@
         {
           "numara": 6,
           "metin": "Sözdür söylenür araya kimse döymez bu yaraya İltüp bizi makbereye koyanlara selâm olsun",
-          "anlamlar": {}
+          "anlamlar": {
+            "döymez": "Dayanamaz, tahammül edemez"
+          }
         },
         {
           "numara": 7,
@@ -22742,6 +22746,7 @@
           "numara": 1,
           "metin": "Kimse döymez bu nazara ‘ışkıla kim pençe ura Bu nazara karşu duran hânumânın garka vire",
           "anlamlar": {
+            "döymez": "Dayanamaz, tahammül edemez",
             "ışkıla": "Aşk, ilahi sevgi"
           }
         },
@@ -26966,6 +26971,7 @@
           "metin": "Tecellîyâtun nûrına döymez vücûdum tagları Cismüm gemisinün zîrâ muhkem degüldür bagları",
           "anlamlar": {
             "nûrına": "Işık, aydınlık",
+            "döymez": "Dayanamaz, tahammül edemez",
             "tagları": "Dağ",
             "muhkem": "Sıkı, sağlam, kuvvetli, berk, sağlamlaştırılmış",
             "degüldür": "Değil"

@@ -261,6 +261,8 @@ EXTRA_MEANINGS = {
     'bigi': 'Gibi, benzer',
     'talbınma': 'Çırpınma, çabalama',
     'talbınmak': 'Çırpınmak, sıçramak',
+    'döymez': 'Dayanamaz, tahammül edemez',
+    'döymek': 'Dayanmak, tahammül etmek',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
