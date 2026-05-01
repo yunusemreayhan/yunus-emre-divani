@@ -232,16 +232,16 @@ function buildSidebar(){
 function updateSidebarList(){
   const q=document.getElementById('sidebar-search').value.toLowerCase();
   const ul=document.getElementById('poem-list-nav');
-  const poems=data.şiirler.filter(p=>{
+  const poems=data.şiirler.map((p,i)=>({...p,_idx:i})).filter(p=>{
     if(currentSection!=='all'&&p.bölüm!==currentSection)return false;
     if(q&&!String(p.numara).includes(q)&&!p.beyitler.some(b=>b.metin.toLowerCase().includes(q)))return false;
     return true;
   });
-  ul.innerHTML=poems.map(p=>`<li data-n="${p.numara}" class="${currentPoem&&currentPoem.numara===p.numara?'active':''}">
+  ul.innerHTML=poems.map(p=>`<li data-idx="${p._idx}" class="${currentPoemIdx===p._idx?'active':''}">
     <strong>${p.numara}.</strong> ${p.bölüm}
     <div class="preview">${p.beyitler[0]?.metin.slice(0,50)||''}...</div>
   </li>`).join('');
-  ul.querySelectorAll('li').forEach(li=>li.onclick=()=>{showPoem(+li.dataset.n);closeSidebar()});
+  ul.querySelectorAll('li').forEach(li=>li.onclick=()=>{showPoemByIdx(+li.dataset.idx);closeSidebar()});
 }
 
 function showSearchView(){
@@ -254,29 +254,28 @@ function showSearchView(){
 function renderSearchResults(){
   const q=document.getElementById('main-search').value.toLowerCase().trim();
   const el=document.getElementById('search-results');
-  let poems=data.şiirler;
+  let poems=data.şiirler.map((p,i)=>({...p,_idx:i}));
   if(q){
     poems=poems.filter(p=>String(p.numara)===q||p.beyitler.some(b=>b.metin.toLowerCase().includes(q)));
   }
   if(!poems.length){el.innerHTML='<div class="empty">Sonuç bulunamadı.</div>';return}
-  el.innerHTML=poems.map(p=>`<div class="item" data-n="${p.numara}">
+  el.innerHTML=poems.map(p=>`<div class="item" data-idx="${p._idx}">
     <h3>${p.numara}. Şiir — ${p.bölüm}</h3>
     <div class="preview">${p.beyitler[0]?.metin||''}</div>
   </div>`).join('');
-  el.querySelectorAll('.item').forEach(c=>c.onclick=()=>showPoem(+c.dataset.n));
+  el.querySelectorAll('.item').forEach(c=>c.onclick=()=>showPoemByIdx(+c.dataset.idx));
 }
 
-function showPoem(num){
-  const idx=data.şiirler.findIndex(x=>x.numara===num);
-  if(idx===-1)return;
+function showPoemByIdx(idx){
+  if(idx<0||idx>=data.şiirler.length)return;
   currentPoemIdx=idx;
   currentPoem=data.şiirler[idx];
   document.getElementById('search-view').style.display='none';
   document.getElementById('poem-view').style.display='block';
-  document.getElementById('poem-title').textContent=`${p.numara}. Şiir`;
-  let meta=`Bölüm: ${p.bölüm}`;
-  if(p.vezin)meta+=` · Vezin: ${p.vezin}`;
-  meta+=` · ${p.beyitler.length} beyit`;
+  document.getElementById('poem-title').textContent=`${currentPoem.numara}. Şiir`;
+  let meta=`Bölüm: ${currentPoem.bölüm}`;
+  if(currentPoem.vezin)meta+=` · Vezin: ${currentPoem.vezin}`;
+  meta+=` · ${currentPoem.beyitler.length} beyit`;
   document.getElementById('poem-meta').textContent=meta;
   renderBeyitler();
   updateNavButtons();
@@ -284,6 +283,11 @@ function showPoem(num){
   loadDisqus();
   updateSidebarList();
   window.scrollTo(0,0);
+}
+function showPoem(num){
+  const idx=data.şiirler.findIndex(x=>x.numara===num);
+  if(idx===-1)return;
+  showPoemByIdx(idx);
 }
 
 function countSyllables(text){
