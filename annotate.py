@@ -261,6 +261,8 @@ EXTRA_MEANINGS = {
     'cüneyd': 'Cüneyd-i Bağdadi, tasavvuf büyüğü',
     'yaraklanup': 'Hazırlanıp, yol azığını alıp',
     'ansuzın': 'Ansızın, birdenbire, habersizce',
+    'ferseng': 'Fersah, uzun mesafe (yaklaşık 6 km)',
+    'fersenge': 'Fersaha, uzun mesafeye',
     'bigi': 'Gibi, benzer',
     'talbınma': 'Çırpınma, çabalama',
     'talbınmak': 'Çırpınmak, sıçramak',
