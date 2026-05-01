@@ -15,6 +15,7 @@ def load_data():
 def normalize(word):
     """Normalize a word for glossary lookup."""
     w = word.lower().strip("'\".,;:!?()-–")
+    w = w.replace("'", "")  # remove mid-word apostrophes too
     return w
 
 def shorten(meaning):
