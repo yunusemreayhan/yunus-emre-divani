@@ -368,7 +368,8 @@
           "metin": "Her dem yüzüm yire uram Allah'uma şükür kılam Ben benligüm dosta virem ne da'vî yâ destân ola",
           "anlamlar": {
             "dem": "An, zamân, vakit, soluk, nefes",
-            "yire": "Yere"
+            "yire": "Yere",
+            "da'vî": "İddia, dava"
           }
         },
         {
@@ -2359,7 +2360,8 @@
           "numara": 2,
           "metin": "Ölümden ne korkarsın korkma ebedî varsın Çün kim işe yararsın bu söz fâsid da'vîdür",
           "anlamlar": {
-            "fâsid": "Kötü, fenâ, yanlış, bozuk, fesad çıkaran"
+            "fâsid": "Kötü, fenâ, yanlış, bozuk, fesad çıkaran",
+            "da'vîdür": "İddia, dava"
           }
         },
         {
@@ -2732,6 +2734,7 @@
           "anlamlar": {
             "şerî'at": "Dinin zahiri kuralları",
             "bahis": "İddiali söz, noksan",
+            "da'vî": "İddia, dava",
             "hakîkat": "Gerçek, öz",
             "erenleri": "Evliyâ, ermiş kişi"
           }
@@ -3434,6 +3437,7 @@
           "metin": "‘Azâzîl da'vî kıldı da'vîsi yalan oldı Yalan da'vî kılanlarun pes cezâsı ‘azâb durur",
           "anlamlar": {
             "azâzîl": "Şeytân, İblîsin bir adı",
+            "da'vî": "İddia, dava",
             "pes": "O halde, öyle ise"
           }
         },
@@ -7732,6 +7736,7 @@
           "numara": 1,
           "metin": "Bu bir ‘acâyib hâldür bu hâle kimse irmez ‘Âlimler da'vî kılur velî degme göz görmez",
           "anlamlar": {
+            "da'vî": "İddia, dava",
             "velî": "Ermiş, seven, dost, sahib",
             "degme": "Herhangi, her bir, her, rastgele"
           }
@@ -18651,7 +18656,8 @@
           "numara": 7,
           "metin": "İy Yûnus'ı yaradan hicâb götür aradan Sâdıkam yolunda ben yalan da'vî kılmazın",
           "anlamlar": {
-            "hicâb": "Örtü, perde, utanma, sakınma"
+            "hicâb": "Örtü, perde, utanma, sakınma",
+            "da'vî": "İddia, dava"
           }
         }
       ]

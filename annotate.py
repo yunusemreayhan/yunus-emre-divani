@@ -148,6 +148,10 @@ EXTRA_MEANINGS = {
     'ögin': 'Aklını, zihnini',
     'özge': 'Başka, gayrı, farklı',
     'özgeyi': 'Başkasını, gayrısını',
+    'da\'vî': 'İddia, dava',
+    'da\'vîden': 'İddiadan, davadan',
+    'da\'vîsin': 'İddiasını, davasını',
+    'da\'vî kılmak': 'İddia etmek',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
