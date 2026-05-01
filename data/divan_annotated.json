@@ -845,7 +845,7 @@
           "numara": 2,
           "metin": "Şeddâd yapdı Uçmagını girmedin aldı cânını Bir dem amân virdürmedi yidi iklîm dutan ana",
           "anlamlar": {
-            "şeddâd": "Yemen'de yaptırdığı büyük binalarla ve “İrem Bağı” ile şöhret kazanmış",
+            "şeddâd": "Cennet benzeri bahçe yaptıran, tanrılık iddia eden hükümdar",
             "uçmagını": "Cennet",
             "cânını": "Cism-i latif",
             "dem": "An, zamân, vakit, soluk, nefes"
@@ -1000,7 +1000,7 @@
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
             "dehrî": "Maddeci, ruha, ahrete, manevî şeylere inanmayan kişi",
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -1357,7 +1357,7 @@
           "numara": 2,
           "metin": "Sen Süleymân köşkinde taht kurup oturdun bil Dîv ü perîye düp-düz hükümler eyledün tut",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz",
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden",
             "taht": "Yer",
             "bil": "Bel",
             "dîv": "Şeytân, cin"
@@ -1367,9 +1367,11 @@
           "numara": 3,
           "metin": "Sen Ferîdûn haznesin Nûşirevân gencile Kârûn mâlını dahı sen mâluna katdun tut",
           "anlamlar": {
+            "ferîdûn": "Efsanevi İran hükümdarı, adalet ve zenginlik sembolü",
             "haznesin": "Hazine'den bozulmadır",
+            "nûşirevân": "Adaletiyle ünlü eski İran hükümdarı",
             "gencile": "Hazine, define",
-            "kârûn": "Musâ devrinde yaşayan zengin bir kişi"
+            "kârûn": "Musa devrinde yaşayan, zenginliğiyle mağrur olup yere batan kişi"
           }
         },
         {
@@ -3786,7 +3788,8 @@
             "dem": "An, zamân, vakit, soluk, nefes",
             "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi",
             "münâcâtlar": "Allah'a yalvarma, dua etme",
-            "kibr": "Gurur, gösteriş, benliğini aksettirme"
+            "kibr": "Gurur, gösteriş, benliğini aksettirme",
+            "hâmân": "Firavun'un veziri"
           }
         },
         {
@@ -6631,9 +6634,9 @@
           "numara": 6,
           "metin": "Gehî kan yaş akar Ya'kûb gözinden Geh olur Yûsuf-ı Ken'ân-ı ‘ışkdur",
           "anlamlar": {
-            "ya'kûb": "İsrailoğullarından Yusuf Peygamber'in babası olan peygamber",
+            "ya'kûb": "Yusuf'un babası, hasretle ağlayan peygamber",
             "geh": "Bazan, ara sıra",
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır",
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
             "ken'ân": "Filistin, Yakûb'un doğduğu yer",
             "ışkdur": "Aşk, ilahi sevgi"
           }
@@ -6889,7 +6892,7 @@
           "numara": 1,
           "metin": "Gelmeyen gelmedi sapdı secde eyledi tapdı Bu ‘imâreti kim yapdı bu mülke Süleymân nedür",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -8406,7 +8409,7 @@
           "numara": 4,
           "metin": "Bir niçemüz Hak'dan aldı bir niçemüz Hak'dan toldı Bir niçe Süleymân oldı ‘ışk tahtına binenümüz",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz",
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden",
             "ışk": "Aşk, ilahi sevgi",
             "tahtına": "Yer"
           }
@@ -8544,7 +8547,7 @@
             "çalap": "Tanrı, Allah",
             "viribidi": "Verdi, bıraktı",
             "hod": "Kendi, esasen, bizzat",
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -11778,7 +11781,7 @@
           "numara": 6,
           "metin": "Paşa bu kuş dilidür bunı Süleymân bilür Sana direm iy hâce bu dil tehî dil degül",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz",
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden",
             "tehî": "Boş"
           }
         },
@@ -12424,7 +12427,7 @@
           "numara": 12,
           "metin": "Yûnus bu kuş dilidür bunı süleymân bilür Gerçek eren bu yolda ne didügin sezerem",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz",
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden",
             "eren": "Evliyâ, ermiş kişi"
           }
         }
@@ -12504,7 +12507,7 @@
             "tûr": "Tûr-u Sînâ",
             "cânum": "Canım, ruhum",
             "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi",
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -12845,7 +12848,8 @@
           "metin": "Tûr-ı münâcât bana turdugum yirde olur Benem bugün Bâyezîd uş gizlü sırra geldüm",
           "anlamlar": {
             "tûr": "Tûr-u Sînâ",
-            "münâcât": "Allah'a yakarış, dua"
+            "münâcât": "Allah'a yakarış, dua",
+            "bâyezîd": "Bayezid-i Bistami, büyük sufi"
           }
         },
         {
@@ -13001,7 +13005,7 @@
             "perî": "Melek",
             "dîvler": "Şeytân, cin",
             "yil": "Yel, rüzgar",
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -13509,6 +13513,7 @@
           "numara": 6,
           "metin": "İbrâhîm Edhem vaktı terk itdi tâc u tahtı Allâh ‘ışkına bakdı ol sırrı tuyan benem",
           "anlamlar": {
+            "edhem": "İbrahim Edhem, tahtını terk eden sufi hükümdar",
             "terk": "Bırakmak, vazgeçmek",
             "tâc": "Başlık, maddî ve manevî bir makam işareti",
             "ışkına": "Aşk, ilahi sevgi"
@@ -13665,7 +13670,7 @@
           "numara": 8,
           "metin": "Nemrûd odın İbrâhîm'e ben bâg u bostân eyledüm Küfür yüzinden toguban gine odı yakan benem",
           "anlamlar": {
-            "nemrûd": "Halil İbrahim Peygamber zamânındaki Keldavi hükümdarı olan Nemrud",
+            "nemrûd": "İbrahim Peygamber'i ateşe atan zalim hükümdar",
             "bâg": "Bahçe, büyük bahçe, bostan",
             "bostân": "Bâğçe, yeşillik, bağlık yer"
           }
@@ -13966,7 +13971,7 @@
           "numara": 9,
           "metin": "Eyyûb oldum tenüme cefâ kıldum cânuma Çagurdum Sübhân'uma kurtlar toyurup geldüm",
           "anlamlar": {
-            "eyyûb": "Kur’ân'da adı geçen peygamberlerdendir"
+            "eyyûb": "Sabır sembolü peygamber"
           }
         },
         {
@@ -14300,7 +14305,7 @@
           "numara": 4,
           "metin": "Yûsuf ile çâha inen terâzûya altûn vuran Keffesine basaduran Mısır ıssı sultân benem",
           "anlamlar": {
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır"
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan"
           }
         },
         {
@@ -14317,7 +14322,7 @@
           "metin": "Kâf'dan Kâf'a hükm eyleyen dîvleri hükmine koyan Yile binüp seyrân kılan bu mülke Süleymân benem",
           "anlamlar": {
             "dîvleri": "Şeytân, cin",
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -14707,7 +14712,7 @@
             "yoldaş": "Yol arkadaşı",
             "gönül": "Kalp, yürek, iç dünya",
             "taht": "Yer",
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         }
       ]
@@ -14864,7 +14869,7 @@
             "gâh": "Bazan, ara sıra",
             "mechûl": "Bilinmeyen, gizli kalmış",
             "merdûd": "Reddedilmiş, kovulmuş, sürülmüş",
-            "nemrûd": "Halil İbrahim Peygamber zamânındaki Keldavi hükümdarı olan Nemrud",
+            "nemrûd": "İbrahim Peygamber'i ateşe atan zalim hükümdar",
             "geh": "Bazan, ara sıra",
             "tayyâr": "Hz",
             "perrân": "Uçan, uçarak"
@@ -15035,7 +15040,7 @@
           "metin": "Geh varam Dâvud olam çıkam Süleymân tahtına Geh gine güm-râh olup vaslı koyup hicrân olam",
           "anlamlar": {
             "geh": "Bazan, ara sıra",
-            "süleymân": "İsrailoğullarından Hz",
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden",
             "tahtına": "Yer"
           }
         },
@@ -15885,6 +15890,7 @@
             "ebed": "Sonsuz gelecek",
             "bekâ": "Sonsuzluk, kalıcılık",
             "hay": "Haydi anlamında hitap",
+            "hızır": "Ölümsüzlük suyu içen, darda kalanlara yardım eden",
             "gufrân": "Cenâb-ı Hakk'ın günahları afvı, rahmeti"
           }
         },
@@ -16388,7 +16394,7 @@
           "anlamlar": {
             "îsâ": "Hz",
             "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi",
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır",
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
             "ken'ân": "Filistin, Yakûb'un doğduğu yer",
             "cânlar": "Cism-i latif"
           }
@@ -16954,7 +16960,7 @@
           "numara": 2,
           "metin": "Ya‘kûb'am agladum Yûsuf içün çekdüm firâk Yûsuf'am zindân içinde fazl-ı Rahmân isterem",
           "anlamlar": {
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır",
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
             "firâk": "Ayrılık",
             "fazl": "Fazilet, olgunluk, iman ve cömertlik",
             "rahmân": "Çok acıyan, esirgeyen, merhamet eden"
@@ -18174,6 +18180,7 @@
           "numara": 5,
           "metin": "Koyup İbrâhîm Edhem tâc u tahtı Yiri külhân olupdur ‘ışk elinden",
           "anlamlar": {
+            "edhem": "İbrahim Edhem, tahtını terk eden sufi hükümdar",
             "tâc": "Başlık, maddî ve manevî bir makam işareti",
             "yiri": "Yeri",
             "külhân": "Hamam ocağı",
@@ -18203,7 +18210,7 @@
           "numara": 8,
           "metin": "Ne gördi Züleyhâ Yûsuf yüzinde İşi efgân olupdur ‘ışk elinden",
           "anlamlar": {
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır",
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
             "efgân": "Feryat, ağlayıp bağırma",
             "ışk": "Aşk, ilahi sevgi"
           }
@@ -18923,8 +18930,8 @@
             "esen": "Sağ, salim, rahat, mes'ut",
             "yil": "Yel, rüzgar",
             "dîvler": "Şeytân, cin",
-            "belkîs": "Saba melikesi",
-            "süleymân": "İsrailoğullarından Hz"
+            "belkîs": "Saba melikesi, Süleyman'ın daveti ile iman eden",
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -18932,7 +18939,7 @@
           "metin": "Yüzünden gün tutılur ay togmaya utanur Gören heybete kalur Yûsuf-ı Ken'ân mısın",
           "anlamlar": {
             "gün": "Gündüz, güneş",
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır",
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
             "ken'ân": "Filistin, Yakûb'un doğduğu yer"
           }
         },
@@ -18958,7 +18965,8 @@
           "anlamlar": {
             "cân": "Can, ruh, hayat",
             "dîdâr": "Yüz, Allah'ın cemali, vuslat",
-            "baş": "Yasa"
+            "baş": "Yasa",
+            "edhem": "İbrahim Edhem, tahtını terk eden sufi hükümdar"
           }
         },
         {
@@ -19190,8 +19198,8 @@
           "numara": 4,
           "metin": "Bu ‘âlem-i kesretde sen Yûsuf u ben Ya'kûb Ol ‘âlem-i vahdetde ne Yûsuf u ne Ken‘ân",
           "anlamlar": {
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır",
-            "ya'kûb": "İsrailoğullarından Yusuf Peygamber'in babası olan peygamber"
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
+            "ya'kûb": "Yusuf'un babası, hasretle ağlayan peygamber"
           }
         },
         {
@@ -20052,7 +20060,7 @@
           "numara": 3,
           "metin": "Hakk'un ‘inâyeti çokdur irer kullarına dâim Allah Halîl'i sakladı Nemrûd oda atmış iken",
           "anlamlar": {
-            "nemrûd": "Halil İbrahim Peygamber zamânındaki Keldavi hükümdarı olan Nemrud"
+            "nemrûd": "İbrahim Peygamber'i ateşe atan zalim hükümdar"
           }
         },
         {
@@ -20083,7 +20091,7 @@
           "metin": "Kan'enbiyâ vü evliyâ geldi geçdi cümle velî Kanı Dâvud u Süleymân Kâf'dan Kâf'a dutmış iken",
           "anlamlar": {
             "velî": "Ermiş, seven, dost, sahib",
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -20092,7 +20100,7 @@
           "anlamlar": {
             "ecel": "Ölüm vaktı, âhirete göçmek",
             "assı": "Fayda, menfaat, kazanç",
-            "kârûn": "Musâ devrinde yaşayan zengin bir kişi"
+            "kârûn": "Musa devrinde yaşayan, zenginliğiyle mağrur olup yere batan kişi"
           }
         },
         {
@@ -21279,7 +21287,7 @@
           "numara": 9,
           "metin": "Süleymân kuş dili bilür didiler Süleymân var Süleymân'dan içerü",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz",
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden",
             "didiler": "Dedi"
           }
         },
@@ -22871,7 +22879,7 @@
           "metin": "Eyyûb'layın sabr eyle Ya‘kûb'layın çok agla Yûsuf-sıfat sen dahı Ken‘ân'a irişince",
           "anlamlar": {
             "eyle": "Öyle, o şekilde",
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır"
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan"
           }
         },
         {
@@ -23357,7 +23365,7 @@
             "sûrını": "İsrafil adlı meleğin kıyamet günü çalacağı boru",
             "tagları": "Dağ",
             "yirinden": "Yer, yeryüzü",
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
@@ -24710,7 +24718,9 @@
         {
           "numara": 16,
           "metin": "Kula nasîb degicek sultân elden alamaz Zülkarneyn n‘eyledi yâ Hızır u İlyâs ile",
-          "anlamlar": {}
+          "anlamlar": {
+            "hızır": "Ölümsüzlük suyu içen, darda kalanlara yardım eden"
+          }
         },
         {
           "numara": 17,
@@ -25952,7 +25962,7 @@
           "metin": "Tîz indürürler tahte's-serâya Şol Kârûn gibi dünyâ kovanı",
           "anlamlar": {
             "tîz": "Çabuk, acele",
-            "kârûn": "Musâ devrinde yaşayan zengin bir kişi"
+            "kârûn": "Musa devrinde yaşayan, zenginliğiyle mağrur olup yere batan kişi"
           }
         },
         {
@@ -25974,7 +25984,9 @@
         {
           "numara": 8,
           "metin": "Kodı atlası geydi palâsı İbrâhîm Edhem sırdan duyanı",
-          "anlamlar": {}
+          "anlamlar": {
+            "edhem": "İbrahim Edhem, tahtını terk eden sufi hükümdar"
+          }
         },
         {
           "numara": 9,
@@ -26732,7 +26744,7 @@
           "numara": 2,
           "metin": "Batmış dünyâ mâlına bakmaz ölüm hâline İrmiş Kârûn mâlına zihî iş düşvârlıgı",
           "anlamlar": {
-            "kârûn": "Musâ devrinde yaşayan zengin bir kişi",
+            "kârûn": "Musa devrinde yaşayan, zenginliğiyle mağrur olup yere batan kişi",
             "zihî": "Ne hoş ne kadar güzel, ne iyi"
           }
         },
@@ -26745,7 +26757,7 @@
           "numara": 4,
           "metin": "Süleymân zenbîl ördi kendü emegin yirdi Anunıla buldılar bunlar peygamberligi",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz",
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden",
             "anunıla": "Onun"
           }
         },
@@ -28157,7 +28169,9 @@
         {
           "numara": 6,
           "metin": "Zekeriyyâ agaca sıgınmagın Bıçguyıla iki dildürdün anı",
-          "anlamlar": {}
+          "anlamlar": {
+            "zekeriyyâ": "Testereyle biçilen peygamber"
+          }
         },
         {
           "numara": 7,
@@ -28301,7 +28315,7 @@
           "numara": 9,
           "metin": "Yûsuf eger hayâlüni Düşde göreydi bir gice Terk ideyidi mülklerin Bana seni gerek seni",
           "anlamlar": {
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır",
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
             "terk": "Bırakmak, vazgeçmek"
           }
         },
@@ -28595,7 +28609,7 @@
           "numara": 6,
           "metin": "İbrâhîm'e Nemrûd odın ‘ışkdur gülistân eyleyen ‘Işkdan çün irdi bir nazar gül-zâr oldı nâr olmadı",
           "anlamlar": {
-            "nemrûd": "Halil İbrahim Peygamber zamânındaki Keldavi hükümdarı olan Nemrud",
+            "nemrûd": "İbrahim Peygamber'i ateşe atan zalim hükümdar",
             "ışkdur": "Aşk, ilahi sevgi",
             "gülistân": "Gül bahçesi, cennet",
             "işkdan": "Aşk, candan sevme, sevgi",
@@ -28755,7 +28769,9 @@
         {
           "numara": 7,
           "metin": "Yûnus Emre bu dünyâda iki kişi kalur dirler Meger Hızır-İlyâs ola Âb-ı Hayât içmiş gibi",
-          "anlamlar": {}
+          "anlamlar": {
+            "hızır": "Ölümsüzlük suyu içen, darda kalanlara yardım eden"
+          }
         }
       ]
     },
@@ -29184,9 +29200,9 @@
           "numara": 4,
           "metin": "Şeddâd bir uçmak yapdı Nemrûd göge ok atdı Kârûn'ı da yir yutdı Âdil Nuşirvân kanı",
           "anlamlar": {
-            "şeddâd": "Yemen'de yaptırdığı büyük binalarla ve “İrem Bağı” ile şöhret kazanmış",
+            "şeddâd": "Cennet benzeri bahçe yaptıran, tanrılık iddia eden hükümdar",
             "uçmak": "Cennet",
-            "nemrûd": "Halil İbrahim Peygamber zamânındaki Keldavi hükümdarı olan Nemrud",
+            "nemrûd": "İbrahim Peygamber'i ateşe atan zalim hükümdar",
             "yir": "Yer, yeryüzü"
           }
         },
@@ -29195,7 +29211,7 @@
           "metin": "Kim ki istedi buldı kullugı tamâm oldı Key Mısr'a sultân oldı Yûsuf-ı Ken'ân kanı",
           "anlamlar": {
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
-            "yûsuf": "Yâkûb Peygamber'in oğlu olup güzelliği ile tanınmıştır",
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
             "ken'ân": "Filistin, Yakûb'un doğduğu yer"
           }
         },
@@ -29237,6 +29253,7 @@
           "numara": 10,
           "metin": "Cüneyd-i Bagdâdî vü Şiblî vü Ma‘rûf-ı Kerhî Anlar vardı bu yolı şimdi ol erkân kanı",
           "anlamlar": {
+            "cüneyd": "Cüneyd-i Bağdadi, tasavvuf büyüğü",
             "anlar": "Onlar",
             "erkân": "Rükûnlar, direkler, esaslar, âdet, töre"
           }
@@ -29245,6 +29262,7 @@
           "numara": 11,
           "metin": "Bâyezîd-i Bestâmî yidi kat gök seyrânı Ol erenler sultânı gevher-i ma‘den kanı",
           "anlamlar": {
+            "bâyezîd": "Bayezid-i Bistami, büyük sufi",
             "kat": "Yan, huzur",
             "erenler": "Evliyâ, ermiş kişi",
             "gevher": "Mücevher, değerli öz"
@@ -29412,7 +29430,7 @@
           "numara": 5,
           "metin": "Belkîs'ıla Süleymân ‘ışka düşdi bir zamân İsteyüp bulmadılar bu derdün dermânını",
           "anlamlar": {
-            "süleymân": "İsrailoğullarından Hz"
+            "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
         {
