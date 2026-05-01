@@ -227,6 +227,12 @@ EXTRA_MEANINGS = {
     'dîdâr': 'Yüz, Allah\'ın cemali, vuslat',
     'münkir': 'İnkarcı, inanmayan',
     'münkirisen': 'İnkarcısın, inanmıyorsun',
+    'müselmân': 'Müslüman',
+    'müselmânam': 'Müslümanım',
+    'fermân': 'Emir, buyruk',
+    'fermânam': 'Emrine uyarım, buyruğundayım',
+    'fâyide': 'Fayda',
+    'dutmazısa': 'Tutmazsa, uymazsa',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }

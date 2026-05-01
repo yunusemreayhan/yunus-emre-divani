@@ -855,8 +855,12 @@
           "numara": 3,
           "metin": "Dimesün kim müselmânam Çalap emrine fermânam Dutmazısa Hak sözini fâyide yok dînden ana",
           "anlamlar": {
+            "müselmânam": "Müslümanım",
             "çalap": "Tanrı, Allah",
-            "hak": "Allah, gerçek, doğru"
+            "fermânam": "Emrine uyarım, buyruğundayım",
+            "dutmazısa": "Tutmazsa, uymazsa",
+            "hak": "Allah, gerçek, doğru",
+            "fâyide": "Fayda"
           }
         },
         {
@@ -6975,7 +6979,9 @@
         {
           "numara": 7,
           "metin": "Kimin kâfir idüp kimin müselmân Anı kimse itmez illâ ol eyler",
-          "anlamlar": {}
+          "anlamlar": {
+            "müselmân": "Müslüman"
+          }
         },
         {
           "numara": 8,
@@ -7773,6 +7779,7 @@
           "metin": "Her kim nefsine kalursa müselmân degül ölürse Hayr itsün benden bilürse eglenmen zamân gerekmez",
           "anlamlar": {
             "nefsine": "Benlik, ego",
+            "müselmân": "Müslüman",
             "hayr": "Meşru iş, faydalı ve nurlu iş"
           }
         },
@@ -11255,6 +11262,7 @@
           "anlamlar": {
             "teneşir": "Ölülerin yıkandığı tahtadan yapılan dört ayaklı masa",
             "yohsa": "Yoksa",
+            "fermân": "Emir, buyruk",
             "gassâl": "Ölü yıkayıcı"
           }
         },
@@ -12979,6 +12987,7 @@
           "numara": 1,
           "metin": "Ne dirisem hükmüm yürür elümde fermân tutaram Ne dirisem hükmüm revân çün hükm-i sultân tutaram",
           "anlamlar": {
+            "fermân": "Emir, buyruk",
             "revân": "akan, giden, ruh, cân"
           }
         },
@@ -14729,7 +14738,9 @@
         {
           "numara": 3,
           "metin": "Adımum atdum yidi dört on sekiz binden öte Tokuzı yolda koyup şâh emrine fermân olam",
-          "anlamlar": {}
+          "anlamlar": {
+            "fermân": "Emir, buyruk"
+          }
         },
         {
           "numara": 4,
@@ -16358,7 +16369,8 @@
           "numara": 2,
           "metin": "Seni severem cânıla Kul olmışam fermânıla And içerem Kur'ân'ıla Senden yüzüm döndürmezem",
           "anlamlar": {
-            "cânıla": "Cism-i latif"
+            "cânıla": "Cism-i latif",
+            "fermânıla": "Emir, buyruk"
           }
         },
         {
@@ -16963,7 +16975,9 @@
         {
           "numara": 5,
           "metin": "Defter-i ‘amâlümi yüklendüm itdüm ‘azm-i râh Menzil-i maksûda Hak'dan emr ü fermân isterem",
-          "anlamlar": {}
+          "anlamlar": {
+            "fermân": "Emir, buyruk"
+          }
         },
         {
           "numara": 6,
@@ -17812,7 +17826,9 @@
         {
           "numara": 5,
           "metin": "Başuma dikeler hece ne irte bilem ne gice ‘Âlemler ümidi hâce sana fermân olam birgün",
-          "anlamlar": {}
+          "anlamlar": {
+            "fermân": "Emir, buyruk"
+          }
         },
         {
           "numara": 6,
@@ -19059,6 +19075,7 @@
           "numara": 2,
           "metin": "Ta‘na urman ‘âşıklara her ne hâle dönerise Fermân olımaz kendüye müşâhadeye gark olan",
           "anlamlar": {
+            "fermân": "Emir, buyruk",
             "gark": "Suda boğulmak, batmak"
           }
         },
@@ -22404,7 +22421,9 @@
           "numara": 17,
           "metin": "Şâh oluban oturur kula buyruk tutdurur Fermânını buyurur küfr-i fermân içinde",
           "anlamlar": {
-            "buyruk": "Emir, ferman"
+            "buyruk": "Emir, ferman",
+            "fermânını": "Emir, buyruk",
+            "fermân": "Emir, buyruk"
           }
         },
         {
@@ -24959,6 +24978,7 @@
           "metin": "Bir söz geldi dilüme eydem ölüm üstine Gerek sünnî müselmân gerek zâlim üstine",
           "anlamlar": {
             "sünnî": "Hz",
+            "müselmân": "Müslüman",
             "zâlim": "Zulmeden, güç kullanan"
           }
         },
@@ -25031,7 +25051,8 @@
           "numara": 4,
           "metin": "Evünde helâlüne biş vakt namâz ögretgil Ögüdün dutmazısa yazugı yokdur boşa",
           "anlamlar": {
-            "vakt": "Vakit, zaman"
+            "vakt": "Vakit, zaman",
+            "dutmazısa": "Tutmazsa, uymazsa"
           }
         },
         {
@@ -25564,6 +25585,7 @@
           "metin": "Hak'dan artuk kimse bilmez kâfir müselmân kim durur Ben kıluram namâzumı Hak geçürürse nâzumı",
           "anlamlar": {
             "artuk": "Başka, başkası, gayrı, fazla, artık",
+            "müselmân": "Müslüman",
             "hak": "Allah, gerçek, doğru"
           }
         },
