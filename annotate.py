@@ -211,6 +211,11 @@ EXTRA_MEANINGS = {
     'tartıla': 'Tartılır, ölçülür',
     'yırtıla': 'Yırtılır, açılır',
     'heybetinden': 'Korkunçluğundan, azametinden',
+    'çerâk': 'Mum, ışık, kandil',
+    'çerâg': 'Mum, ışık, kandil',
+    'kandîl': 'Kandil, ışık',
+    'aydın': 'Aydınlık, parlak',
+    'karanular': 'Karanlıklar',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }

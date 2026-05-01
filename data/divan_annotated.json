@@ -801,8 +801,10 @@
           "metin": "‘Işk odına yan dirisen gönüllere gir dirisen Karanular aydın ola ne kandîl ü çerâk bana",
           "anlamlar": {
             "işk": "Aşk, candan sevme, sevgi",
-            "karanular": "Karanlık",
-            "kandîl": "Metinde, mecazen ilk yaratılan cevher, Nûr-ı Muhammedî"
+            "karanular": "Karanlıklar",
+            "aydın": "Aydınlık, parlak",
+            "kandîl": "Kandil, ışık",
+            "çerâk": "Mum, ışık, kandil"
           }
         },
         {
@@ -2744,7 +2746,8 @@
           "metin": "Eydürsin kim gözüm görür da‘vîyi ma‘nîye irür Gündüz güneş şû'le virür gice yanan çerâk nedür",
           "anlamlar": {
             "eydürsin": "Der, söyler",
-            "şû'le": "Işık, alev"
+            "şû'le": "Işık, alev",
+            "çerâk": "Mum, ışık, kandil"
           }
         },
         {
@@ -9386,7 +9389,8 @@
           "anlamlar": {
             "pervâne": "Işığa koşan kelebek, aşık",
             "tek": "Gibi, bir",
-            "niçesi": "Nasıl, ne şekilde"
+            "niçesi": "Nasıl, ne şekilde",
+            "çerâk": "Mum, ışık, kandil"
           }
         },
         {
@@ -9839,7 +9843,8 @@
           "metin": "Ahşam durur üç farîza tagca günâhun arıda Eyü ‘amellerün sinde şem ü çerâg olsa gerek",
           "anlamlar": {
             "tagca": "Dağca",
-            "eyü": "İyi, güzel"
+            "eyü": "İyi, güzel",
+            "çerâg": "Mum, ışık, kandil"
           }
         },
         {
@@ -13525,7 +13530,9 @@
         {
           "numara": 5,
           "metin": "Kogıl beni hoş yanayın kül oluban uşanayın Ol sevdügün Muhammed'e olayın çerâk Çalab'un",
-          "anlamlar": {}
+          "anlamlar": {
+            "çerâk": "Mum, ışık, kandil"
+          }
         },
         {
           "numara": 6,
@@ -21451,7 +21458,8 @@
           "metin": "Devlet durur ol kişiye yanarısa ‘ışk odına Acı tütüni çıkıcak aydın olısar bu hâne",
           "anlamlar": {
             "devlet": "Saadet, mutluluk",
-            "ışk": "Aşk, ilahi sevgi"
+            "ışk": "Aşk, ilahi sevgi",
+            "aydın": "Aydınlık, parlak"
           }
         },
         {
@@ -23580,7 +23588,9 @@
         {
           "numara": 5,
           "metin": "Senün hikmetün ırak sensün cânlara turak Sen yandurdugun çerâk bildük ebedî yana",
-          "anlamlar": {}
+          "anlamlar": {
+            "çerâk": "Mum, ışık, kandil"
+          }
         },
         {
           "numara": 6,
