@@ -392,7 +392,7 @@ function updateShareLinks(){
 }
 document.getElementById('share-cp').onclick=()=>{
   if(!currentPoem)return;
-  const lines=currentPoem.beyitler.map(b=>b.metin).join('\n');
+  const lines=currentPoem.beyitler.map(b=>{const[m1,m2]=splitBeyit(b.metin);return m1+'\n'+m2;}).join('\n\n');
   const allMeanings={};
   currentPoem.beyitler.forEach(b=>{Object.assign(allMeanings,b.anlamlar||{})});
   const meaningsText=Object.entries(allMeanings).map(([k,v])=>k+': '+v).join('\n');
