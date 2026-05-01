@@ -256,6 +256,8 @@ EXTRA_MEANINGS = {
     'edhem': 'İbrahim Edhem, tahtını terk eden sufi hükümdar',
     'bâyezîd': 'Bayezid-i Bistami, büyük sufi',
     'cüneyd': 'Cüneyd-i Bağdadi, tasavvuf büyüğü',
+    'yaraklanup': 'Hazırlanıp, yol azığını alıp',
+    'ansuzın': 'Ansızın, birdenbire, habersizce',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }

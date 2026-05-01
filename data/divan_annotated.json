@@ -1396,8 +1396,10 @@
           "metin": "İş bu cihân mülkinden ansuzın ün iderler Ansuzını şimdi bil yaraklanup gitdün tut",
           "anlamlar": {
             "mülkinden": "Elde bulunan, tasarruf olunan şeyler",
+            "ansuzın": "Ansızın, birdenbire, habersizce",
             "ansuzını": "Onsuz",
-            "bil": "Bel"
+            "bil": "Bel",
+            "yaraklanup": "Hazırlanıp, yol azığını alıp"
           }
         },
         {
@@ -3153,7 +3155,9 @@
         {
           "numara": 8,
           "metin": "‘Aklumuz ol levhe bakar gizli marazlarum açar Söz gelür gönlüme akar söz dile ansuzın gelür",
-          "anlamlar": {}
+          "anlamlar": {
+            "ansuzın": "Ansızın, birdenbire, habersizce"
+          }
         },
         {
           "numara": 9,
@@ -12570,6 +12574,7 @@
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
+            "ansuzın": "Ansızın, birdenbire, habersizce",
             "dirlik": "Yaşayış, hayat",
             "kadîm": "Zaman itibariyle eski olan, öncesi olmayan"
           }
@@ -22984,7 +22989,8 @@
           "metin": "Gelün ‘amel idelüm elümüz irer iken Ecel irer ansuzın irgürmez sanumuza",
           "anlamlar": {
             "amel": "İş, hayır, çalışma",
-            "ecel": "Ölüm vaktı, âhirete göçmek"
+            "ecel": "Ölüm vaktı, âhirete göçmek",
+            "ansuzın": "Ansızın, birdenbire, habersizce"
           }
         },
         {
@@ -25086,6 +25092,7 @@
           "numara": 7,
           "metin": "Yûnus imdi namâzun komagıl sen kıla gör Ansuzın ecel irer ‘ömür yitişür başa",
           "anlamlar": {
+            "ansuzın": "Ansızın, birdenbire, habersizce",
             "ecel": "Ölüm vaktı, âhirete göçmek"
           }
         }
