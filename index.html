@@ -92,6 +92,7 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 <button class="hamburger" id="menu-btn">☰</button>
 <div class="brand" id="home-btn">Yûnus Emre Dîvânı</div>
 <div class="spacer"></div>
+<input type="number" id="goto-num" min="1" max="417" placeholder="#" style="width:50px;padding:.3rem .4rem;border:1px solid rgba(255,255,255,.3);border-radius:5px;background:rgba(255,255,255,.15);color:#fff;font-size:.85rem;text-align:center" title="Şiir numarasına git">
 <button id="script-btn" title="Osmanlıca / Latin">ع</button>
 </nav>
 
@@ -343,6 +344,7 @@ document.getElementById('menu-btn').onclick=()=>{document.getElementById('sideba
 function closeSidebar(){document.getElementById('sidebar').classList.remove('open');document.getElementById('overlay').classList.remove('show')}
 document.getElementById('overlay').onclick=closeSidebar;
 document.getElementById('home-btn').onclick=showSearchView;
+document.getElementById('goto-num').onkeydown=(e)=>{if(e.key==='Enter'){const n=+e.target.value;if(n>=1&&n<=417){showPoem(n);e.target.blur()}}};
 document.getElementById('main-search').oninput=renderSearchResults;
 document.getElementById('prev-btn').onclick=()=>navPoem(-1);
 document.getElementById('prev-btn2').onclick=()=>navPoem(-1);
