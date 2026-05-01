@@ -277,6 +277,7 @@
           "anlamlar": {
             "n'ider": "Ne eder, ne yapar",
             "âşık": "Seven, Allah aşığı",
+            "hânumânı": "Ev, bark, ocak",
             "gümân": "Şüphe, zann"
           }
         },
@@ -4355,7 +4356,8 @@
           "numara": 3,
           "metin": "Kimi ‘avret oglan sever kimi mülk-hânumân sever Kim ser-mâye dükkân sever bu dünye hâlden hâledür",
           "anlamlar": {
-            "mülk": "Elde bulunan, tasarruf olunan şeyler"
+            "mülk": "Elde bulunan, tasarruf olunan şeyler",
+            "hânumân": "Ev, bark, ocak"
           }
         },
         {
@@ -8385,7 +8387,8 @@
           "numara": 3,
           "metin": "Şükür anun birligine yog iken uş var eyledi Çünki asıldan biz yoguz mülk ü hânumân neyimiş",
           "anlamlar": {
-            "mülk": "Elde bulunan, tasarruf olunan şeyler"
+            "mülk": "Elde bulunan, tasarruf olunan şeyler",
+            "hânumân": "Ev, bark, ocak"
           }
         },
         {
@@ -16261,7 +16264,8 @@
           "anlamlar": {
             "bucak": "Köşe, tenha yer",
             "tekye": "Dervişlerin zikir veya ibâdet için toplandıkları mekan",
-            "âşıklar": "Seven, Allah aşığı"
+            "âşıklar": "Seven, Allah aşığı",
+            "hânmânını": "Ev, bark, ocak"
           }
         },
         {
@@ -18859,7 +18863,8 @@
             "dost": "Sevgili, Allah, mürşid",
             "terk": "Bırakmak, vazgeçmek",
             "tahtını": "Yer",
-            "leşker": "Asker"
+            "leşker": "Asker",
+            "hânumân": "Ev, bark, ocak"
           }
         },
         {
@@ -29060,7 +29065,8 @@
           "metin": "Güzâf görmen siz ‘ışkı kime ugradıyısa Sultânı iltür başdan yitürür hânmânını",
           "anlamlar": {
             "güzâf": "Boş, asılsız",
-            "başdan": "Yasa"
+            "başdan": "Yasa",
+            "hânmânını": "Ev, bark, ocak"
           }
         },
         {

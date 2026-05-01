@@ -138,6 +138,9 @@ EXTRA_MEANINGS = {
     'çava': 'İklim, memleket, uzak yer',
     'nüvaht': 'Okşama, çalgı çalma',
     'nühavht': 'Okşama, çalgı çalma',
+    'hânumân': 'Ev, bark, ocak',
+    'hânumânı': 'Ev, bark, ocak',
+    'hânmân': 'Ev, bark, ocak',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
