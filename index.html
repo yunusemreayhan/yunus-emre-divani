@@ -52,6 +52,9 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 .beyit .copy-btn{position:absolute;top:.6rem;right:.6rem;background:none;border:none;color:var(--muted);cursor:pointer;font-size:.75rem;opacity:.4;transition:opacity .2s;padding:.2rem .4rem;border-radius:4px}
 .beyit .copy-btn:hover{opacity:1;background:var(--border)}
 .beyit .copy-btn.copied{opacity:1;color:var(--accent)}
+.beyit .ai-btns{position:absolute;top:.6rem;right:2.2rem;display:flex;gap:.2rem}
+.beyit .ai-btns a{font-size:.65rem;opacity:.4;padding:.2rem .4rem;border-radius:4px;text-decoration:none;color:var(--muted);transition:opacity .2s}
+.beyit .ai-btns a:hover{opacity:1;background:var(--border)}
 .beyit .num{color:var(--gold);font-weight:700;font-size:.75rem;margin-bottom:.3rem}
 .beyit .text{font-size:1.1rem;line-height:2.2;direction:ltr;min-height:4.4em}
 .beyit .text.ottoman{direction:rtl;font-family:'Noto Naskh Arabic','Traditional Arabic','Amiri',serif;font-size:1.3rem;line-height:2.2;min-height:4.4em}
@@ -307,7 +310,10 @@ function renderBeyitler(){
     const[misra1,misra2]=splitBeyit(b.metin);
     const html1=renderWords(misra1,b.anlamlar||{});
     const html2=renderWords(misra2,b.anlamlar||{});
-    return`<div class="beyit"><div class="num">${b.numara}</div><button class="copy-btn" data-text="${misra1.replace(/"/g,'&quot;')}\n${misra2.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${html1}<br>${html2}</div></div>`;
+    const rawText=misra1+' '+misra2;
+    const encText=encodeURIComponent(rawText);
+    const prompt=encodeURIComponent('Bu eski Türkçe beyiti günümüz Türkçesine çevir ve açıkla: '+rawText);
+    return`<div class="beyit"><div class="num">${b.numara}</div><div class="ai-btns"><a href="https://translate.google.com/?sl=ota&tl=tr&text=${encText}" target="_blank" title="Google Translate">GT</a><a href="https://chatgpt.com/?q=${prompt}" target="_blank" title="ChatGPT'ye sor">GPT</a><a href="https://gemini.google.com/app?q=${prompt}" target="_blank" title="Gemini'ye sor">Gem</a></div><button class="copy-btn" data-text="${misra1.replace(/"/g,'&quot;')}\n${misra2.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${html1}<br>${html2}</div></div>`;
   }).join('');
 }
 
