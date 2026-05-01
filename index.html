@@ -214,8 +214,14 @@ function showPoem(num){
 function renderBeyitler(){
   const el=document.getElementById('beyitler');
   el.innerHTML=currentPoem.beyitler.map(b=>{
-    const textHtml=renderWords(b.metin,b.anlamlar||{});
-    return`<div class="beyit"><div class="num">${b.numara}</div><div class="text${isOttoman?' ottoman':''}">${textHtml}</div></div>`;
+    // Split beyit into two mısra at approximate midpoint (by word count)
+    const words=b.metin.split(/\s+/);
+    const mid=Math.ceil(words.length/2);
+    const misra1=words.slice(0,mid).join(' ');
+    const misra2=words.slice(mid).join(' ');
+    const html1=renderWords(misra1,b.anlamlar||{});
+    const html2=renderWords(misra2,b.anlamlar||{});
+    return`<div class="beyit"><div class="num">${b.numara}</div><div class="text${isOttoman?' ottoman':''}">${html1}<br>${html2}</div></div>`;
   }).join('');
 }
 
