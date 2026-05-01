@@ -1722,6 +1722,7 @@
           "numara": 5,
           "metin": "Kanı Muhammed Mustafâ hüküm itdi Kâf'dan Kâf'a Dünye kime kıldı vefâ aldanuban kalanı gör",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "mustafâ": "Istıfa edilmiş",
             "vefâ": "Sözünde durma",
             "aldanuban": "Aldanarak, kanarak"
@@ -2552,7 +2553,8 @@
           "numara": 3,
           "metin": "Bu cân ni‘meti kanı gelün bulalum anı Asâyiş kılan cânı evliyâ sohbetidür",
           "anlamlar": {
-            "cân": "Can, ruh, hayat"
+            "cân": "Can, ruh, hayat",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -3077,6 +3079,7 @@
           "metin": "Dakındum şeyhlik adın kodum ma'şûk tâ‘atın Virdüm nefsün murâdın kanı Hakk'ıla bâzâr",
           "anlamlar": {
             "şeyhlik": "İhtiyar, pir, tasavvufta “mürşid”",
+            "kanı": "Hani, nerede",
             "hakk'ıla": "Doğruluk, doğru, gerçek"
           }
         },
@@ -6329,6 +6332,7 @@
           "numara": 3,
           "metin": "Kanı anun mülk ü mâlı terk eylemiş cümlesini Ol pâdişâh dergâhına hulk-ı ‘amel aldı gider",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "mülk": "Elde bulunan, tasarruf olunan şeyler",
             "terk": "Bırakmak, vazgeçmek",
             "pâdişâh": "Padişah, mecazen Ruh, Cenâb-ı Hak",
@@ -6531,6 +6535,7 @@
           "numara": 8,
           "metin": "Kanı bu mülkün sultânı pes ten isen kanı cânı Bu göz görmek diler anı bu merci' ü me'âb nedür",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "pes": "O halde, öyle ise"
           }
         },
@@ -6845,6 +6850,7 @@
           "numara": 7,
           "metin": "Kanı girçek ‘âşık kanı gelün isteyelim anı Bî-çâre Yûnus'un cânı dost yolına îsâr olur",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "âşık": "Seven, Allah aşığı",
             "dost": "Sevgili, Allah, mürşid"
           }
@@ -7503,6 +7509,7 @@
           "anlamlar": {
             "eyâ": "Ey, hey",
             "gönül": "Kalp, yürek, iç dünya",
+            "kanı": "Hani, nerede",
             "sünnet": "Hz",
             "eydür": "Der, söyler",
             "teşvîş": "Kargaşalık, karışıklık",
@@ -12606,7 +12613,8 @@
           "anlamlar": {
             "kezden": "Defa, kere",
             "ahî": "Kardeş, fütüvvet ehli",
-            "pes": "O halde, öyle ise"
+            "pes": "O halde, öyle ise",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -14607,6 +14615,7 @@
           "numara": 9,
           "metin": "Kanı anun sevdük yari kıl tâ‘atun arı yüri Miskîn Yûnus eydür bunı ejderhâlar yudar ölüm",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "yari": "Yardım",
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
             "eydür": "Der, söyler"
@@ -15309,6 +15318,7 @@
           "numara": 7,
           "metin": "Kanı Yûnus kanı cünbiş harekât Ne ser-mâyem ola ne var ne yokvam",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "cünbiş": "Kımıldanma, oynama, eğlence, hareket"
           }
         }
@@ -15707,12 +15717,15 @@
         {
           "numara": 1,
           "metin": "Kanı bana sabr u karâr senün sözüni dinleyem Kanı bana ‘akl u bili tuydurmadın seni sevem",
-          "anlamlar": {}
+          "anlamlar": {
+            "kanı": "Hani, nerede"
+          }
         },
         {
           "numara": 2,
           "metin": "Kanı bana ol havsala kim hâlümi bilmeyeler Kanı bana zûr u kuvvet kim senün ‘ışkuna döyem",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "havsala": "Zihnin bir şeyi kavrama kabiliyeti",
             "zûr": "Kuvvet, güç"
           }
@@ -15722,6 +15735,7 @@
           "metin": "Cânum seni seveliden benüm hâlüm hâle döner Kanı bana usûl-i dîn ‘ilmün edebin ögrenem",
           "anlamlar": {
             "cânum": "Canım, ruhum",
+            "kanı": "Hani, nerede",
             "usûl": "Ana, baba, ced",
             "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek"
           }
@@ -16619,7 +16633,8 @@
           "anlamlar": {
             "nefsile": "Benlik, ego",
             "fânî": "Geçici olan, yoklukla ilgili",
-            "pes": "O halde, öyle ise"
+            "pes": "O halde, öyle ise",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -16834,7 +16849,9 @@
         {
           "numara": 8,
           "metin": "Sûretüm güler halka kanı ya kullık Hakk'a Bu dirligüme baka hep işüm yanlış benüm",
-          "anlamlar": {}
+          "anlamlar": {
+            "kanı": "Hani, nerede"
+          }
         },
         {
           "numara": 9,
@@ -17273,6 +17290,7 @@
           "numara": 7,
           "metin": "Bu sırrı duyan kanı key ‘ârifise cânı Açıldı güher kânı alana haber itsün",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
             "güher": "Mücevher, kıymetli taş, inci, gevher",
             "kânı": "Hani, nerede"
@@ -19437,6 +19455,7 @@
           "metin": "Togaldan bagrumı togradı gurbet Sızar tamar ciger kanı tamardan",
           "anlamlar": {
             "tamar": "Damar",
+            "kanı": "Hani, nerede",
             "tamardan": "Damar"
           }
         },
@@ -19918,6 +19937,7 @@
           "numara": 7,
           "metin": "Esridi Yûnus'un cânı yoldayım illerüm kanı Yûnus düşde gördi seni sayru mısın saglar mısın",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "sayru": "Hasta"
           }
         }
@@ -20112,6 +20132,7 @@
           "anlamlar": {
             "vefâ": "Sözünde durma",
             "safâ": "Saflık, arılık, temizlik, gönül şenliği",
+            "kanı": "Hani, nerede",
             "mustafâ": "Istıfa edilmiş"
           }
         },
@@ -20120,6 +20141,7 @@
           "metin": "Kan'enbiyâ vü evliyâ geldi geçdi cümle velî Kanı Dâvud u Süleymân Kâf'dan Kâf'a dutmış iken",
           "anlamlar": {
             "velî": "Ermiş, seven, dost, sahib",
+            "kanı": "Hani, nerede",
             "süleymân": "Hem peygamber hem hükümdar, kuş dili bilen, cinlere hükmeden"
           }
         },
@@ -20711,7 +20733,9 @@
         {
           "numara": 8,
           "metin": "İy Yûnus kanı ‘aklun gensüzin söyler dilün Pâyânı yok bu yolun sen kanda tolanasın",
-          "anlamlar": {}
+          "anlamlar": {
+            "kanı": "Hani, nerede"
+          }
         }
       ]
     },
@@ -23885,6 +23909,7 @@
           "numara": 5,
           "metin": "Kanı ata kanı ana Bildün bu dünyâyı fenâ Anda râhat gerek câna Gel yanalum dostlarıla",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "fenâ": "Yokluk, geçicilik, dünya"
           }
         },
@@ -25456,6 +25481,7 @@
           "numara": 3,
           "metin": "Kanı atan kanı anan ogul kız Kime vefâ kılısardur zamâne",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "vefâ": "Sözünde durma"
           }
         },
@@ -26518,7 +26544,8 @@
           "anlamlar": {
             "gönül": "Kalp, yürek, iç dünya",
             "tefekkür": "Fikretme, düşünme",
-            "yirine": "Yer, yeryüzü"
+            "yirine": "Yer, yeryüzü",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -26755,7 +26782,8 @@
           "numara": 5,
           "metin": "Ben niçe diyeyin anı kabûl itmez yüz bin cânı Ana lâyık dirlik kanı yokdur ana lâyık işi",
           "anlamlar": {
-            "dirlik": "Yaşayış, hayat"
+            "dirlik": "Yaşayış, hayat",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -27307,6 +27335,7 @@
           "numara": 3,
           "metin": "Kanı mülke benüm diyen köşk ü sarây begenmeyen Şimdi bir evde yaturlar taşlar olmış üstünleri",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "taşlar": "Dış, zahir",
             "üstünleri": "Sütun, direk"
           }
@@ -27323,6 +27352,7 @@
           "numara": 5,
           "metin": "Kanı ol şîrîn sözlüler kanı ol güneş yüzlüler Şöyle gâib olmış bular hîç belürmez nişânları",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
             "bular": "Bunlar, bu kişiler",
             "nişânları": "Alâmet, iz, belirti, eser"
@@ -27460,6 +27490,7 @@
           "numara": 3,
           "metin": "Ben istedüm buldum anı ol ben isem yâ ben kanı Seçemedüm andan beni bir kezden ol oldum ahî",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
             "kezden": "Defa, kere",
             "ahî": "Kardeş, fütüvvet ehli"
@@ -28053,7 +28084,8 @@
           "metin": "Gerçek ‘âşık olanlarun yüzinde nişânı olur Dün ü güni turmaz akar gözleri yaşınun kanı",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
-            "dün": "Gece"
+            "dün": "Gece",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -28963,7 +28995,8 @@
           "numara": 5,
           "metin": "‘Işk Yûnus'ı eyledi lâl Yûnus kanı ‘ışka helâl Kon varın itsün pâyimâl görmesün ayruldugını",
           "anlamlar": {
-            "işk": "Aşk, candan sevme, sevgi"
+            "işk": "Aşk, candan sevme, sevgi",
+            "kanı": "Hani, nerede"
           }
         }
       ]
@@ -29252,7 +29285,9 @@
         {
           "numara": 1,
           "metin": "İy dünyâya aldanan hayırla ihsân kanı Unutdun âhireti şefkatla îmân kanı",
-          "anlamlar": {}
+          "anlamlar": {
+            "kanı": "Hani, nerede"
+          }
         },
         {
           "numara": 2,
@@ -29260,7 +29295,8 @@
           "anlamlar": {
             "rahmet": "Acıma, esirgeme, koruma, yargılama",
             "andadur": "Orada, oraya, o konuda, o hususta, o zamân",
-            "sünnî": "Hz"
+            "sünnî": "Hz",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29268,7 +29304,8 @@
           "metin": "İbrâhîm Halîl geldi Ka‘be'ye bünyâd urdı Oglına bıçak çaldı İsmâîl kurbân kanı",
           "anlamlar": {
             "halîl": "Sâdık, samimi, dost",
-            "bünyâd": "Temel, esâs, asıl"
+            "bünyâd": "Temel, esâs, asıl",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29278,7 +29315,8 @@
             "şeddâd": "Cennet benzeri bahçe yaptıran, tanrılık iddia eden hükümdar",
             "uçmak": "Cennet",
             "nemrûd": "İbrahim Peygamber'i ateşe atan zalim hükümdar",
-            "yir": "Yer, yeryüzü"
+            "yir": "Yer, yeryüzü",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29286,7 +29324,8 @@
           "metin": "Kim ki istedi buldı kullugı tamâm oldı Key Mısr'a sultân oldı Yûsuf-ı Ken'ân kanı",
           "anlamlar": {
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
-            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan"
+            "yûsuf": "Güzelliğiyle ünlü peygamber, kuyuya atılan, Mısır sultanı olan",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29295,7 +29334,8 @@
           "anlamlar": {
             "resûl": "Peygamber, yeni kitap ve şeriatle gönderilen Peygamber",
             "yire": "Yere",
-            "nûr": "Işık, aydınlık"
+            "nûr": "Işık, aydınlık",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29305,14 +29345,16 @@
             "ömer": "Çâr-yâr'dan ikinci halife",
             "nûr": "Işık, aydınlık",
             "tamar": "Damar",
-            "osmân": "Çâr-yâr'dan üçüncüsüdür"
+            "osmân": "Çâr-yâr'dan üçüncüsüdür",
+            "kanı": "Hani, nerede"
           }
         },
         {
           "numara": 8,
           "metin": "Bineridi Düldül'e bilinde Zülfekâr'ı Erenler açdı dîni Tanrı Arslan'ı kanı",
           "anlamlar": {
-            "erenler": "Evliyâ, ermiş kişi"
+            "erenler": "Evliyâ, ermiş kişi",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29320,7 +29362,8 @@
           "metin": "Çalap Tanrı'nun hâsı Hazret'e geçer nâzı Peygamber'ün ‘âmusı Hamza pehlevân kanı",
           "anlamlar": {
             "çalap": "Tanrı, Allah",
-            "pehlevân": "Pehlivân"
+            "pehlevân": "Pehlivân",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29329,7 +29372,8 @@
           "anlamlar": {
             "cüneyd": "Cüneyd-i Bağdadi, tasavvuf büyüğü",
             "anlar": "Onlar",
-            "erkân": "Rükûnlar, direkler, esaslar, âdet, töre"
+            "erkân": "Rükûnlar, direkler, esaslar, âdet, töre",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29339,19 +29383,23 @@
             "bâyezîd": "Bayezid-i Bistami, büyük sufi",
             "kat": "Yan, huzur",
             "erenler": "Evliyâ, ermiş kişi",
-            "gevher": "Mücevher, değerli öz"
+            "gevher": "Mücevher, değerli öz",
+            "kanı": "Hani, nerede"
           }
         },
         {
           "numara": 12,
           "metin": "Geçdi bunlarun çagı dünyâ kahrun ocagı Ebu'l-Müslim Necefî sâhib-i kırân kanı",
-          "anlamlar": {}
+          "anlamlar": {
+            "kanı": "Hani, nerede"
+          }
         },
         {
           "numara": 13,
           "metin": "Bir gönül ele getür ferâgât ol geç otur Konya şehrinde yatur ol iki sultân kanı",
           "anlamlar": {
-            "gönül": "Kalp, yürek, iç dünya"
+            "gönül": "Kalp, yürek, iç dünya",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29360,7 +29408,8 @@
           "anlamlar": {
             "ahmed": "Hz",
             "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek",
-            "mevlânâ": "Büyük Türk İslâm Mutasavvıfı"
+            "mevlânâ": "Büyük Türk İslâm Mutasavvıfı",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29369,14 +29418,16 @@
           "anlamlar": {
             "ahmed": "Hz",
             "nûr": "Işık, aydınlık",
-            "şîr": "Arslan"
+            "şîr": "Arslan",
+            "kanı": "Hani, nerede"
           }
         },
         {
           "numara": 16,
           "metin": "Yûnus Emrem aç gözün toprak eylegil yüzün Sana dahı diyeler cigeri biryân kanı",
           "anlamlar": {
-            "biryân": "Kebap, kızarmış, yanmış"
+            "biryân": "Kebap, kızarmış, yanmış",
+            "kanı": "Hani, nerede"
           }
         }
       ]
@@ -29770,7 +29821,8 @@
           "numara": 5,
           "metin": "Girçek ‘âşık olanlarun yüzinde nişânı olur Dünin günin turmaz akar gözleri yaşınun kanı",
           "anlamlar": {
-            "âşık": "Seven, Allah aşığı"
+            "âşık": "Seven, Allah aşığı",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -29983,6 +30035,7 @@
           "numara": 4,
           "metin": "Kanı sana güvendügüm Sevinüben özendügüm Küllî kalur kazandugum Âh n'ideyüm ‘ömrüm seni",
           "anlamlar": {
+            "kanı": "Hani, nerede",
             "küllî": "Bütün, tam, umûmî, hepsi, tamâmı"
           }
         },
@@ -30161,7 +30214,8 @@
           "anlamlar": {
             "bühtân": "İftirâ, birisine yalan isnat etme",
             "çerçi": "Bazı küçük eşya ve tuhafiye malzemesi satan kişi",
-            "eydür": "Der, söyler"
+            "eydür": "Der, söyler",
+            "kanı": "Hani, nerede"
           }
         },
         {
@@ -30491,7 +30545,8 @@
           "numara": 6,
           "metin": "Eger katı buşarısan başun nefse koşarısan Nefs hâline düşerisen ol buşdugı ‘akıl kanı",
           "anlamlar": {
-            "nefs": "Benlik, ego"
+            "nefs": "Benlik, ego",
+            "kanı": "Hani, nerede"
           }
         },
         {

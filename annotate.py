@@ -308,7 +308,7 @@ def find_meaning(word, sozluk):
               'bin', 'yüz', 'gel', 'git', 'ver', 'gör', 'bak', 'dur', 'tur', 'kıl',
               'olan', 'ola', 'olur', 'oldu', 'ider', 'eder', 'dir', 'dür', 'ana', 'ata',
               'içün', 'için', 'gibi', 'bigi', 'dahi', 'dahı', 'bile', 'yine', 'gine',
-              'ise', 'çün', 'çünki', 'eger', 'ger', 'niçe', 'nice', 'nite', 'kanı',
+              'ise', 'çün', 'çünki', 'eger', 'ger', 'niçe', 'nice', 'nite',
               'kanda', 'anda', 'bunda', 'sana', 'bana', 'anun', 'bunun', 'senün', 'benüm',
               'olsa', 'ola', 'gele', 'gide', 'kala', 'tura', 'diye', 'eyde', 'söyle',
               'degül', 'degil', 'gerek', 'yok', 'var', 'ola', 'olan', 'iken', 'imiş',
