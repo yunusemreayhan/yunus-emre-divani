@@ -289,6 +289,8 @@ EXTRA_MEANINGS = {
     'dileni': 'Dileneni, isteyeni',
     'gövdesine': 'Bedenine, vücuduna',
     'aldanuban': 'Aldanarak, kanarak',
+    'irahman': 'Rahman, Allah',
+    'irahmansuzına': 'Rahmansızına, Allah\'sızına, imansızına',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
