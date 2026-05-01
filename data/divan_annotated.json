@@ -484,7 +484,8 @@
           "numara": 5,
           "metin": "Oglan gider dânışmâna saladur dosta düşmâna Sonra gelmek peşimâna sana assı kılmaz ola",
           "anlamlar": {
-            "saladur": "Çağırma, bir şey için bağırarak davet etme"
+            "saladur": "Çağırma, bir şey için bağırarak davet etme",
+            "peşimâna": "Pişmanlığa"
           }
         },
         {
@@ -4641,7 +4642,8 @@
           "numara": 1,
           "metin": "Bu dünyâya gönül viren sonucı pişmân olısar Dünyâ benüm didükleri hep ana düşmân olısar",
           "anlamlar": {
-            "gönül": "Kalp, yürek, iç dünya"
+            "gönül": "Kalp, yürek, iç dünya",
+            "pişmân": "Pişman"
           }
         },
         {
@@ -17585,7 +17587,8 @@
           "metin": "İy yârânlar iy kardaşlar ecel ire ölem birgün İşlerüme pişmân olup kendözüme gelem birgün",
           "anlamlar": {
             "yârânlar": "Dostlar, sevgililer",
-            "ecel": "Ölüm vaktı, âhirete göçmek"
+            "ecel": "Ölüm vaktı, âhirete göçmek",
+            "pişmân": "Pişman"
           }
         },
         {
@@ -22964,7 +22967,8 @@
           "metin": "Bu cân sana bâkî kalmaz Anda varan girü gelmez Son pişmânlık assı kılmaz Gel ikrâr it erenlere",
           "anlamlar": {
             "cân": "Can, ruh, hayat",
-            "girü": "Geri, tekrar"
+            "girü": "Geri, tekrar",
+            "pişmânlık": "Pişman"
           }
         },
         {
@@ -22986,7 +22990,9 @@
         {
           "numara": 9,
           "metin": "Yûnus sen pişmân olmadın İrişgil ere ölmedin Bu dünyâ sana gülmedin Gel ikrâr it erenlere",
-          "anlamlar": {}
+          "anlamlar": {
+            "pişmân": "Pişman"
+          }
         }
       ]
     },

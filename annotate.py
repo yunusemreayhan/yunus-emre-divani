@@ -154,6 +154,9 @@ EXTRA_MEANINGS = {
     'da\'vî kılmak': 'İddia etmek',
     'sebük': 'Hafif, değersiz, önemsiz',
     'sebüksal': 'Hafif, önemsiz, değersiz',
+    'peşimân': 'Pişman',
+    'peşimâna': 'Pişmanlığa',
+    'pişmân': 'Pişman',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
