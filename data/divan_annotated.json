@@ -44,7 +44,8 @@
             "cebbâr": "Kudret ve ululuk sahibi, Allah",
             "ışk": "Aşk, ilahi sevgi",
             "tagları": "Dağ",
-            "yirinden": "Yer, yeryüzü"
+            "yirinden": "Yer, yeryüzü",
+            "ırar": "Uzaklaştırır, koparır"
           }
         },
         {
@@ -70,6 +71,8 @@
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
+            "n'iderse": "Ne ederse, ne yaparsa",
+            "bura": "Büker, eğer (boyun burmak)",
             "gönül": "Kalp, yürek, iç dünya"
           }
         },
@@ -108,7 +111,7 @@
           "anlamlar": {
             "işk": "Aşk, candan sevme, sevgi",
             "hevâ": "Heves, istek, arzû , nefse ait şeylere istek",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "meyl": "Gönül aşkı, gönül eğilmesi, istek",
             "vefâ": "Sözünde durma"
           }
@@ -163,7 +166,8 @@
           "metin": "Her kimde kim ‘ışk varısa ayruk ne sıgar ol yire Dost döşegine geçemez at u katır yâhûd deve",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
+            "yire": "Yere",
             "dost": "Sevgili, Allah, mürşid"
           }
         },
@@ -197,7 +201,7 @@
           "metin": "Bir kez yüzün gören senün ‘ömrince hîç unutmaya Tesbîhi sensin dilinde ayruk nesne eyitmeye",
           "anlamlar": {
             "kez": "Defa, kere",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -205,7 +209,7 @@
           "metin": "Tâ‘atuna turan zâhid nazaruna irerise Tesbîhini unıdup ol ayruk secde de itmeye",
           "anlamlar": {
             "zâhid": "Sofu",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -213,7 +217,7 @@
           "metin": "Agzına şekker aluban gözleri sana tuş olan Unıda şekkerini ayruk çeyneyüben yutmaya",
           "anlamlar": {
             "tuş": "Taraf, yön, cihet, rast gelme, karşısına durmak",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -235,6 +239,7 @@
             "toptolu": "Tamamen dolu, dopdolu",
             "bâg": "Bahçe, büyük bahçe, bostan",
             "bostân": "Bâğçe, yeşillik, bağlık yer",
+            "eyü": "İyi, güzel",
             "gül": "Sevgili, güzellik"
           }
         },
@@ -260,13 +265,15 @@
           "numara": 9,
           "metin": "Zühre yire inübeni sazın nüvaht eylerise ‘Âşıkun ‘işreti sensüz gözi ol yana gitmeye",
           "anlamlar": {
-            "zühre": "Çoban yıldızı"
+            "zühre": "Çoban yıldızı",
+            "yire": "Yere"
           }
         },
         {
           "numara": 10,
           "metin": "N'ider ‘âşık hânumânı sensüz cihânı yâ cânı İki cihân fidâ sana kimsene gümân dutmaya",
           "anlamlar": {
+            "n'ider": "Ne eder, ne yapar",
             "âşık": "Seven, Allah aşığı",
             "gümân": "Şüphe, zann"
           }
@@ -305,7 +312,7 @@
           "metin": "İki cihân zindânısa gerek bana bostân ola Ayruk bana ne gam gussa çün ‘inâyet dostdan ola",
           "anlamlar": {
             "bostân": "Bâğçe, yeşillik, bağlık yer",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "gussa": "Tasa, üzüntü",
             "dostdan": "Sevgili, Allah, mürşid"
           }
@@ -354,7 +361,8 @@
           "numara": 7,
           "metin": "Her dem yüzüm yire uram Allah'uma şükür kılam Ben benligüm dosta virem ne da'vî yâ destân ola",
           "anlamlar": {
-            "dem": "An, zamân, vakit, soluk, nefes"
+            "dem": "An, zamân, vakit, soluk, nefes",
+            "yire": "Yere"
           }
         },
         {
@@ -476,7 +484,7 @@
           "anlamlar": {
             "sinden": "Mezâr",
             "yir": "Yer, yeryüzü",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -485,7 +493,7 @@
           "anlamlar": {
             "dek": "Kadar, …a kadar",
             "dem": "An, zamân, vakit, soluk, nefes",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -516,7 +524,7 @@
           "numara": 2,
           "metin": "Ayruk bize yas eylemez gönlümüzi pâs eylemez Hak'dan gelen görklü âvâz andan gelen ündür bana",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "pâs": "Kir",
             "görklü": "Güzel, mübarek",
             "âvâz": "Sadâ, yüksek ses, şöhret",
@@ -527,7 +535,7 @@
           "numara": 3,
           "metin": "Ayruk bana ben dimeyem kimesneye sen dimeyem Ya kul ya sultân dimeyem kalsun işidenler tana",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -598,7 +606,7 @@
             "evvel": "Allah'ın sıfatı",
             "cân": "Can, ruh, hayat",
             "kân": "Maden ocağı, kaynak",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -693,6 +701,7 @@
             "yirinden": "Yer, yeryüzü",
             "heybetinden": "Hürmetle beraber korku hisssini veren hal",
             "yarıla": "Yarılmış yer, suyun açtığı uçurum",
+            "yire": "Yere",
             "perrân": "Uçan, uçucu"
           }
         },
@@ -828,7 +837,7 @@
           "numara": 8,
           "metin": "Yûnus senün kulun durur bellü bilürsin sen anı Ko söyleyenler söylesin ne yapışur dilden ana",
           "anlamlar": {
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         }
       ]
@@ -1193,7 +1202,7 @@
           "numara": 2,
           "metin": "‘Âşıklarun gönli gözi ma'şûkın isteyü gider Ayruk sûretde ne kalur kim kılısar zühd ü tâ'at",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "zühd": "Dünyadan el çekme, ibadet",
             "tâ'at": "İbadet, kulluk"
           }
@@ -1442,6 +1451,7 @@
             "cân": "Can, ruh, hayat",
             "dost": "Sevgili, Allah, mürşid",
             "mihrâbına": "Camide namaz kılarken imamın önünde durduğu yer",
+            "yire": "Yere",
             "münâcât": "Allah'a yakarış, dua"
           }
         },
@@ -1564,7 +1574,8 @@
           "metin": "Bir gün sana zevâl ire yüce kaddün ine yire Budaklarun oda gire kaynaya kazan kıza saç",
           "anlamlar": {
             "gün": "Gündüz, güneş",
-            "zevâl": "Son, yok oluş"
+            "zevâl": "Son, yok oluş",
+            "yire": "Yere"
           }
         },
         {
@@ -1607,6 +1618,7 @@
           "numara": 3,
           "metin": "Kimi âh idüp kılur zârı günehdür elinde varı Göçmiş yatur kara yiri miskînleri güleni gör",
           "anlamlar": {
+            "yiri": "Yeri",
             "miskînleri": "Hiçbir şeye mâlik olmayan yoksul, halsiz, hareketsiz"
           }
         },
@@ -1845,7 +1857,7 @@
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
             "hicâb": "Örtü, perde, utanma, sakınma",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "hayr": "Meşru iş, faydalı ve nurlu iş"
           }
         },
@@ -2047,7 +2059,7 @@
           "numara": 8,
           "metin": "Bildük gelen geçerimiş konan girü göçerimiş ‘Işk şerbetin içerimiş her kim bu ma'nîden tuyar",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "işk": "Aşk, candan sevme, sevgi",
             "ma'nîden": "Anlam, iç yüz, gerçek"
           }
@@ -2301,6 +2313,7 @@
           "numara": 5,
           "metin": "Bâkî dirlik seven kişi gerek tuta ‘ışk etegin ‘Işkdan artuk her nesnenün degşirilür zevâli var",
           "anlamlar": {
+            "dirlik": "Yaşayış, hayat",
             "seven": "Âşık",
             "ışk": "Aşk, ilahi sevgi",
             "işkdan": "Aşk, candan sevme, sevgi",
@@ -2391,6 +2404,7 @@
           "metin": "Yadlık yokdur bilene dirlik tuta gelene Bilelik söyleyene vuslat yolı kavîdür",
           "anlamlar": {
             "yadlık": "Yabancı, tanıdık olmayan, garib",
+            "dirlik": "Yaşayış, hayat",
             "bilelik": "Beraberlik, maiyet",
             "kavîdür": "Kuvvetli, sağlam, berk, pek"
           }
@@ -2499,7 +2513,9 @@
         {
           "numara": 3,
           "metin": "Bize bizden ulular inen eyü hûlular Ol eyü ‘amellüler haber böyle dir gider",
-          "anlamlar": {}
+          "anlamlar": {
+            "eyü": "İyi, güzel"
+          }
         },
         {
           "numara": 4,
@@ -2652,7 +2668,7 @@
             "duzagını": "Tuzak",
             "dost": "Sevgili, Allah, mürşid",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
-            "yigrek": "Daha iyi, müreccâh, üstün"
+            "yigrek": "Daha iyi, üstün"
           }
         },
         {
@@ -2767,7 +2783,8 @@
             "tâ'atından": "Allah'ın emirlerini yerine getirme, itaat etme, ibâdet etme",
             "dost": "Sevgili, Allah, mürşid",
             "katından": "Yan, huzur",
-            "fânî": "Geçici olan, yoklukla ilgili"
+            "fânî": "Geçici olan, yoklukla ilgili",
+            "n'iderler": "Ne eder, ne yapar"
           }
         },
         {
@@ -2899,6 +2916,7 @@
           "numara": 1,
           "metin": "İy bana eyü diyen benem kamudan kemter Şöyle mücrimem yolda mücrimler benden server",
           "anlamlar": {
+            "eyü": "İyi, güzel",
             "kamudan": "Herkesten, hepsinden",
             "kemter": "Değersiz, değeri az, daha aşağı",
             "mücrimler": "Suçlu, kabahatli",
@@ -2917,6 +2935,7 @@
           "numara": 3,
           "metin": "Zâhirüm eyü adda gönlüm fâsid tâ‘atda Bulunmaya Bagdâd'da bencileyin bir ‘ayyâr",
           "anlamlar": {
+            "eyü": "İyi, güzel",
             "fâsid": "Kötü, fenâ, yanlış, bozuk, fesad çıkaran",
             "bencileyin": "Benim gibi, bana benzeyen",
             "ayyâr": "Hilekâr, desiseci, iki yüzlü, içi başka dışı başka olan kişi"
@@ -2929,7 +2948,8 @@
             "biliş": "Bildik, tanıdık, âşinâ, ma'rifet",
             "yâd": "Hatırlamak",
             "mürted": "İslâmdan dönen, Tasavvufta yoldan çıkan derviş",
-            "yavuz": "Kötü, fena, yaman, kara yağız",
+            "yavuz": "Kötü, fena",
+            "eyü": "İyi, güzel",
             "fitne": "Karışıklık"
           }
         },
@@ -2946,7 +2966,7 @@
           "metin": "Hırkam suçuma perde endîşem fâsid yirde Gönlüm ayruk bâzârda dilümde sözüm esrâr",
           "anlamlar": {
             "fâsid": "Kötü, fenâ, yanlış, bozuk, fesad çıkaran",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "esrâr": "Sırlar, gizli mânâlar, hikmetler"
           }
         },
@@ -3036,7 +3056,7 @@
           "anlamlar": {
             "evvel": "Allah'ın sıfatı",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -3048,7 +3068,7 @@
           "numara": 9,
           "metin": "Biz bir bahâne arada ayruk di elden ne gele Hak çün emir eyler câna bu keleci andan gelür",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "hak": "Allah, gerçek, doğru",
             "keleci": "Söz, mânâlı söz",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü"
@@ -3087,7 +3107,7 @@
           "anlamlar": {
             "hod": "Kendi, esasen, bizzat",
             "dostı": "Sevgili, Allah, mürşid",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -3096,7 +3116,7 @@
           "anlamlar": {
             "bâzirgânlar": "Tâcir, tüccâr",
             "gevher": "Mücevher, değerli öz",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -3143,6 +3163,7 @@
           "numara": 4,
           "metin": "Baykuş çagırur vîrânda kimse murâd almaz anda Eyü ‘amel ide görün ol Hak terâzû andadur",
           "anlamlar": {
+            "eyü": "İyi, güzel",
             "amel": "İş, hayır, çalışma",
             "hak": "Allah, gerçek, doğru",
             "andadur": "Orada, oraya, o konuda, o hususta, o zamân"
@@ -3441,7 +3462,8 @@
           "numara": 1,
           "metin": "Senündür pâdişâhlık kudretün var Yaratdun yiri gögi heybetün var",
           "anlamlar": {
-            "pâdişâhlık": "Padişah, mecazen Ruh, Cenâb-ı Hak"
+            "pâdişâhlık": "Padişah, mecazen Ruh, Cenâb-ı Hak",
+            "yiri": "Yeri"
           }
         },
         {
@@ -3623,6 +3645,7 @@
             "dem": "An, zamân, vakit, soluk, nefes",
             "dîv": "Şeytân, cin",
             "perî": "Melek",
+            "yiri": "Yeri",
             "cân": "Can, ruh, hayat"
           }
         },
@@ -3660,6 +3683,7 @@
           "metin": "Bir dem varur mescidlere yüzin sürer anda yire Bir dem varur deyre girer İncîl okur ruhbân olur",
           "anlamlar": {
             "dem": "An, zamân, vakit, soluk, nefes",
+            "yire": "Yere",
             "ruhbân": "Hırıstiyan mistiği"
           }
         },
@@ -3820,7 +3844,7 @@
           "numara": 2,
           "metin": "Baksam seni görür gözüm söylerisem sensin sözüm Seni gözetmekden dahı yigrek şikârum yok durur",
           "anlamlar": {
-            "yigrek": "Daha iyi, müreccâh, üstün"
+            "yigrek": "Daha iyi, üstün"
           }
         },
         {
@@ -3828,7 +3852,7 @@
           "metin": "Söylerisem dilümdesin ger tek tursam gönlümdesin Gönlüm gözüm seni sever ayruk nigârum yok durur",
           "anlamlar": {
             "tek": "Gibi, bir",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -3843,7 +3867,7 @@
           "metin": "Eger beni Cercîs'leyin yitmiş kez öldürürisen Dönem girü sana varam zîrâ ki ‘ârum yok durur",
           "anlamlar": {
             "kez": "Defa, kere",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -3856,7 +3880,7 @@
           "metin": "Yûnus dahı ‘âşık sana göster dîdârunı ana Yârüm dahı sensin benüm ayruk dîdârum yok durur",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         }
       ]
@@ -4030,6 +4054,7 @@
             "bülbül": "Aşık, derviş",
             "yâri": "Yardım",
             "gülistândur": "Gül bahçesi",
+            "yiri": "Yeri",
             "bâglar": "Bahçe, büyük bahçe, bostan"
           }
         },
@@ -4037,6 +4062,7 @@
           "numara": 4,
           "metin": "Balı yagı n'ider bülbül din ana karşu gülsün gül ‘Âşık yükini şöyle bil ki çekmedi yüce taglar",
           "anlamlar": {
+            "n'ider": "Ne eder, ne yapar",
             "bülbül": "Aşık, derviş",
             "din": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek",
             "gül": "Sevgili, güzellik",
@@ -4127,7 +4153,7 @@
           "numara": 8,
           "metin": "Hiç yogıken oldun diri aç gözüni yolca yüri Anlayasın sen bu sırrı bellü haber manzûr nedür",
           "anlamlar": {
-            "bellü": "Belli, aşikâr, açık",
+            "bellü": "Belli, açık",
             "manzûr": "Nazar edilen, bakılan"
           }
         },
@@ -4135,7 +4161,7 @@
           "numara": 9,
           "metin": "Dahı yakın haber diyem anlayasın bellü beyân Nefs dilegin terk eyleyen ol ezelî magfûr nedür",
           "anlamlar": {
-            "bellü": "Belli, aşikâr, açık",
+            "bellü": "Belli, açık",
             "nefs": "Benlik, ego",
             "terk": "Bırakmak, vazgeçmek"
           }
@@ -4209,7 +4235,8 @@
             "şerî'at": "Dinin zahiri kuralları",
             "tarîkat": "Tasavvuf yolu",
             "dost": "Sevgili, Allah, mürşid",
-            "pes": "O halde, öyle ise"
+            "pes": "O halde, öyle ise",
+            "niçün": "Niçin, neden"
           }
         },
         {
@@ -4336,6 +4363,7 @@
           "metin": "‘Âşık bu dünyâyı n'ider ‘âkıbet bir gün terk ider ‘Işk etegin dutmış gider her kim gelürse saladur",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
+            "n'ider": "Ne eder, ne yapar",
             "gün": "Gündüz, güneş",
             "terk": "Bırakmak, vazgeçmek",
             "işk": "Aşk, candan sevme, sevgi",
@@ -4410,7 +4438,7 @@
           "numara": 6,
           "metin": "Birbirne yavuz sanur itdügin kala sanur Yarın mahşer güninde işi beyân olısar",
           "anlamlar": {
-            "yavuz": "Kötü, fena, yaman, kara yağız",
+            "yavuz": "Kötü, fena",
             "mahşer": "Kıyamette ölülerin dirilip toplanacakları yer"
           }
         },
@@ -4444,7 +4472,8 @@
           "numara": 2,
           "metin": "Taglar aşup berye söküp ırak yire emek döküp İstedügün bundayiken bu ne ‘aceb sefer durur",
           "anlamlar": {
-            "taglar": "Dağ"
+            "taglar": "Dağ",
+            "yire": "Yere"
           }
         },
         {
@@ -4480,6 +4509,7 @@
           "anlamlar": {
             "çalap": "Tanrı, Allah",
             "pes": "O halde, öyle ise",
+            "niçün": "Niçin, neden",
             "münkir": "İnkarcı",
             "hatar": "Tehlike, uçurum, emniyetsizlik, korku"
           }
@@ -4566,7 +4596,8 @@
           "numara": 5,
           "metin": "Harâbâtîlerden göründi çün kim ‘ışk N'iderler bu ‘ârı bu rengi yuyalar",
           "anlamlar": {
-            "ışk": "Aşk, ilahi sevgi"
+            "ışk": "Aşk, ilahi sevgi",
+            "n'iderler": "Ne eder, ne yapar"
           }
         },
         {
@@ -4609,6 +4640,7 @@
             "dostını": "Sevgili, Allah, mürşid",
             "gaybet": "Başka yerde bulunmak",
             "gammâzlık": "Münafık, fitneci, birini birine çekiştiren",
+            "yiri": "Yeri",
             "tar": "Dar"
           }
         },
@@ -4616,6 +4648,7 @@
           "numara": 3,
           "metin": "Çünki olısar yiri tar kazançlu kazancı kadar Mü'minlere geldi haber ‘âşıklar dîdâr göriser",
           "anlamlar": {
+            "yiri": "Yeri",
             "tar": "Dar",
             "âşıklar": "Seven, Allah aşığı"
           }
@@ -4640,7 +4673,7 @@
           "metin": "Alun evliyânun elin togrı varun Hakk'un yolın Ma'nî budur bellü bilün bildüm diyen bilmeyiser",
           "anlamlar": {
             "ma'nî": "Anlam, iç yüz, gerçek",
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         },
         {
@@ -4747,13 +4780,15 @@
           "metin": "‘Işksuzlara benüm sözüm benzer kaya yankusına Bir zerre ‘ışkı olmayan bellü bilün yabandadur",
           "anlamlar": {
             "zerre": "Çok küçük parça, atom",
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         },
         {
           "numara": 4,
           "metin": "Yalancılık eylemegil ‘ışka yalandur dimegil Bunda yalan söyleyenün anda yiri zindândadur",
-          "anlamlar": {}
+          "anlamlar": {
+            "yiri": "Yeri"
+          }
         },
         {
           "numara": 5,
@@ -4828,7 +4863,7 @@
           "metin": "‘Aynı hırs ol olmışdur nefsine ol kalmışdur Kendüye düşmân olmış yavuz yoldaşa benzer",
           "anlamlar": {
             "nefsine": "Benlik, ego",
-            "yavuz": "Kötü, fena, yaman, kara yağız"
+            "yavuz": "Kötü, fena"
           }
         },
         {
@@ -5020,7 +5055,7 @@
           "metin": "Her kim bu şâra geldi bir lahza karâr kıldı Girü dönüp gitmegi gelmez sefere benzer",
           "anlamlar": {
             "lahza": "Zaman",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -5171,69 +5206,85 @@
         {
           "numara": 1,
           "metin": "Allah diyelüm dâim Allah görelüm n'eyler Yolda turalum kâ'im Allah görelüm n'eyler",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'eyler": "Ne eyler, ne yapar"
+          }
         },
         {
           "numara": 2,
           "metin": "Allah diyü kıl zârı Oldur kamunun varı Andan umalum yarı Allah görelüm n'eyler",
           "anlamlar": {
-            "andan": "Ondan, ona, ondan sonra, ondan ötürü"
+            "andan": "Ondan, ona, ondan sonra, ondan ötürü",
+            "n'eyler": "Ne eyler, ne yapar"
           }
         },
         {
           "numara": 3,
           "metin": "Çıkarmayalum dilden Ayrılmayalum yârdan Irılmayalum yoldan Allah görelüm n'eyler",
           "anlamlar": {
-            "yârdan": "Sevgili, dost"
+            "yârdan": "Sevgili, dost",
+            "n'eyler": "Ne eyler, ne yapar"
           }
         },
         {
           "numara": 4,
           "metin": "Açlık sonı toklıkdur Toklık sonı yoklıkdur Bu yollar korkulıkdur Allah görelüm n'eyler",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'eyler": "Ne eyler, ne yapar"
+          }
         },
         {
           "numara": 5,
           "metin": "Sen sanmadugun yirde Nâgâh açıla perde Dermân irişe derde Allah görelüm n'eyler",
           "anlamlar": {
-            "nâgâh": "Ansızın, birden bire"
+            "nâgâh": "Ansızın, birden bire",
+            "n'eyler": "Ne eyler, ne yapar"
           }
         },
         {
           "numara": 6,
           "metin": "Gündüz olalum sâ'im Gice olalum kâ'im Allah diyelüm dâim Allah görelüm n'eyler",
           "anlamlar": {
-            "sâ'im": "Oruçlu"
+            "sâ'im": "Oruçlu",
+            "n'eyler": "Ne eyler, ne yapar"
           }
         },
         {
           "numara": 7,
           "metin": "Adı sanı dillerde Sevgüsi gönüllerde Şol korkulu yollarda Allah görelüm n'eyler",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'eyler": "Ne eyler, ne yapar"
+          }
         },
         {
           "numara": 8,
           "metin": "Adı sanı uşatdum Küfrümi suya atdum Miskînlige el katdum Allah görelüm n'eyler",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'eyler": "Ne eyler, ne yapar"
+          }
         },
         {
           "numara": 9,
           "metin": "Her dem talalum bahre Aldanmayalum dehre Sabreyleyelüm kahra Allah görelüm n'eyler",
           "anlamlar": {
-            "dem": "An, zamân, vakit, soluk, nefes"
+            "dem": "An, zamân, vakit, soluk, nefes",
+            "n'eyler": "Ne eyler, ne yapar"
           }
         },
         {
           "numara": 10,
           "metin": "‘Âr-nâmusı bırakdum Külümi suya atdum Dervîşlige el katdum Allah görelüm n'eyler",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'eyler": "Ne eyler, ne yapar"
+          }
         },
         {
           "numara": 11,
           "metin": "Mecnûn gibi âvâre 'Âşık oluban yâre Di Yûnus sen bî-çâre Allah görelüm n'eyler",
           "anlamlar": {
             "mecnûn": "Deli, aşk delisi",
-            "'âşık": "Seven, Allah aşığı"
+            "'âşık": "Seven, Allah aşığı",
+            "n'eyler": "Ne eyler, ne yapar"
           }
         },
         {
@@ -5242,14 +5293,16 @@
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
             "cân": "Can, ruh, hayat",
-            "andandur": "Ondan, ona, ondan sonra, ondan ötürü"
+            "andandur": "Ondan, ona, ondan sonra, ondan ötürü",
+            "n'eyler": "Ne eyler, ne yapar"
           }
         },
         {
           "numara": 13,
           "metin": "N'itdi bu Yûnus n'itdi Bir togrı yola gitdi Pîrler etegin tutdı Allah görelüm n'eyler",
           "anlamlar": {
-            "pîrler": "İhtiyar, tarikat kurucusu"
+            "pîrler": "İhtiyar, tarikat kurucusu",
+            "n'eyler": "Ne eyler, ne yapar"
           }
         }
       ]
@@ -5308,7 +5361,8 @@
           "anlamlar": {
             "erenler": "Evliyâ, ermiş kişi",
             "ışk": "Aşk, ilahi sevgi",
-            "hak": "Allah, gerçek, doğru"
+            "hak": "Allah, gerçek, doğru",
+            "yire": "Yere"
           }
         },
         {
@@ -5396,7 +5450,7 @@
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
             "ışkdan": "Aşk, ilahi sevgi",
             "artuk": "Başka, başkası, gayrı, fazla, artık",
-            "yigrek": "Daha iyi, müreccâh, üstün"
+            "yigrek": "Daha iyi, üstün"
           }
         }
       ]
@@ -5466,7 +5520,9 @@
         {
           "numara": 1,
           "metin": "‘Işkun odı yüregümde neler eyler neler eyler Bugün bir ‘âşıkı gördüm bu derdümden haber söyler Gelün hey dertlüler gelün bu derdümden siz de alun Dertlü bilür dertlü hâlin ya dertsüzler bunda n'eyler",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'eyler": "Ne eyler, ne yapar"
+          }
         },
         {
           "numara": 3,
@@ -5553,7 +5609,8 @@
           "metin": "Bu dem yüzüm süre turam her dem ayum yini togar Her dem bayram durur bana yayum kışum yini bahâr Bulut gölge kılmayısar benüm ayum ışıgına Hem gedilmez tolulugı nûrı gökden yire dogar",
           "anlamlar": {
             "dem": "An, zamân, vakit, soluk, nefes",
-            "yini": "Yeni"
+            "yini": "Yeni",
+            "yire": "Yere"
           }
         },
         {
@@ -5571,7 +5628,7 @@
           "metin": "Evvel ay niçe dogdıysa ayruk dolanmadı hergiz Eksilmedi ‘ömri anun her kime kim kıldı nazar",
           "anlamlar": {
             "evvel": "Allah'ın sıfatı",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "hergiz": "Asla",
             "nazar": "Göz atmak, yan bakmak, tetkik"
           }
@@ -5600,6 +5657,7 @@
           "numara": 8,
           "metin": "N'ola Yûnus sevdiyise çokdur Hakk'ı seviciler Sevenleri gördiyidi anun içün boynın eger",
           "anlamlar": {
+            "n'ola": "Ne olur",
             "seviciler": "Âşık, seven",
             "sevenleri": "Âşık"
           }
@@ -5629,6 +5687,7 @@
           "numara": 3,
           "metin": "‘Işkun çeri saldı benüm gönlüm evi iklîmine Cânumı esîr eyledün n'ider bana yagı Tatar",
           "anlamlar": {
+            "n'ider": "Ne eder, ne yapar",
             "tatar": "Mal, davar"
           }
         },
@@ -5737,7 +5796,7 @@
           "numara": 2,
           "metin": "Biz bu yoldan üşenmedük erenlerden usanmaduk Kimseyi yavuz sanmaduk her ne ider kolmaş ider",
           "anlamlar": {
-            "yavuz": "Kötü, fena, yaman, kara yağız"
+            "yavuz": "Kötü, fena"
           }
         },
         {
@@ -5991,13 +6050,16 @@
           "anlamlar": {
             "dervîşlik": "Yoksul, mütevazî kişi, tarikate girmiş kimse",
             "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
-            "evvel": "Allah'ın sıfatı"
+            "evvel": "Allah'ın sıfatı",
+            "dirlik": "Yaşayış, hayat"
           }
         },
         {
           "numara": 2,
           "metin": "Çün anda dirlik ola Hakk'ıla birlik ola Varlıgı elden koyup ere kullık gerekdür",
-          "anlamlar": {}
+          "anlamlar": {
+            "dirlik": "Yaşayış, hayat"
+          }
         },
         {
           "numara": 3,
@@ -6102,7 +6164,7 @@
           "metin": "‘Işksuz âdem dünyede bellü bilün yok durur Her biri bir nesneye sevgüsi var “âşıkdur Çalab'un dünyâsında yüz bin dürlü sevgü var Kabûl it kendözüne gör kangısı lâyıkdur",
           "anlamlar": {
             "işksuz": "Aşk, candan sevme, sevgi",
-            "bellü": "Belli, aşikâr, açık",
+            "bellü": "Belli, açık",
             "âşıkdur": "Seven, Allah aşığı",
             "dürlü": "Türlü",
             "sevgü": "Sevgi"
@@ -6187,7 +6249,7 @@
           "anlamlar": {
             "eyle": "Öyle, o şekilde",
             "dost": "Sevgili, Allah, mürşid",
-            "bellü": "Belli, aşikâr, açık",
+            "bellü": "Belli, açık",
             "cân": "Can, ruh, hayat"
           }
         },
@@ -6196,7 +6258,7 @@
           "metin": "Eyler idi satu-bâzâr bir pûl içün girü bozar Olmış bu dünyâdan bizâr yensüz gönlek geydi gider",
           "anlamlar": {
             "pûl": "Para",
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "bizâr": "Rahatsız, bıkmış usanmış, küskün",
             "yensüz": "Elbisenin ucu, yeni",
             "gönlek": "Gömlek"
@@ -6213,7 +6275,8 @@
           "numara": 7,
           "metin": "Gaflete virme özüni dünyâ-perestlik eyleyüp Görme misin bu dünyâya eyü yavuz geldi gider",
           "anlamlar": {
-            "yavuz": "Kötü, fena, yaman, kara yağız"
+            "eyü": "İyi, güzel",
+            "yavuz": "Kötü, fena"
           }
         },
         {
@@ -6288,7 +6351,7 @@
           "anlamlar": {
             "hadîs": "Hz",
             "kelâm": "Söz",
-            "bellü": "Belli, aşikâr, açık",
+            "bellü": "Belli, açık",
             "tanla": "Şaşırmak, hayrette kalmak"
           }
         },
@@ -6534,6 +6597,7 @@
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
             "abes": "Boş, mânâsız, faydasız",
+            "yire": "Yere",
             "yilmekdür": "Koşmak, bir şeye değer verip ardından gitmek"
           }
         },
@@ -6823,7 +6887,9 @@
         {
           "numara": 12,
           "metin": "Kimin elin alur ‘Arş'a çıkarur Kimin yire çalar kara kül eyler",
-          "anlamlar": {}
+          "anlamlar": {
+            "yire": "Yere"
+          }
         },
         {
           "numara": 13,
@@ -6851,7 +6917,9 @@
         {
           "numara": 2,
           "metin": "Gülme sakın sen ana eyü degildür sana Kişi neyi gülerse başa gelegen olur",
-          "anlamlar": {}
+          "anlamlar": {
+            "eyü": "İyi, güzel"
+          }
         },
         {
           "numara": 3,
@@ -7083,7 +7151,7 @@
           "numara": 6,
           "metin": "Yarın peygamberler ‘âciz olısar Girü elin alası Mustafâ'dur",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -7234,7 +7302,9 @@
         {
           "numara": 2,
           "metin": "Dünyâyı inanursın rızka benümdür dirsin Niçün yalan söylersin çün hîç didügün olmaz",
-          "anlamlar": {}
+          "anlamlar": {
+            "niçün": "Niçin, neden"
+          }
         },
         {
           "numara": 3,
@@ -7245,7 +7315,7 @@
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
             "sarp": "Katı, zor, aşılması güç, yüksek",
             "firâkdur": "Ayrılık, ayrılma",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -7289,7 +7359,7 @@
           "anlamlar": {
             "uslular": "Akıllı",
             "dostıla": "Sevgili, Allah, mürşid",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -7297,6 +7367,7 @@
           "metin": "Bunun gibi gönülile niçe dirlik idebilem Bırakdı yabana beni bir gün gelüp hâlüm sormaz",
           "anlamlar": {
             "gönülile": "Gönül, yürek, kalp, fuad",
+            "dirlik": "Yaşayış, hayat",
             "gün": "Gündüz, güneş"
           }
         },
@@ -7360,7 +7431,8 @@
           "numara": 1,
           "metin": "Niçeler bu dünyede günâhını yuyamaz ‘Ömri geçer yok yire iy dirîga tuyamaz",
           "anlamlar": {
-            "niçeler": "Nasıl, ne suretle, ne kadar, çok"
+            "niçeler": "Nasıl, ne suretle, ne kadar, çok",
+            "yire": "Yere"
           }
         },
         {
@@ -7402,8 +7474,9 @@
           "numara": 1,
           "metin": "İy bana eyü diyen benem kamudan yavuz Alnumı ay bilürem bu gözlerümi yılduz",
           "anlamlar": {
+            "eyü": "İyi, güzel",
             "kamudan": "Herkesten, hepsinden",
-            "yavuz": "Kötü, fena, yaman, kara yağız"
+            "yavuz": "Kötü, fena"
           }
         },
         {
@@ -7433,7 +7506,7 @@
           "metin": "Bunun gibi sâlûslık çün kim elüme girdi Ayruk n'işüme yarar derd ü firâk âh u sûz",
           "anlamlar": {
             "sâlûslık": "Hilekâr, düzenci",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "firâk": "Ayrılık",
             "sûz": "Yanıp yakılma"
           }
@@ -7527,7 +7600,9 @@
         {
           "numara": 10,
           "metin": "Bu ben ben didügüm eger ben isem Bu benligüm bana niçün virilmez",
-          "anlamlar": {}
+          "anlamlar": {
+            "niçün": "Niçin, neden"
+          }
         },
         {
           "numara": 11,
@@ -7542,7 +7617,7 @@
           "metin": "Yûnus bu tevhîde gark oldı gitdi Girü gelmeklige ‘aklı dirilmez",
           "anlamlar": {
             "gark": "Suda boğulmak, batmak",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         }
       ]
@@ -7805,7 +7880,8 @@
             "gönülleri": "Gönül, yürek, kalp, fuad",
             "dürlü": "Türlü",
             "cân": "Can, ruh, hayat",
-            "gevdeden": "Gövde, vücûdun göğüs ve karın kısmı"
+            "gevdeden": "Gövde, vücûdun göğüs ve karın kısmı",
+            "niçün": "Niçin, neden"
           }
         },
         {
@@ -7877,7 +7953,9 @@
         {
           "numara": 7,
           "metin": "Bu dünyâdan ahiretden içerü ‘Âşıkun yiri var kimsene bilmez",
-          "anlamlar": {}
+          "anlamlar": {
+            "yiri": "Yeri"
+          }
         },
         {
           "numara": 8,
@@ -7914,7 +7992,7 @@
           "metin": "Yûnus bu deryâya gark oldı gitdi Girü gelmeklige ‘aklı dirilmez",
           "anlamlar": {
             "gark": "Suda boğulmak, batmak",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         }
       ]
@@ -7976,6 +8054,7 @@
           "metin": "Hep gafletile gâfil gafleti n'ider ‘âkil Bin söylesen key câhil ‘irfân yolına girmez",
           "anlamlar": {
             "gâfil": "Gaflet ehli, gerçeklerden habersiz, uyuyan",
+            "n'ider": "Ne eder, ne yapar",
             "âkil": "Akıllı, aklî düşünen ve hareket eden",
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı"
           }
@@ -8049,7 +8128,7 @@
           "numara": 6,
           "metin": "Su ne kadar arıda çün yavuz hûyun bile Meger bizi pâk ide Hak'dan ‘inâyetümüz",
           "anlamlar": {
-            "yavuz": "Kötü, fena, yaman, kara yağız"
+            "yavuz": "Kötü, fena"
           }
         },
         {
@@ -8084,7 +8163,7 @@
           "numara": 2,
           "metin": "Boynumda ‘icâzetüm riyâyıla tâ'atüm Endîşem ayruk yirde gözüm yolı gözetmez",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -8569,7 +8648,7 @@
           "numara": 6,
           "metin": "Gönlüm eydür varayın sana girü geleyin Gönlüm uydugı bana dostı bulıncayımış",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "dostı": "Sevgili, Allah, mürşid"
           }
         },
@@ -8783,7 +8862,7 @@
           "numara": 2,
           "metin": "Öliserüz bellü beyân gizlü içümüz olur ‘ıyân Teneşür üstine konup halk öninde yuvunıcak",
           "anlamlar": {
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         },
         {
@@ -8908,7 +8987,7 @@
           "numara": 1,
           "metin": "Gel iy gözüm agla gülmezem ayruk Cânum dosta gider gelmezem ayruk",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "cânum": "Canım, ruhum"
           }
         },
@@ -8917,28 +8996,28 @@
           "metin": "Ne gam bu dünyede bir kez ölürsem Anda ölüm olmaz ölmezem ayruk",
           "anlamlar": {
             "kez": "Defa, kere",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
           "numara": 3,
           "metin": "Varlıgum yokluga degşürmişem ben Bugün câna başa kalmazam ayruk",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
           "numara": 4,
           "metin": "Mahabbet bahrinün gavvâsı oldum Gerekmez Ceyhûn'a talmazam ayruk",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
           "numara": 5,
           "metin": "Yanmışam ‘ışkuna tâ kül olınca Boyandum rengüne solmazam ayruk",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -8946,7 +9025,7 @@
           "metin": "Ko beni yatayın dost işiginde Yiter bir el dahı almazam ayruk",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -8954,7 +9033,7 @@
           "metin": "Yansun cânum yansun ‘ışkun odına Aksun yaşum aksun silmezem ayruk",
           "anlamlar": {
             "cânum": "Canım, ruhum",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -8963,7 +9042,7 @@
           "anlamlar": {
             "kaçan": "Ne vakit, ne zamân",
             "âşık": "Seven, Allah aşığı",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -8971,7 +9050,7 @@
           "metin": "Dilerem fazlundan ayurmayasın Hocam senden özge sevmezem ayruk",
           "anlamlar": {
             "özge": "Başka",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -8979,7 +9058,7 @@
           "metin": "Yûnus ‘âşık durur ma'şûkın ister Dahı hîç nesne istemezem ayruk",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         }
       ]
@@ -9198,7 +9277,7 @@
           "metin": "Dil niçe vasf itsün hüsnünile hulkunı kim Hüsnüni Hak eylesün yavuz gözlerden ırak",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
-            "yavuz": "Kötü, fena, yaman, kara yağız"
+            "yavuz": "Kötü, fena"
           }
         },
         {
@@ -9241,6 +9320,7 @@
           "numara": 3,
           "metin": "Yidi gök yidi yiri tagları denizleri Uçmagıla Tamu'yı cümle vücûdda bulduk",
           "anlamlar": {
+            "yiri": "Yeri",
             "tagları": "Dağ",
             "uçmagıla": "Cennet"
           }
@@ -9357,7 +9437,7 @@
           "numara": 10,
           "metin": "Dîdârum sana ‘ıyân gösterem bellü-beyân İn Burâk'dan ol yayan ‘Arş'uma bas bir ayak",
           "anlamlar": {
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         },
         {
@@ -9391,7 +9471,7 @@
           "numara": 14,
           "metin": "Mi'râc'dan döndi yine girü geldi evine Geldi gördi henüz kim döşecigi ısıcak",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -9495,7 +9575,7 @@
             "sûret": "Şekil, dış görünüş, beden",
             "cânsuz": "Cism-i latif",
             "visâl": "Kavuşma, vuslat",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -9619,6 +9699,7 @@
           "numara": 5,
           "metin": "Ol ikindiyi kılanlar arı dirlik dirilenler Olardur Hakk'a irenler her dem anlar irse gerek",
           "anlamlar": {
+            "dirlik": "Yaşayış, hayat",
             "dem": "An, zamân, vakit, soluk, nefes",
             "anlar": "Onlar"
           }
@@ -9627,7 +9708,8 @@
           "numara": 6,
           "metin": "Ahşam durur üç farîza tagca günâhun arıda Eyü ‘amellerün sinde şem ü çerâg olsa gerek",
           "anlamlar": {
-            "tagca": "Dağca"
+            "tagca": "Dağca",
+            "eyü": "İyi, güzel"
           }
         },
         {
@@ -9764,6 +9846,7 @@
           "numara": 3,
           "metin": "Gök perdelerin açalar eyü yavuzdan seçeler Ol dem kancaru kaçalar baş kurtarası yir gerek",
           "anlamlar": {
+            "eyü": "İyi, güzel",
             "yavuzdan": "Kötü, fena, yaman, kara yağız",
             "dem": "An, zamân, vakit, soluk, nefes",
             "kancaru": "Nereye, ne tarafa",
@@ -9820,7 +9903,8 @@
           "numara": 3,
           "metin": "Biz de varavuz ol ile kaçan ki va‘demüz gele Kişi varacagı yire gönlini berkitse gerek",
           "anlamlar": {
-            "kaçan": "Ne vakit, ne zamân"
+            "kaçan": "Ne vakit, ne zamân",
+            "yire": "Yere"
           }
         },
         {
@@ -9934,6 +10018,7 @@
           "numara": 1,
           "metin": "N'idelüm bu dünyâyı n'eyleyüp n'itmek gerek Dâimâ ‘ışk etegin komayup tutmak gerek Çalab'um bu dünyâyı kahır içün yaratmış Gerçegin gelenlerün kahrını yutmak gerek",
           "anlamlar": {
+            "n'idelüm": "Ne edelim",
             "ışk": "Aşk, ilahi sevgi",
             "yutmak": "Hazmetmek, içinde bırakmak"
           }
@@ -10029,6 +10114,7 @@
           "numara": 1,
           "metin": "N'iderüz dirlik suyın biz cânı yagmâya virdük Cevherleri sarrâflara ma‘deni yagmâya virdük",
           "anlamlar": {
+            "dirlik": "Yaşayış, hayat",
             "cevherleri": "Kıymetli taş, maya, öz"
           }
         },
@@ -10144,7 +10230,7 @@
           "anlamlar": {
             "şehd": "Bal",
             "agudur": "Zehir",
-            "yigrek": "Daha iyi, müreccâh, üstün"
+            "yigrek": "Daha iyi, üstün"
           }
         },
         {
@@ -10287,7 +10373,8 @@
           "metin": "Yûnus eydür ol melâmet şeyhligi ‘âşıklıga sat ‘Âşık da n'ister eyü ad bed-nâmı hoşdur ‘âşıkun",
           "anlamlar": {
             "melâmet": "Kınama, ayıplama, azarlama",
-            "âşık": "Seven, Allah aşığı"
+            "âşık": "Seven, Allah aşığı",
+            "eyü": "İyi, güzel"
           }
         }
       ]
@@ -10308,6 +10395,7 @@
           "numara": 2,
           "metin": "Sen yüceden çıkarsın alçak yire akarsın Gönül Hakk'a dutarsın alçak gönlün var senün",
           "anlamlar": {
+            "yire": "Yere",
             "gönül": "Kalp, yürek, iç dünya"
           }
         },
@@ -10379,7 +10467,7 @@
           "metin": "Sen dünyânun terkin urgıl gelüp ‘ışk evine girgil İlerki menzile irgil girü kalmak nendür senün",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -10421,7 +10509,8 @@
           "metin": "Yigil yidürgil bî-çâre eksilürse Tanrı'n vire Bir gün tenün yire gire girü kalan nendür senün",
           "anlamlar": {
             "gün": "Gündüz, güneş",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "yire": "Yere",
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -10817,7 +10906,7 @@
           "numara": 2,
           "metin": "Eger girçek konugısan aç gözün uyanugısan Sen bu söze tanugısan girü kalur mülkile mâl",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "mülkile": "Elde bulunan, tasarruf olunan şeyler"
           }
         },
@@ -10917,7 +11006,9 @@
           "numara": 6,
           "metin": "Yûnus miskîn mestânesin sen seni gör ko bunları Dünyâda riyâlu dirlik kişiye eyü ad degül",
           "anlamlar": {
-            "miskîn": "Yoksul, alçakgönüllü, benliksiz"
+            "miskîn": "Yoksul, alçakgönüllü, benliksiz",
+            "dirlik": "Yaşayış, hayat",
+            "eyü": "İyi, güzel"
           }
         }
       ]
@@ -10970,7 +11061,7 @@
           "numara": 5,
           "metin": "Algıl kendü elünile girü kendü hisâbunı Yohsa serhengler elinde katı yaramaz olur hâl",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "yohsa": "Yoksa",
             "serhengler": "Çavuş, kavas, yasakçı",
             "yaramaz": "Günahlı kul, yararsız, kötü şey"
@@ -11051,6 +11142,7 @@
           "anlamlar": {
             "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
             "hak": "Allah, gerçek, doğru",
+            "n'ola": "Ne olur",
             "alâ": "Yüce, ulu",
             "küllî": "Bütün, tam, umûmî, hepsi, tamâmı"
           }
@@ -11151,7 +11243,7 @@
           "anlamlar": {
             "fânîdür": "Geçici olan, yoklukla ilgili",
             "cân": "Can, ruh, hayat",
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "cânlar": "Cism-i latif"
           }
         },
@@ -11166,7 +11258,7 @@
           "numara": 4,
           "metin": "Sakıngıl yârün gönlin sırçadur sımayasın Sırça sındukdan girü bütün olası degül",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -11190,7 +11282,7 @@
           "numara": 8,
           "metin": "Yûnus gözün görürken yaragun eyleyigör Gelmedi anda varan girü gelesi degül",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         }
       ]
@@ -11214,8 +11306,9 @@
           "metin": "Şöyle dirilgil hulkıla ölicegiz söyleşeler Bâkî dirlik budur cânum yavuz adıla gitmegil",
           "anlamlar": {
             "hulkıla": "Huy, tabîat",
+            "dirlik": "Yaşayış, hayat",
             "cânum": "Canım, ruhum",
-            "yavuz": "Kötü, fena, yaman, kara yağız"
+            "yavuz": "Kötü, fena"
           }
         },
         {
@@ -11372,7 +11465,8 @@
           "numara": 1,
           "metin": "N'ola gelsen şimden girü fesâdı terk itsen gönül Gâh aglasan günâhuna gâh kanâ‘at itsen gönül",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "n'ola": "Ne olur",
+            "girü": "Geri, tekrar",
             "terk": "Bırakmak, vazgeçmek",
             "gönül": "Kalp, yürek, iç dünya",
             "gâh": "Bazan, ara sıra"
@@ -11390,6 +11484,7 @@
           "numara": 3,
           "metin": "Niçe bir ben sana uyam özümi belâya koyam N'ola gelsen sen de benüm ögüdümi dutsan gönül",
           "anlamlar": {
+            "n'ola": "Ne olur",
             "gönül": "Kalp, yürek, iç dünya"
           }
         },
@@ -11443,7 +11538,8 @@
           "metin": "Dirsin şeyhüm ‘ışkıla yalın ayak baş açuk Er var dirlik dirilmiş yalın ayak aç degül",
           "anlamlar": {
             "ışkıla": "Aşk, ilahi sevgi",
-            "baş": "Yasa"
+            "baş": "Yasa",
+            "dirlik": "Yaşayış, hayat"
           }
         },
         {
@@ -11815,6 +11911,7 @@
           "numara": 4,
           "metin": "Yire bünyâd urulmadın Âdem dünyâya gelmedin Öküz balık eylenmedin ben ezelî andayıdum",
           "anlamlar": {
+            "yire": "Yere",
             "bünyâd": "Temel, esâs, asıl"
           }
         },
@@ -11894,6 +11991,7 @@
           "numara": 2,
           "metin": "Yire bünyâd urulmadın yir-gök melâik tolmadın Levh ü kalem çalınmadın mülk-i yaradandayıdum",
           "anlamlar": {
+            "yire": "Yere",
             "bünyâd": "Temel, esâs, asıl",
             "yir": "Yer, yeryüzü",
             "melâik": "Melekler",
@@ -12076,14 +12174,16 @@
           "anlamlar": {
             "elif": "Eski yazımızın ilk harfi",
             "münezzehdür": "Temiz, arı, noksanlardan uzak",
-            "endîşe": "Düşünce, fikir"
+            "endîşe": "Düşünce, fikir",
+            "niçün": "Niçin, neden"
           }
         },
         {
           "numara": 5,
           "metin": "Yitmiş iki millete suçum budur Hak didüm Korkı hıyânetedür yâ ben niçün kızaram",
           "anlamlar": {
-            "hak": "Allah, gerçek, doğru"
+            "hak": "Allah, gerçek, doğru",
+            "niçün": "Niçin, neden"
           }
         },
         {
@@ -12202,6 +12302,7 @@
           "numara": 1,
           "metin": "Uş gine geldüm ben bunda sır sözin ‘ıyân eyleyem Bir söz ile yiri gögi cümlesin hayrân eyleyem",
           "anlamlar": {
+            "yiri": "Yeri",
             "cümlesin": "Bütün, hep",
             "hayrân": "Şaşırmış, şaşkın"
           }
@@ -12220,7 +12321,9 @@
         {
           "numara": 3,
           "metin": "Dirlik bana karşu gele ben dirligün boynın uram Ölüm eger vâcib ola cânumı kurbân eyleyem",
-          "anlamlar": {}
+          "anlamlar": {
+            "dirlik": "Yaşayış, hayat"
+          }
         },
         {
           "numara": 4,
@@ -12273,6 +12376,7 @@
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
+            "dirlik": "Yaşayış, hayat",
             "kadîm": "Zaman itibariyle eski olan, öncesi olmayan"
           }
         },
@@ -12309,7 +12413,7 @@
           "anlamlar": {
             "dostlar": "Sevgili, Allah, mürşid",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -12347,7 +12451,7 @@
             "dost": "Sevgili, Allah, mürşid",
             "kadeh": "İlahi aşk kadehi",
             "şarâb": "İlahi aşk, irfan",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -12355,13 +12459,15 @@
           "metin": "Ne turum var ne turagum hîç yirde yokdur karârum Hakk'a münâcât itmege bellü yirüm olmaz benüm",
           "anlamlar": {
             "münâcât": "Allah'a yakarış, dua",
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         },
         {
           "numara": 5,
           "metin": "Sor turdugum yiri bana gelürsen gösterem sana Bir zerrece Hak'dan ayru gözüm nesne görmez benüm",
-          "anlamlar": {}
+          "anlamlar": {
+            "yiri": "Yeri"
+          }
         },
         {
           "numara": 6,
@@ -12370,7 +12476,7 @@
             "tûr": "Tûr-u Sînâ",
             "tecellî": "Allah'ın görünmesi, belirmesi",
             "hak": "Allah, gerçek, doğru",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         }
       ]
@@ -12572,6 +12678,7 @@
           "numara": 7,
           "metin": "Çün gökden yire yagdum yirden göge çok agdum Âdem tonın tonandum devrânum süre geldüm",
           "anlamlar": {
+            "yire": "Yere",
             "yirden": "Yer, yeryüzü"
           }
         },
@@ -12613,7 +12720,8 @@
           "metin": "Bundan böylesi bilgil pâdişâh iklîmidür Dört yanum dîdâr oldı gör ne hûb yire geldüm",
           "anlamlar": {
             "pâdişâh": "Padişah, mecazen Ruh, Cenâb-ı Hak",
-            "hûb": "Güzel"
+            "hûb": "Güzel",
+            "yire": "Yere"
           }
         },
         {
@@ -12703,7 +12811,8 @@
           "numara": 3,
           "metin": "İblîs ü âdem kim olur kim azdura yâhûd aza Bu cümlesi eyü yavuz kamusın andan tutaram",
           "anlamlar": {
-            "yavuz": "Kötü, fena, yaman, kara yağız",
+            "eyü": "İyi, güzel",
+            "yavuz": "Kötü, fena",
             "kamusın": "Bütün, hep",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü"
           }
@@ -12852,7 +12961,7 @@
           "metin": "Dost elinden ölürisem güle güle girü gelem Ganîmet görem bu demi cân şükrâne virü gelem",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "cân": "Can, ruh, hayat",
             "şükrâne": "Şükran alameti, nişanesi, muştuluk"
           }
@@ -12887,7 +12996,8 @@
           "numara": 5,
           "metin": "Dost burcında togmış iken niçün ırak varmak bana Ol mahabbet feleginde her sabâh çevürü gelem",
           "anlamlar": {
-            "dost": "Sevgili, Allah, mürşid"
+            "dost": "Sevgili, Allah, mürşid",
+            "niçün": "Niçin, neden"
           }
         },
         {
@@ -13097,7 +13207,7 @@
           "numara": 12,
           "metin": "Kaldum bir karanluk yirde Ayruk varımaz ol yirde Sataşdum bir ‘aceb derde Allâh sana sundum elüm",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -13325,7 +13435,7 @@
           "numara": 5,
           "metin": "Şâh dîdârın gördüm ‘ıyân gümânsuzın bellü beyân Kâfir ola inanmayan ol dîdâra bakan benem",
           "anlamlar": {
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         },
         {
@@ -13803,7 +13913,7 @@
             "çöksü": "Bir şeyin kımıldamaması için üste konan şey",
             "tagları": "Dağ",
             "sayvân": "Saçak, pervâz, kemer, sâyebân, gölgelik, çardak",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -13833,6 +13943,7 @@
           "numara": 8,
           "metin": "Halk içinde dirlik düzen dört kitâbı togru yazan Ag üstine kara dizen ol yazılan Kur'ân benem",
           "anlamlar": {
+            "dirlik": "Yaşayış, hayat",
             "togru": "Doğru"
           }
         },
@@ -13869,6 +13980,7 @@
           "numara": 13,
           "metin": "Yagmur olup yire yagan bulud olup göge agan Gözsüzlerün gözündeki boz pusaruk tuman benem",
           "anlamlar": {
+            "yire": "Yere",
             "pusaruk": "Sis, duman",
             "tuman": "Katarakt"
           }
@@ -13937,6 +14049,7 @@
           "numara": 7,
           "metin": "Yiri gögi benüm diyen magrıb maşrık benüm diyen Denizlere gel kıgıran adum Yûnus ‘ummân benem",
           "anlamlar": {
+            "yiri": "Yeri",
             "ummân": "Büyük deniz"
           }
         }
@@ -13953,13 +14066,15 @@
           "anlamlar": {
             "evvel": "Allah'ın sıfatı",
             "kadîm": "Zaman itibariyle eski olan, öncesi olmayan",
-            "önden": "Önce, evvel, ilkin, önceden"
+            "önden": "Önce, evvel, ilkin, önceden",
+            "yiri": "Yeri"
           }
         },
         {
           "numara": 2,
           "metin": "Ben bu yiri yaradıcak yir üstine gök turıcak Ulu deniz mevc urıcak Nûh'a tûfân viren benem",
           "anlamlar": {
+            "yiri": "Yeri",
             "yir": "Yer, yeryüzü",
             "mevc": "Dalga",
             "tûfân": "Çok şiddetli ve her tarafı kaplayan su"
@@ -13970,6 +14085,7 @@
           "metin": "Kün didüm bu yire turdı gökler dahı karâr kıldı Yüz bin dürlü âdem geldi getürüp gideren benem",
           "anlamlar": {
             "kün": "Allah'ın olmasını istediği şey ve iş için iradesini ifade eden Arapça'da “ol”...",
+            "yire": "Yere",
             "dürlü": "Türlü"
           }
         },
@@ -14075,7 +14191,7 @@
           "numara": 5,
           "metin": "Ben bunda geldüm ise ilüme girü gidem Sanma ki bunda beni altûna mâla geldüm",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -14162,7 +14278,7 @@
           "anlamlar": {
             "nefs": "Benlik, ego",
             "hevâ": "Heves, istek, arzû , nefse ait şeylere istek",
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "nefsile": "Benlik, ego"
           }
         },
@@ -14172,7 +14288,7 @@
           "anlamlar": {
             "cânum": "Canım, ruhum",
             "dek": "Kadar, …a kadar",
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "tuş": "Taraf, yön, cihet, rast gelme, karşısına durmak"
           }
         },
@@ -14915,7 +15031,9 @@
         {
           "numara": 2,
           "metin": "Benüm yoldaşlıgum edebe sıgmaz Edebsüz kişiye niçün refîkvam",
-          "anlamlar": {}
+          "anlamlar": {
+            "niçün": "Niçin, neden"
+          }
         },
         {
           "numara": 3,
@@ -15004,7 +15122,7 @@
           "numara": 6,
           "metin": "Yûnus eydür ben ‘âşıkam hem ‘âşıkam hem sâdıkam Bu ayruk ‘âşıklar gibi yokdur arâyişüm benüm",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "âşıklar": "Seven, Allah aşığı"
           }
         }
@@ -15142,6 +15260,7 @@
             "münâcât": "Allah'a yakarış, dua",
             "dost": "Sevgili, Allah, mürşid",
             "andadur": "Orada, oraya, o konuda, o hususta, o zamân",
+            "yiri": "Yeri",
             "tûr": "Tûr-u Sînâ"
           }
         },
@@ -15158,6 +15277,7 @@
           "metin": "Hidâyet irdi kamuya hevâsından geçmezlere Tevfîk yüzin yire urup ‘ışkumı şîr-gîr eyleyem",
           "anlamlar": {
             "tevfîk": "Yardım, Allah'ın kişiye yardımı",
+            "yire": "Yere",
             "şîr": "Arslan"
           }
         },
@@ -15299,6 +15419,7 @@
           "numara": 6,
           "metin": "Uçdum bir hoş yire kondum bu dünyâyı bâkî sandum İy yârânlar ben usandum kondum gine göçer oldum",
           "anlamlar": {
+            "yire": "Yere",
             "yârânlar": "Dostlar, sevgililer"
           }
         },
@@ -15364,6 +15485,7 @@
           "metin": "‘İzzet ü erkân eyü ad ‘ışk yolına noksân durur Ben n'iderem eyü adı çün terbiyet ‘ışkdan yirem",
           "anlamlar": {
             "erkân": "Rükûnlar, direkler, esaslar, âdet, töre",
+            "eyü": "İyi, güzel",
             "ışk": "Aşk, ilahi sevgi",
             "terbiyet": "Eğitim irşad, terbiye",
             "ışkdan": "Aşk, ilahi sevgi"
@@ -15581,7 +15703,9 @@
         {
           "numara": 10,
           "metin": "Bu yiri gögi yaradan bu ‘Arş'ı Kürs'i durudan Bin bir adı vardur Yûnus ol sâhib-i Kur'ân benem",
-          "anlamlar": {}
+          "anlamlar": {
+            "yiri": "Yeri"
+          }
         }
       ]
     },
@@ -15856,7 +15980,7 @@
           "numara": 2,
           "metin": "Cânumda ol büt bitüpdür gönülümi ol tutupdur Hey beni ol avutupdur ayruk neye baglanayım",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -15871,7 +15995,8 @@
           "metin": "Ben gevheriyem kânum ol ben bir kulam sultânum ol ‘Aklum u cânum gönlüm ol andan niçün usanayım",
           "anlamlar": {
             "cânum": "Canım, ruhum",
-            "andan": "Ondan, ona, ondan sonra, ondan ötürü"
+            "andan": "Ondan, ona, ondan sonra, ondan ötürü",
+            "niçün": "Niçin, neden"
           }
         },
         {
@@ -15976,6 +16101,7 @@
             "şeyâtîn": "Şeytânlar",
             "gönül": "Kalp, yürek, iç dünya",
             "eyi": "İyi",
+            "dirlik": "Yaşayış, hayat",
             "kesâd": "Alış veriş durgunluğu, kıtlık"
           }
         },
@@ -16093,6 +16219,7 @@
           "numara": 5,
           "metin": "Atamı yidi dirler anamı dört bilürem Atam anam birimiş niçün gussa yudaram",
           "anlamlar": {
+            "niçün": "Niçin, neden",
             "gussa": "Tasa, üzüntü"
           }
         },
@@ -16230,7 +16357,9 @@
         {
           "numara": 9,
           "metin": "Kaza kaza indüm yire gör bu nefsi yüzi kara Hürmeti yok Peygamber'e bendlerini bozar oldum",
-          "anlamlar": {}
+          "anlamlar": {
+            "yire": "Yere"
+          }
         },
         {
           "numara": 10,
@@ -16361,6 +16490,7 @@
           "numara": 8,
           "metin": "Ay oldum ‘âleme togdum bulut oldum göge agdum Yagmur olup yire yagdum nûr olup güneşe geldüm",
           "anlamlar": {
+            "yire": "Yere",
             "nûr": "Işık, aydınlık"
           }
         },
@@ -16376,6 +16506,7 @@
           "metin": "Benem dertlüler dermânı benem ol ma'rifet kânı Benem Mûsî-i İmrânî Tûr Tagı'ndan aşa geldüm",
           "anlamlar": {
             "ma'rifet": "Allah bilgisi, irfan",
+            "kânı": "Hani, nerede",
             "tûr": "Tûr-u Sînâ"
           }
         },
@@ -16517,7 +16648,7 @@
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
             "cânum": "Canım, ruhum",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         }
       ]
@@ -16879,7 +17010,8 @@
           "metin": "Bu sırrı duyan kanı key ‘ârifise cânı Açıldı güher kânı alana haber itsün",
           "anlamlar": {
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
-            "güher": "Mücevher, kıymetli taş, inci, gevher"
+            "güher": "Mücevher, kıymetli taş, inci, gevher",
+            "kânı": "Hani, nerede"
           }
         },
         {
@@ -17070,6 +17202,7 @@
           "numara": 1,
           "metin": "Niçün sen nefs-i emmârı bu gafletden uyarmazsın Muhammed şer‘î gülini senün yüzüne urmazsın",
           "anlamlar": {
+            "niçün": "Niçin, neden",
             "nefs": "Benlik, ego",
             "gülini": "Sevgili, güzellik"
           }
@@ -17089,20 +17222,24 @@
           "metin": "Günâhun çogu şûmından îmânun gülleri soldı ‘İnâyet suyıla her dem niçün anı suvarmazsın",
           "anlamlar": {
             "gülleri": "Sevgili, güzellik",
-            "dem": "An, zamân, vakit, soluk, nefes"
+            "dem": "An, zamân, vakit, soluk, nefes",
+            "niçün": "Niçin, neden"
           }
         },
         {
           "numara": 4,
           "metin": "Senün ol çok günâhlarun seni uş sayru eyledi Bî-çâre varuban niçün bu derde çâre sormazsın",
           "anlamlar": {
-            "sayru": "Hasta"
+            "sayru": "Hasta",
+            "niçün": "Niçin, neden"
           }
         },
         {
           "numara": 5,
           "metin": "Yârânlarundan utanup günâhı gizlü işlersin Yaradan Hâlik'un hâzır niçün ondan utanmazsın",
-          "anlamlar": {}
+          "anlamlar": {
+            "niçün": "Niçin, neden"
+          }
         },
         {
           "numara": 6,
@@ -17113,7 +17250,7 @@
           "numara": 7,
           "metin": "Girü senden olanları elünle sinleye koydun Şunı şöyle görür iken ölümün n'işe sanmazsın",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "n'işe": "Nasıl, neden, niçin"
           }
         },
@@ -17261,6 +17398,7 @@
           "numara": 1,
           "metin": "N'eylerler fânî dünyâyı Allah sevgüsi var iken Yâ dahı kanda giderler Ol dost sevgüsi var iken",
           "anlamlar": {
+            "n'eylerler": "Ne eyler, ne yapar",
             "fânî": "Geçici olan, yoklukla ilgili",
             "dost": "Sevgili, Allah, mürşid"
           }
@@ -17268,19 +17406,24 @@
         {
           "numara": 2,
           "metin": "Allah ile olan kişi İhsân olur anun işi N'eylerler gayrı teşvîşi Allah sevgüsi var iken",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'eylerler": "Ne eyler, ne yapar"
+          }
         },
         {
           "numara": 3,
           "metin": "Görün bi'llâhi şu halkı İstemezler güzel Hakk'ı Yâ n'eylerler mâlı mülki Allah sevgüsi var iken",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'eylerler": "Ne eyler, ne yapar"
+          }
         },
         {
           "numara": 4,
           "metin": "Dinlen ‘âşıklar bu sözi Behremend eyleye sizi Yâ n'eylersin oglı kızı Allah sevgüsi var iken",
           "anlamlar": {
             "âşıklar": "Seven, Allah aşığı",
-            "behremend": "Nasibli, behreli, hisseli"
+            "behremend": "Nasibli, behreli, hisseli",
+            "n'eylersin": "Ne eyler, ne yapar"
           }
         },
         {
@@ -17412,7 +17555,7 @@
           "anlamlar": {
             "yâr": "Sevgili, dost",
             "dost": "Sevgili, Allah, mürşid",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         }
       ]
@@ -17501,7 +17644,7 @@
           "numara": 5,
           "metin": "Yidi Tamu'da yangıl her birinde kül olgıl Vücûdun anda kogıl ayruk vücûd bulasın",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -17791,6 +17934,7 @@
           "metin": "Koyup İbrâhîm Edhem tâc u tahtı Yiri külhân olupdur ‘ışk elinden",
           "anlamlar": {
             "tâc": "Başlık, maddî ve manevî bir makam işareti",
+            "yiri": "Yeri",
             "külhân": "Hamam ocağı",
             "ışk": "Aşk, ilahi sevgi"
           }
@@ -17897,7 +18041,7 @@
           "metin": "Andan yigrek ne vardur kişi bile kendözin Kendözin bilen kişi kamulardan ol güzin",
           "anlamlar": {
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
-            "yigrek": "Daha iyi, müreccâh, üstün",
+            "yigrek": "Daha iyi, üstün",
             "güzin": "Seçkin, seçilmiş, seçen"
           }
         },
@@ -18007,7 +18151,9 @@
         {
           "numara": 9,
           "metin": "Halkı fetvâ virürsin yâ sen niçün dutmazsın ‘İlmün var ‘amelün yok hâ günâha batarsın",
-          "anlamlar": {}
+          "anlamlar": {
+            "niçün": "Niçin, neden"
+          }
         },
         {
           "numara": 10,
@@ -18467,7 +18613,8 @@
           "anlamlar": {
             "evvelsin": "Allah'ın sıfatı",
             "kamu": "Bütün, hep, herkes",
-            "zâhir": "Görünen, açık, belli, meydanda"
+            "zâhir": "Görünen, açık, belli, meydanda",
+            "niçün": "Niçin, neden"
           }
         },
         {
@@ -18597,7 +18744,9 @@
         {
           "numara": 1,
           "metin": "Bu ‘ömrüm yok yire harc itmişem ben Cânumı gör ne oda atmışam ben",
-          "anlamlar": {}
+          "anlamlar": {
+            "yire": "Yere"
+          }
         },
         {
           "numara": 2,
@@ -18832,6 +18981,7 @@
             "cân": "Can, ruh, hayat",
             "kaçan": "Ne vakit, ne zamân",
             "gönül": "Kalp, yürek, iç dünya",
+            "dirlik": "Yaşayış, hayat",
             "başlu": "Yaralı"
           }
         },
@@ -18954,7 +19104,7 @@
           "metin": "N'iderem ben yarün vaslından ayruk Büküldi kad-bâlâm bu ‘ışk elinden",
           "anlamlar": {
             "vaslından": "Kavuşma, ulaşma",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "ışk": "Aşk, ilahi sevgi"
           }
         },
@@ -19172,7 +19322,7 @@
           "metin": "Ol dost bize gelmezise ben dosta girü varayın Çeküben cevr ü cefâyı dostumun yüzin göreyin",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -19266,6 +19416,7 @@
           "numara": 6,
           "metin": "Yiri gögi seyrân kılan ‘Arş u Kürsi cevlân uran Yûnus katında iy gönül bir dem eglenmez misin",
           "anlamlar": {
+            "yiri": "Yeri",
             "arş": "En yüce gök, Allah'ın makamı",
             "gönül": "Kalp, yürek, iç dünya",
             "dem": "An, zamân, vakit, soluk, nefes"
@@ -19371,7 +19522,7 @@
             "hayrân": "Şaşırmış, şaşkın",
             "eyle": "Öyle, o şekilde",
             "dün": "Gece",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -19652,6 +19803,7 @@
           "metin": "‘Işkıla gelsen yola Yûnus'layın olsan n'ola Tâ‘atini terk itmedi balık anı yutmış iken",
           "anlamlar": {
             "işkıla": "Aşk, candan sevme, sevgi",
+            "n'ola": "Ne olur",
             "terk": "Bırakmak, vazgeçmek"
           }
         },
@@ -19727,6 +19879,7 @@
           "numara": 3,
           "metin": "Suç anıcak göyner özüm kan yaşıla tolar gözüm Yarın Hak katında yüzüm kar'olursa n'ideyin ben",
           "anlamlar": {
+            "tolar": "Dolar, dolu olur",
             "hak": "Allah, gerçek, doğru"
           }
         },
@@ -20196,7 +20349,8 @@
           "numara": 1,
           "metin": "Ol vaktin bir olasın ayrulıkdan kalasın Cânsuz gel bu kapuya bâkî dirlik bulasın",
           "anlamlar": {
-            "cânsuz": "Cism-i latif"
+            "cânsuz": "Cism-i latif",
+            "dirlik": "Yaşayış, hayat"
           }
         },
         {
@@ -20461,6 +20615,7 @@
           "numara": 4,
           "metin": "Hemin geldüm bu dünyâya nefsüme kullık itmege Eyü ‘amel işlemedüm ‘azâbdan kurtulam diyü",
           "anlamlar": {
+            "eyü": "İyi, güzel",
             "amel": "İş, hayır, çalışma"
           }
         },
@@ -20488,7 +20643,7 @@
           "metin": "Dost gönlümi yagmâladı n'olsa gerek şimden girü Derdi bırakdı cânumı yansa gerek şimden girü",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -20498,7 +20653,7 @@
             "cânum": "Canım, ruhum",
             "devrân": "Dünya, felek, zamân, talih",
             "gün": "Gündüz, güneş",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -20506,7 +20661,7 @@
           "metin": "Bu ne ‘acâyib ser-güzeş çıkardı bagrumuzda baş Gözlerümden kanıla yaş aksa gerek şimden girü",
           "anlamlar": {
             "baş": "Yasa",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -20514,14 +20669,14 @@
           "metin": "Evliyâdur Hakk'un sırrı alnındaki Allah nûrı Anı seven âh u zârı kılsa gerek şimden girü",
           "anlamlar": {
             "seven": "Âşık",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
           "numara": 5,
           "metin": "Sen hocasın ben bir kulam ebedî kullukda kalam Bu sözümi cümle ‘âlem bilse gerek şimden girü",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -20531,7 +20686,7 @@
             "fenâ": "Yokluk, geçicilik, dünya",
             "bekâ": "Sonsuzluk, kalıcılık",
             "şarâbından": "Şarap, içki, mecazen aşk ve irfanî bilgi",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -20539,7 +20694,7 @@
           "metin": "Görün ki Yûnus n'itdi varuban hazrete gitdi Katredür ‘ummâna yitdi tolsa gerek şimden girü",
           "anlamlar": {
             "katredür": "Damla, su damlası, bir damla",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         }
       ]
@@ -20994,7 +21149,7 @@
           "metin": "İndük Rûm'ı kışladuk çok hayr u şer işledük Uş bahâr geldi girü göçdük el-hamdüli'llâh",
           "anlamlar": {
             "hayr": "Meşru iş, faydalı ve nurlu iş",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -21022,7 +21177,7 @@
           "anlamlar": {
             "zinhâr": "Sakın, katiyyen, aman, asla",
             "gönül": "Kalp, yürek, iç dünya",
-            "yavuz": "Kötü, fena, yaman, kara yağız",
+            "yavuz": "Kötü, fena",
             "endîşe": "Düşünce, fikir"
           }
         },
@@ -21363,6 +21518,7 @@
           "numara": 26,
           "metin": "Ol menzile yitenün dört nişânı var anun Ol nişânı kılanun yiri rahmet içinde",
           "anlamlar": {
+            "yiri": "Yeri",
             "rahmet": "Acıma, esirgeme, koruma, yargılama"
           }
         },
@@ -21430,7 +21586,9 @@
         {
           "numara": 3,
           "metin": "Ne yire bakdumısa er oturur Gönlin aldum yüz yire sürmegile",
-          "anlamlar": {}
+          "anlamlar": {
+            "yire": "Yere"
+          }
         },
         {
           "numara": 4,
@@ -21500,7 +21658,7 @@
           "numara": 4,
           "metin": "Bir yanadan ararlar ayruk nesne sanurlar Bahâsın ne bilesin sen satun almayınca",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "bilesin": "Beraberlik, maiyet"
           }
         },
@@ -21657,7 +21815,7 @@
           "numara": 7,
           "metin": "Bildük gelenler geçmiş konanlar girü göçmiş ‘Işk şarâbından içmiş kim ma‘nî tuyarısa",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "işk": "Aşk, candan sevme, sevgi",
             "şarâbından": "Şarap, içki, mecazen aşk ve irfanî bilgi"
           }
@@ -21874,6 +22032,7 @@
           "numara": 3,
           "metin": "Bu tılsımı baglayan cümle dilde söyleyen Yire göge sıgmayan girmiş bu cân içinde",
           "anlamlar": {
+            "yire": "Yere",
             "cân": "Can, ruh, hayat"
           }
         },
@@ -22020,7 +22179,8 @@
           "metin": "İkiligi terk itgil birlik makâmın tutgıl Cânlar cânın bulasın iş bu dirlik içinde",
           "anlamlar": {
             "terk": "Bırakmak, vazgeçmek",
-            "cânlar": "Cism-i latif"
+            "cânlar": "Cism-i latif",
+            "dirlik": "Yaşayış, hayat"
           }
         },
         {
@@ -22286,7 +22446,8 @@
           "metin": "Çün elini ‘ışka ura 'ışk okına kimdür tura Gök yüzinde melâiki ‘ışk anı indürdi yire",
           "anlamlar": {
             "'ışk": "Aşk, ilahi sevgi",
-            "ışk": "Aşk, ilahi sevgi"
+            "ışk": "Aşk, ilahi sevgi",
+            "yire": "Yere"
           }
         },
         {
@@ -22471,7 +22632,8 @@
           "numara": 6,
           "metin": "Delüyem pendi tutmazam degme yire ben gitmezem İş bu sözi işitmezem tutmışam kulagum anda",
           "anlamlar": {
-            "degme": "Herhangi, her bir, her, rastgele"
+            "degme": "Herhangi, her bir, her, rastgele",
+            "yire": "Yere"
           }
         },
         {
@@ -22532,6 +22694,7 @@
           "metin": "İy dirîgâ n'idelüm bizde ‘amel olmazsa Hışm idüp yapışalar bu kefen tonumuza",
           "anlamlar": {
             "dirîgâ": "Hayfa, ne kadar yazık, eyvah",
+            "n'idelüm": "Ne edelim",
             "amel": "İş, hayır, çalışma"
           }
         },
@@ -22547,6 +22710,7 @@
           "numara": 6,
           "metin": "Ölüm Hak'dur bilürsin niçün gâfil olursın ‘Azrâîl kasd idiser günâhlu tenümüze",
           "anlamlar": {
+            "niçün": "Niçin, neden",
             "gâfil": "Gaflet ehli, gerçeklerden habersiz, uyuyan",
             "azrâîl": "Ölüm meleği, dört büyük melekten birisi"
           }
@@ -22596,7 +22760,7 @@
           "numara": 4,
           "metin": "Ölmiş idi ot u şecer dirilüben girü biter Müşriklere nükte yiter var eyledi nesli yine",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "nükte": "İnce manâ"
           }
         },
@@ -22666,7 +22830,8 @@
           "numara": 4,
           "metin": "Andan ol çarhun yiri ol çakıldak ipleri Endîşendür bulaşuk kaygula perîşâne",
           "anlamlar": {
-            "andan": "Ondan, ona, ondan sonra, ondan ötürü"
+            "andan": "Ondan, ona, ondan sonra, ondan ötürü",
+            "yiri": "Yeri"
           }
         },
         {
@@ -22783,7 +22948,7 @@
           "metin": "Bu cân sana bâkî kalmaz Anda varan girü gelmez Son pişmânlık assı kılmaz Gel ikrâr it erenlere",
           "anlamlar": {
             "cân": "Can, ruh, hayat",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -22873,14 +23038,14 @@
           "metin": "Bir ‘imâret göster bana kim sonı vîrân olmaya Kazanı gör ol mâlı kim senden o girü kalmaya",
           "anlamlar": {
             "vîrân": "Yıkık, harap",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
           "numara": 2,
           "metin": "Döküle altûnun mâlun ayrugıla ola hâlün Senden girü kalan mâlun sana bil assı kılmaya",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "bil": "Bel"
           }
         },
@@ -23022,7 +23187,7 @@
           "anlamlar": {
             "cân": "Can, ruh, hayat",
             "dostı": "Sevgili, Allah, mürşid",
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "taşra": "Dışarı"
           }
         },
@@ -23047,7 +23212,7 @@
           "numara": 5,
           "metin": "Bu sûretde kim var dahı yönin ayruk yana döner Benüm varlıgum dost aldı eserümdür kalan bunda",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı",
+            "ayruk": "Başka, artık, gayrı",
             "dost": "Sevgili, Allah, mürşid"
           }
         },
@@ -23197,7 +23362,9 @@
         {
           "numara": 4,
           "metin": "Sana biriken birlik oldur ebedî dirlik Senden ayrugı bildük cümle kuru efsâne",
-          "anlamlar": {}
+          "anlamlar": {
+            "dirlik": "Yaşayış, hayat"
+          }
         },
         {
           "numara": 5,
@@ -23520,7 +23687,8 @@
           "numara": 5,
           "metin": "Var dîn îmân gerek ise diril bu dünyâda eyü Yarın anda bitmez işün bugün bunda bitmeyince",
           "anlamlar": {
-            "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek"
+            "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek",
+            "eyü": "İyi, güzel"
           }
         },
         {
@@ -23640,7 +23808,7 @@
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
             "işk": "Aşk, candan sevme, sevgi",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -23726,6 +23894,7 @@
           "metin": "Eydürler miskîn Yûnus niçün delü oldun sen Ne ‘akl u ne fehm kalsun iş bu sırrı tuyanda",
           "anlamlar": {
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
+            "niçün": "Niçin, neden",
             "fehm": "Anlama, anlayış, kavrama"
           }
         }
@@ -23747,6 +23916,7 @@
           "numara": 2,
           "metin": "Yidi deniz suyı n'ider susamış ‘âşık cânına Şeyhüm yüzi gerek bana gördükde baş indürmege",
           "anlamlar": {
+            "n'ider": "Ne eder, ne yapar",
             "âşık": "Seven, Allah aşığı",
             "cânına": "Cism-i latif",
             "baş": "Yasa"
@@ -23764,7 +23934,8 @@
           "numara": 4,
           "metin": "Dost urdı yürege yare yaram onulmaz ne çâre Şu gönlüm düşdügi yire elüm irmez döndürmege",
           "anlamlar": {
-            "dost": "Sevgili, Allah, mürşid"
+            "dost": "Sevgili, Allah, mürşid",
+            "yire": "Yere"
           }
         },
         {
@@ -23950,7 +24121,7 @@
           "metin": "Eger ‘ârif isen bilgil ki binâ Girü kendüsidür dükkân içinde",
           "anlamlar": {
             "binâ": "Yapma, dayama",
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         },
         {
@@ -24077,7 +24248,7 @@
           "metin": "Sözler eyitdüm diyü Yûnus nükte itmegil Dahı yigrek eydür var el vardur el üstine",
           "anlamlar": {
             "nükte": "İnce manâ",
-            "yigrek": "Daha iyi, müreccâh, üstün"
+            "yigrek": "Daha iyi, üstün"
           }
         }
       ]
@@ -24504,7 +24675,9 @@
         {
           "numara": 4,
           "metin": "Vay ki n'ola hâlüm bilinmezise ahvâlüm Yılan-çıyan karınca üşe dilüm üstine",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'ola": "Ne olur"
+          }
         },
         {
           "numara": 5,
@@ -24532,7 +24705,7 @@
           "metin": "San'atun yigregi çün namâzımış hoş pîşe Namâz kılan kişide olmaz yavuz endîşe",
           "anlamlar": {
             "pîşe": "San'at, iş, meslek",
-            "yavuz": "Kötü, fena, yaman, kara yağız",
+            "yavuz": "Kötü, fena",
             "endîşe": "Düşünce, fikir"
           }
         },
@@ -24630,6 +24803,7 @@
           "numara": 6,
           "metin": "Kur'agacı n'iderler kesüp oda yakarlar Bülbüller öticegiz nevbet degmez dürrâca",
           "anlamlar": {
+            "n'iderler": "Ne eder, ne yapar",
             "bülbüller": "Aşık, derviş",
             "nevbet": "Pâdişâh ve vezirlerin sarayı önünde günün muayyen vakitlerinden çalınan mızıka"
           }
@@ -24770,7 +24944,8 @@
           "numara": 6,
           "metin": "Dervîş Yûnus'un cânı ‘âlem şefâ‘at kânı İki cihân sultânı sensün yâ Resûla'llâh",
           "anlamlar": {
-            "dervîş": "Yoksul, tarikat ehli, Allah yolcusu"
+            "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
+            "kânı": "Hani, nerede"
           }
         }
       ]
@@ -24879,13 +25054,15 @@
           "numara": 4,
           "metin": "Hakîkat bilürsin birgün ölürsin Yâ niçün virürsin özün gümâne",
           "anlamlar": {
-            "hakîkat": "Gerçek, öz"
+            "hakîkat": "Gerçek, öz",
+            "niçün": "Niçin, neden"
           }
         },
         {
           "numara": 5,
           "metin": "Hakk'a kulluk eylemekden kaçasın Yâ niçün kulluk eylersin ‘avâne",
           "anlamlar": {
+            "niçün": "Niçin, neden",
             "avâne": "Beraber, taraftar, yardımcı"
           }
         },
@@ -24893,14 +25070,15 @@
           "numara": 6,
           "metin": "Hak içün bir pûlun yok viresin Yâ niçün virürsin assı ziyâne",
           "anlamlar": {
-            "hak": "Allah, gerçek, doğru"
+            "hak": "Allah, gerçek, doğru",
+            "niçün": "Niçin, neden"
           }
         },
         {
           "numara": 7,
           "metin": "Yûnus sen nefsüni müslümân sanma Meger şimden girü cümle îmâne",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka"
+            "girü": "Geri, tekrar"
           }
         }
       ]
@@ -25026,7 +25204,7 @@
           "metin": "Dost yolına gönülene girü dönmek olmayısar Bilme misin bu kamusı senden girü kalasını",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "kamusı": "Hepsi, tamamı"
           }
         },
@@ -25096,7 +25274,7 @@
           "metin": "Dost bundadur bellü beyân gördüm dost dîdârın ‘ıyân Bu ‘ilm-i hikmeti tuyan ider bana dek ‘azimi",
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
-            "bellü": "Belli, aşikâr, açık",
+            "bellü": "Belli, açık",
             "dek": "Kadar, …a kadar"
           }
         },
@@ -25446,7 +25624,7 @@
           "anlamlar": {
             "'âşık": "Seven, Allah aşığı",
             "melâmet": "Kınama, ayıplama, azarlama",
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         },
         {
@@ -25761,7 +25939,8 @@
           "numara": 13,
           "metin": "Mukarrrebdüm Mûsâ ben ol Hakk'un dergâhında Götürdi urdı yire işümi şer eyledi",
           "anlamlar": {
-            "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi"
+            "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi",
+            "yire": "Yere"
           }
         },
         {
@@ -25978,6 +26157,7 @@
           "metin": "Kamu bir yire gider kimse niçesi yiter İki birdür bir biter gör bir neden eyledi",
           "anlamlar": {
             "kamu": "Bütün, hep, herkes",
+            "yire": "Yere",
             "niçesi": "Nasıl, ne şekilde"
           }
         },
@@ -26108,7 +26288,7 @@
           "anlamlar": {
             "dostdan": "Sevgili, Allah, mürşid",
             "güzâf": "Boş, asılsız",
-            "bellü": "Belli, aşikâr, açık",
+            "bellü": "Belli, açık",
             "dostsuz": "Sevgili, Allah, mürşid"
           }
         },
@@ -26137,13 +26317,16 @@
             "şevkından": "Hararet, istek, arzû , coşku",
             "âşıklar": "Seven, Allah aşığı",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
-            "işksuz": "Aşk, candan sevme, sevgi"
+            "işksuz": "Aşk, candan sevme, sevgi",
+            "dirlik": "Yaşayış, hayat"
           }
         },
         {
           "numara": 5,
           "metin": "Ben niçe diyeyin anı kabûl itmez yüz bin cânı Ana lâyık dirlik kanı yokdur ana lâyık işi",
-          "anlamlar": {}
+          "anlamlar": {
+            "dirlik": "Yaşayış, hayat"
+          }
         },
         {
           "numara": 6,
@@ -26172,7 +26355,8 @@
           "anlamlar": {
             "dostı": "Sevgili, Allah, mürşid",
             "seven": "Âşık",
-            "işkdur": "Aşk, candan sevme, sevgi"
+            "işkdur": "Aşk, candan sevme, sevgi",
+            "yire": "Yere"
           }
         },
         {
@@ -26191,7 +26375,7 @@
           "numara": 1,
           "metin": "Girü durur yoklukdan kamularun baylıgı Bunca varlık var iken gitmez gönül tarlıgı",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "gönül": "Kalp, yürek, iç dünya"
           }
         },
@@ -26599,7 +26783,7 @@
           "numara": 5,
           "metin": "Çün gölden girü döndi budak üzere kondı Silkindi her bir yönden bir tamla su döküldi",
           "anlamlar": {
-            "girü": "Geri, tekrâr, sonra, yine, başka",
+            "girü": "Geri, tekrar",
             "tamla": "Damla"
           }
         },
@@ -26779,7 +26963,7 @@
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
             "karanu": "Karanlık",
             "serâ": "Yer, toprak, malı çok olmak",
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         },
         {
@@ -26899,6 +27083,7 @@
           "metin": "Mun‘im oldum yoksul iken benüm oldı kevn ü mekân Şarka vü garba ser-te-ser yire göge toldum ahî",
           "anlamlar": {
             "kevn": "Var olma, varlık",
+            "yire": "Yere",
             "ahî": "Kardeş, fütüvvet ehli"
           }
         },
@@ -27646,7 +27831,9 @@
         {
           "numara": 2,
           "metin": "Toprakdan yaratıldun yine toprakdur yirün Toprak olan kişiler n'ider bu ‘alâmeti",
-          "anlamlar": {}
+          "anlamlar": {
+            "n'ider": "Ne eder, ne yapar"
+          }
         },
         {
           "numara": 3,
@@ -28180,7 +28367,8 @@
           "numara": 3,
           "metin": "Miskîn Âdem oglanını benzetmişler ekinciye Kimi biter kimi yiter yire tohum saçmış gibi",
           "anlamlar": {
-            "miskîn": "Yoksul, alçakgönüllü, benliksiz"
+            "miskîn": "Yoksul, alçakgönüllü, benliksiz",
+            "yire": "Yere"
           }
         },
         {
@@ -28250,7 +28438,9 @@
         {
           "numara": 5,
           "metin": "Kânı buldum n'iderem ben ayrugı Yagmâya virdüm bugün dükkânumı",
-          "anlamlar": {}
+          "anlamlar": {
+            "kânı": "Hani, nerede"
+          }
         },
         {
           "numara": 6,
@@ -28311,6 +28501,7 @@
           "numara": 4,
           "metin": "Aglamak gülmek ‘âşıka dirilmek ölmek ‘âşıka Kahırla lutfı bir bilür bilmez melûl oldugını",
           "anlamlar": {
+            "dirilmek": "Yaşamak, hayat sürmek",
             "melûl": "Kırgın, üzüntülü, usanmış"
           }
         },
@@ -28569,15 +28760,17 @@
             "işkıla": "Aşk, candan sevme, sevgi",
             "gönlek": "Gömlek",
             "sûretile": "Şekil, yüz, resim,tarz, biçim",
-            "girü": "Geri, tekrâr, sonra, yine, başka",
-            "gevherile": "Mücevher, inci, esâs, öz"
+            "girü": "Geri, tekrar",
+            "gevherile": "Mücevher, inci, esâs, öz",
+            "kânı": "Hani, nerede"
           }
         },
         {
           "numara": 3,
           "metin": "Bu dünye bir bâzârdur sûretler olmış dükkân Bu dükkâna girüben oldur satan bu kânı",
           "anlamlar": {
-            "sûretler": "Şekil, yüz, resim,tarz, biçim"
+            "sûretler": "Şekil, yüz, resim,tarz, biçim",
+            "kânı": "Hani, nerede"
           }
         },
         {
@@ -28647,6 +28840,7 @@
           "metin": "Resûl Mi‘râc'a agdı gökden yire nûr yagdı Habîb'üm diyü ögdi ol Fahr-ı cihân kanı",
           "anlamlar": {
             "resûl": "Peygamber, yeni kitap ve şeriatle gönderilen Peygamber",
+            "yire": "Yere",
             "nûr": "Işık, aydınlık"
           }
         },
@@ -28847,7 +29041,9 @@
         {
           "numara": 4,
           "metin": "Dirlik budur ‘âşıka Ma‘şûk yolında öle Sorarlarsa eyidem ‘âşıkun burhânını",
-          "anlamlar": {}
+          "anlamlar": {
+            "dirlik": "Yaşayış, hayat"
+          }
         },
         {
           "numara": 5,
@@ -28862,6 +29058,7 @@
           "anlamlar": {
             "mârût": "Hârût ile birlikte sihir yaptıkları için kıyamete kadar Babil'de bir kuyuda b...",
             "ışk": "Aşk, ilahi sevgi",
+            "yire": "Yere",
             "zühre": "Çoban yıldızı"
           }
         },
@@ -28979,7 +29176,7 @@
           "metin": "Görklü yüzüni gören gönlini sana viren Bellü tapunda turan ne toydı ne usandı",
           "anlamlar": {
             "görklü": "Güzel, mübarek",
-            "bellü": "Belli, aşikâr, açık"
+            "bellü": "Belli, açık"
           }
         },
         {
@@ -29299,6 +29496,7 @@
           "numara": 1,
           "metin": "Yok yire geçürdüm güni Âh n'ideyüm ‘ömrüm seni Senünle olmadum ganî Âh n'ideyüm ‘ömrüm seni",
           "anlamlar": {
+            "yire": "Yere",
             "ganî": "Hiç bir şeye ihtiyacı olmayan"
           }
         },
@@ -29451,7 +29649,9 @@
         {
           "numara": 5,
           "metin": "Bir sinek bir kartalı kaldurup urdı yire Yalan degül gerçekdür ben de gördüm tozını",
-          "anlamlar": {}
+          "anlamlar": {
+            "yire": "Yere"
+          }
         },
         {
           "numara": 6,
@@ -29471,7 +29671,8 @@
           "numara": 8,
           "metin": "Kâf Tagı'ndan bir taşı şöyle atdılar bana Öylelik yire düşdi bozayazdı yüzümi",
           "anlamlar": {
-            "kâf": "Eski yazımızda bir harf"
+            "kâf": "Eski yazımızda bir harf",
+            "yire": "Yere"
           }
         },
         {
@@ -29621,7 +29822,8 @@
           "metin": "Eydür Yûnus kim hakîkat ben Mecnûn oldum ‘âkıbet N'ola disen Mecnûn-sıfat hoş tutunuz Mecnûn'umı",
           "anlamlar": {
             "hakîkat": "Gerçek, öz",
-            "mecnûn": "Deli, aşk delisi"
+            "mecnûn": "Deli, aşk delisi",
+            "n'ola": "Ne olur"
           }
         }
       ]
@@ -29906,6 +30108,7 @@
           "numara": 4,
           "metin": "Gelen geçermiş n'idelüm Gelün âhrete gidelüm Bu fenâyı terk idelüm Esenledüm dünyâm seni",
           "anlamlar": {
+            "n'idelüm": "Ne edelim",
             "terk": "Bırakmak, vazgeçmek"
           }
         },
@@ -30200,6 +30403,7 @@
           "metin": "Ben mi düzdüm beni sen düzdün beni Pür ‘ayıb niçün yaratdun yâ Ganî",
           "anlamlar": {
             "pür": "Dolu, çok",
+            "niçün": "Niçin, neden",
             "ganî": "Hiç bir şeye ihtiyacı olmayan"
           }
         },
@@ -30294,7 +30498,8 @@
           "numara": 19,
           "metin": "Pes niçün murdârı açup tartasın Sen gerek lutfıla anı örtesin",
           "anlamlar": {
-            "pes": "O halde, öyle ise"
+            "pes": "O halde, öyle ise",
+            "niçün": "Niçin, neden"
           }
         },
         {
@@ -30354,7 +30559,7 @@
           "numara": 28,
           "metin": "Olmasun bizden sana ayruk cevâb Söz budur va'llahü a‘lem bi's-sevâb",
           "anlamlar": {
-            "ayruk": "Ayrı, başka, gayrı"
+            "ayruk": "Başka, artık, gayrı"
           }
         }
       ]
