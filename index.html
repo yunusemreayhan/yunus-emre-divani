@@ -434,8 +434,12 @@ function speak(text){
   speechSynthesis.cancel();
   const u=new SpeechSynthesisUtterance(text);
   u.lang='tr-TR';u.rate=0.85;
+  const voices=speechSynthesis.getVoices();
+  const male=voices.find(v=>v.lang.startsWith('tr')&&/male|erkek/i.test(v.name))||voices.find(v=>v.lang.startsWith('tr')&&!/female|kadın/i.test(v.name))||voices.find(v=>v.lang.startsWith('tr'));
+  if(male)u.voice=male;
   speechSynthesis.speak(u);
 }
+speechSynthesis.getVoices(); // preload voices
 function speakAll(){
   if(!currentPoem)return;
   const text=currentPoem.beyitler.map(b=>b.metin).join('. ');
