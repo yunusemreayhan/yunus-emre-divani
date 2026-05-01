@@ -313,7 +313,9 @@ function renderBeyitler(){
     const rawText=misra1+' '+misra2;
     const encText=encodeURIComponent(rawText);
     const prompt=encodeURIComponent('Bu eski Türkçe beyiti günümüz Türkçesine çevir ve açıkla: '+rawText);
-    return`<div class="beyit"><div class="num">${b.numara}</div><div class="ai-btns"><a href="https://translate.google.com/?sl=ota&tl=tr&text=${encText}" target="_blank" title="Google Translate">GT</a><a href="https://chatgpt.com/?q=${prompt}" target="_blank" title="ChatGPT'ye sor">GPT</a><a href="https://gemini.google.com/app?q=${prompt}" target="_blank" title="Gemini'ye sor">Gem</a></div><button class="copy-btn" data-text="${misra1.replace(/"/g,'&quot;')}\n${misra2.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${html1}<br>${html2}</div></div>`;
+    const meanings=Object.entries(b.anlamlar||{}).map(([k,v])=>k+': '+v).join(', ');
+    const copyText=misra1+'\n'+misra2+(meanings?'\n\n📖 '+meanings:'');
+    return`<div class="beyit"><div class="num">${b.numara}</div><div class="ai-btns"><a href="https://translate.google.com/?sl=ota&tl=tr&text=${encText}" target="_blank" title="Google Translate">GT</a><a href="https://chatgpt.com/?q=${prompt}" target="_blank" title="ChatGPT'ye sor">GPT</a><a href="https://gemini.google.com/app?q=${prompt}" target="_blank" title="Gemini'ye sor">Gem</a></div><button class="copy-btn" data-text="${copyText.replace(/"/g,'&quot;')}">⎘</button><div class="text${isOttoman?' ottoman':''}">${html1}<br>${html2}</div></div>`;
   }).join('');
 }
 
@@ -390,8 +392,11 @@ function updateShareLinks(){
 }
 document.getElementById('share-cp').onclick=()=>{
   if(!currentPoem)return;
-  const full=currentPoem.beyitler.map(b=>b.metin).join('\n');
-  const text=`Yûnus Emre - ${currentPoem.numara}. Şiir\n\n${full}`;
+  const lines=currentPoem.beyitler.map(b=>b.metin).join('\n');
+  const allMeanings={};
+  currentPoem.beyitler.forEach(b=>{Object.assign(allMeanings,b.anlamlar||{})});
+  const meaningsText=Object.entries(allMeanings).map(([k,v])=>k+': '+v).join('\n');
+  const text=`Yûnus Emre - ${currentPoem.numara}. Şiir\n\n${lines}\n\n📖 Sözlük:\n${meaningsText}`;
   navigator.clipboard.writeText(text).then(()=>{
     const btn=document.getElementById('share-cp');
     btn.textContent='✓ Kopyalandı';
