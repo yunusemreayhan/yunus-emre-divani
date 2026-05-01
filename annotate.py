@@ -158,6 +158,10 @@ EXTRA_MEANINGS = {
     'peşimâna': 'Pişmanlığa',
     'pişmân': 'Pişman',
     'assı': 'Fayda, menfaat, kazanç',
+    'yuyucı': 'Yıkayıcı (ölü yıkayan)',
+    'koyucı': 'Koyan, yerleştiren',
+    'sarıcı': 'Saran (kefen saran)',
+    'iledüp': 'İletip, götürüp',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
