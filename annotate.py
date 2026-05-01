@@ -18,15 +18,15 @@ def normalize(word):
     return w
 
 def shorten(meaning):
-    """Get short version of a meaning."""
-    # Take first definition segment
+    """Get short version of a meaning. Resolve Bkz. references."""
+    if meaning.startswith('Bkz.') or meaning.startswith('Bkz '):
+        return None  # Skip, will be caught by EXTRA_MEANINGS or direct lookup
     short = meaning.split('.')[0] if '.' in meaning else meaning
-    # Also try splitting on comma for very long ones
     if len(short) > 60:
         short = short.split(',')[0]
     if len(short) > 80:
         short = short[:77] + '...'
-    return short.strip()
+    return short.strip() if short.strip() else None
 
 # Additional meanings not in the glossary or commonly needed
 EXTRA_MEANINGS = {
@@ -132,6 +132,10 @@ EXTRA_MEANINGS = {
     'yavuz': 'Kötü, fena',
     'yigrek': 'Daha iyi, üstün',
     'bellü': 'Belli, açık',
+    'bezirgân': 'Tüccar, tacir',
+    'bâzirgân': 'Tüccar, tacir',
+    'zinhâr': 'Sakın, asla, aman',
+    'çava': 'İklim, memleket, uzak yer',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }

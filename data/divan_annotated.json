@@ -185,8 +185,9 @@
           "metin": "Yûnus'ı ‘âşık diyüben zinhâr özenüp gelmenüz Çok bezirgân ziyân ider varıcagız ırak çava",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
-            "zinhâr": "Sakın, katiyyen, aman, asla",
-            "bezirgân": "Bkz"
+            "zinhâr": "Sakın, asla, aman",
+            "bezirgân": "Tüccar, tacir",
+            "çava": "İklim, memleket, uzak yer"
           }
         }
       ]
@@ -1509,7 +1510,6 @@
           "numara": 9,
           "metin": "Kâlû belî didük evvelki demde Dahı bugündür ol dem ü bu sâ'at",
           "anlamlar": {
-            "belî": "Bkz",
             "dem": "An, zamân, vakit, soluk, nefes"
           }
         },
@@ -2663,7 +2663,7 @@
           "numara": 5,
           "metin": "Zinhâr gözüni açagör nefs duzagını seçegör Dost mahfiline geçegör andan yigrek turak nedür",
           "anlamlar": {
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "nefs": "Benlik, ego",
             "duzagını": "Tuzak",
             "dost": "Sevgili, Allah, mürşid",
@@ -2758,7 +2758,7 @@
           "anlamlar": {
             "nakş": "Bir şeyi çeşitli renklerde boyamak",
             "nigâr": "Sevgili, güzel, resim",
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "nakşıla": "Bir şeyi çeşitli renklerde boyamak"
           }
         },
@@ -4182,7 +4182,6 @@
           "numara": 11,
           "metin": "Bunda “Belî” diyen kişi anda tamâm olur işi Bizden nişân isteyene ol Hallâc-ı Mansûr nedür",
           "anlamlar": {
-            "belî": "Bkz",
             "nişân": "Alâmet, iz, belirti, eser",
             "mansûr": "Hallac-ı Mansur, aşk şehidi"
           }
@@ -5421,7 +5420,6 @@
           "numara": 6,
           "metin": "Anun gibi pâdişâha kimün gözi duş olursa Sultân-ı vakt oldıyısa ‘aklından ol şaşa gelür",
           "anlamlar": {
-            "duş": "Bkz",
             "vakt": "Vakit, zaman"
           }
         },
@@ -5593,7 +5591,7 @@
           "numara": 5,
           "metin": "Yûnus sözi ‘âlimden zinhâr olman zâlimden Korka durun ölümden cümle togan ölmişdür",
           "anlamlar": {
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "zâlimden": "Zulmeden, güç kullanan"
           }
         }
@@ -10656,7 +10654,7 @@
           "metin": "Hor bakma sen ‘azîzüm ‘ışk erine zinhâr Sırr-ı Mevlâ'sıyıla pinhânıdur âşıklarun",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "pinhânıdur": "Gizli, saklı"
           }
         },
@@ -13362,7 +13360,7 @@
           "metin": "Ben eydürem kim iy Ganî nedür bu derdün dermânı Zinhâr esirgeme beni ‘ışk odına yak Çalab'um",
           "anlamlar": {
             "ganî": "Hiç bir şeye ihtiyacı olmayan",
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "ışk": "Aşk, ilahi sevgi"
           }
         },
@@ -14555,7 +14553,6 @@
           "numara": 6,
           "metin": "Gah batn-ı Hût içinde Yûnus'ıla söyleşem Geh çıkam ‘Arş üzere bir cân olam Selmân olam",
           "anlamlar": {
-            "batn": "Bkz",
             "hût": "Balık",
             "geh": "Bazan, ara sıra",
             "arş": "En yüce gök, Allah'ın makamı",
@@ -16270,7 +16267,7 @@
           "numara": 4,
           "metin": "Benüm gibi bâzirgân kim sagıncıla bayır Bir pûla gücüm yitmez Mısır metâ'ın çatdum",
           "anlamlar": {
-            "bâzirgân": "Tâcir, tüccâr"
+            "bâzirgân": "Tüccar, tacir"
           }
         },
         {
@@ -17995,7 +17992,7 @@
           "numara": 1,
           "metin": "Zinhâr virmegil gönül dünyâ pâyına birgün Dünyâya gönül viren düşe tayına birgün",
           "anlamlar": {
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "gönül": "Kalp, yürek, iç dünya"
           }
         },
@@ -18497,7 +18494,7 @@
           "anlamlar": {
             "emânetdür": "İlahî sır",
             "ışk": "Aşk, ilahi sevgi",
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "degme": "Herhangi, her bir, her, rastgele"
           }
         },
@@ -21175,7 +21172,7 @@
           "numara": 1,
           "metin": "Zinhâr gönül evinde tutma yavuz endîşe Biregüyçün kuyı kazan ‘âkıbet kendü düşe",
           "anlamlar": {
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "gönül": "Kalp, yürek, iç dünya",
             "yavuz": "Kötü, fena",
             "endîşe": "Düşünce, fikir"
@@ -21730,7 +21727,7 @@
           "metin": "İkinci nişânı budur hîç nefsini semirtmeye Zinhâr siz andan olmanuz nefsine kul olanlara",
           "anlamlar": {
             "nefsini": "Benlik, ego",
-            "zinhâr": "Sakın, katiyyen, aman, asla",
+            "zinhâr": "Sakın, asla, aman",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
             "nefsine": "Benlik, ego"
           }
@@ -21918,8 +21915,7 @@
           "metin": "İy kopuzıla çeşte aslun nedür ne işde Sana su'âl soraram eydivir bana üşde",
           "anlamlar": {
             "kopuzıla": "Eski bir telli saz",
-            "çeşte": "Altı telli saz, tanbur",
-            "üşde": "Bkz"
+            "çeşte": "Altı telli saz, tanbur"
           }
         },
         {
@@ -24434,7 +24430,7 @@
           "metin": "Sen bu cihân mülkine geldüm gelmedüm dime Dut evliyâ etegin zinhâr elünden koma",
           "anlamlar": {
             "mülkine": "Elde bulunan, tasarruf olunan şeyler",
-            "zinhâr": "Sakın, katiyyen, aman, asla"
+            "zinhâr": "Sakın, asla, aman"
           }
         },
         {
@@ -24723,7 +24719,7 @@
           "numara": 3,
           "metin": "Allah buyrugın dutgıl namâzun kılup gitgil Namâzun kılmayınca zinhâr varmagıl işe",
           "anlamlar": {
-            "zinhâr": "Sakın, katiyyen, aman, asla"
+            "zinhâr": "Sakın, asla, aman"
           }
         },
         {
@@ -25657,7 +25653,7 @@
           "numara": 11,
           "metin": "Zinhâr iy Yûnus gördüm dimegil Dâra çekerler gördüm diyeni",
           "anlamlar": {
-            "zinhâr": "Sakın, katiyyen, aman, asla"
+            "zinhâr": "Sakın, asla, aman"
           }
         }
       ]
@@ -26189,7 +26185,6 @@
           "numara": 11,
           "metin": "Elest'de bileyidük göz açduk “Belî” didük Yûnus'ıla gayrını kamu birden eyledi",
           "anlamlar": {
-            "belî": "Bkz",
             "gayrını": "Ayrı, başka",
             "kamu": "Bütün, hep, herkes"
           }
@@ -28983,15 +28978,12 @@
         {
           "numara": 7,
           "metin": "Elestü bi-Rabbiküm Hak'dan nidâ gelicek Mü'minler Belî diyüp itdiler ikrârını",
-          "anlamlar": {
-            "belî": "Bkz"
-          }
+          "anlamlar": {}
         },
         {
           "numara": 8,
           "metin": "Kâlu belî dinildi münkir-muhib bilindi O demden duta geldi câhiller inkârını",
           "anlamlar": {
-            "belî": "Bkz",
             "münkir": "İnkarcı",
             "muhib": "Seven, sevgi besleyen, dost",
             "demden": "An, zamân, vakit, soluk, nefes"
