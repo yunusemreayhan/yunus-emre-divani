@@ -136,6 +136,8 @@ EXTRA_MEANINGS = {
     'bâzirgân': 'Tüccar, tacir',
     'zinhâr': 'Sakın, asla, aman',
     'çava': 'İklim, memleket, uzak yer',
+    'nüvaht': 'Okşama, çalgı çalma',
+    'nühavht': 'Okşama, çalgı çalma',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
