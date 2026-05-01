@@ -1691,20 +1691,25 @@
           "metin": "Gâfil olma aç gözüni hâlüne bak öleni gör Kürelik itme dünyede yazuklarun dileni gör",
           "anlamlar": {
             "gâfil": "Gaflet ehli, gerçeklerden habersiz, uyuyan",
-            "kürelik": "Taşkınlık, azgınlık"
+            "kürelik": "Taşkınlık, azgınlık",
+            "dileni": "Dileneni, isteyeni"
           }
         },
         {
           "numara": 2,
           "metin": "Niçe yatur düşübeni ılan çıyan üşübeni Sünükleri çagşabanı çüriyüben ulanı gör",
           "anlamlar": {
-            "sünükleri": "Kemik"
+            "sünükleri": "Kemik",
+            "çagşabanı": "Dağılarak, çürüyerek",
+            "ulanı": "Ekleneni, birleşeni"
           }
         },
         {
           "numara": 3,
           "metin": "Kimi âh idüp kılur zârı günehdür elinde varı Göçmiş yatur kara yiri miskînleri güleni gör",
           "anlamlar": {
+            "zârı": "Ağlayış, inleme",
+            "günehdür": "Günahtır",
             "yiri": "Yeri",
             "miskînleri": "Hiçbir şeye mâlik olmayan yoksul, halsiz, hareketsiz"
           }
@@ -1712,20 +1717,26 @@
         {
           "numara": 4,
           "metin": "Sorma hâlin kimisine varma Irahman'suzına Kim isine gövdesine ulşup yeni yolanı gör",
-          "anlamlar": {}
+          "anlamlar": {
+            "gövdesine": "Bedenine, vücuduna",
+            "ulşup": "Ulaşıp, yapışıp",
+            "yolanı": "Yolunmuşu, soyulmuşu"
+          }
         },
         {
           "numara": 5,
           "metin": "Kanı Muhammed Mustafâ hüküm itdi Kâf'dan Kâf'a Dünye kime kıldı vefâ aldanuban kalanı gör",
           "anlamlar": {
             "mustafâ": "Istıfa edilmiş",
-            "vefâ": "Sözünde durma"
+            "vefâ": "Sözünde durma",
+            "aldanuban": "Aldanarak, kanarak"
           }
         },
         {
           "numara": 6,
           "metin": "Aldanma mâla davara kulluk eyle Hakk'a yara Seviyile bile vara bâkî yoldaş olanı gör",
           "anlamlar": {
+            "davara": "Davara, hayvana, mala",
             "eyle": "Öyle, o şekilde",
             "bâkî": "Kalıcı, sonsuz, ebedi",
             "yoldaş": "Yol arkadaşı"
@@ -1734,7 +1745,9 @@
         {
           "numara": 7,
           "metin": "Yûnus bu sözleri çatar halka ma'ârifet satar Kendüsi ne kadar dutar söyledügi yalanı gör",
-          "anlamlar": {}
+          "anlamlar": {
+            "çatar": "Kurar, dizer, birbirine bağlar"
+          }
         }
       ]
     },
@@ -4169,6 +4182,7 @@
           "anlamlar": {
             "bülbül": "Aşık, derviş",
             "yâri": "Yardım",
+            "zârı": "Ağlayış, inleme",
             "gülistândur": "Gül bahçesi",
             "yiri": "Yeri",
             "bâglar": "Bahçe, büyük bahçe, bostan"
@@ -5349,6 +5363,7 @@
           "numara": 2,
           "metin": "Allah diyü kıl zârı Oldur kamunun varı Andan umalum yarı Allah görelüm n'eyler",
           "anlamlar": {
+            "zârı": "Ağlayış, inleme",
             "andan": "Ondan, ona, ondan sonra, ondan ötürü",
             "n'eyler": "Ne eyler, ne yapar"
           }
@@ -7542,7 +7557,8 @@
           "anlamlar": {
             "gönül": "Kalp, yürek, iç dünya",
             "dostıla": "Sevgili, Allah, mürşid",
-            "zâr": "Ağlayış, inleme"
+            "zâr": "Ağlayış, inleme",
+            "zârı": "Ağlayış, inleme"
           }
         },
         {
@@ -9968,6 +9984,7 @@
           "anlamlar": {
             "bâkî": "Kalıcı, sonsuz, ebedi",
             "fânîdür": "Geçici olan, yoklukla ilgili",
+            "aldanuban": "Aldanarak, kanarak",
             "tîz": "Çabuk, acele"
           }
         },
@@ -10285,7 +10302,8 @@
           "numara": 3,
           "metin": "Gitmeye bagrı başı dinmeye gözi yaşı Her dem dervîşün işi âhıla zârı gerek",
           "anlamlar": {
-            "dem": "An, zamân, vakit, soluk, nefes"
+            "dem": "An, zamân, vakit, soluk, nefes",
+            "zârı": "Ağlayış, inleme"
           }
         },
         {
@@ -11623,6 +11641,7 @@
           "anlamlar": {
             "terk": "Bırakmak, vazgeçmek",
             "dost": "Sevgili, Allah, mürşid",
+            "zârı": "Ağlayış, inleme",
             "yâri": "Yardım",
             "gönül": "Kalp, yürek, iç dünya"
           }
@@ -12047,7 +12066,9 @@
         {
           "numara": 6,
           "metin": "Yûnus bu sözleri çatar sanki balı yaga katar Halka metâ‘ların satar yüki güherdüz tuz degül",
-          "anlamlar": {}
+          "anlamlar": {
+            "çatar": "Kurar, dizer, birbirine bağlar"
+          }
         }
       ]
     },
@@ -16200,7 +16221,8 @@
           "numara": 2,
           "metin": "Uş yürüyem yana yana top cigerüm döndi kana ‘Işkundan oldum dîvâne niçe zârı kılmayayum",
           "anlamlar": {
-            "top": "Hep, tekmil, büsbütün"
+            "top": "Hep, tekmil, büsbütün",
+            "zârı": "Ağlayış, inleme"
           }
         },
         {
@@ -18389,7 +18411,8 @@
           "numara": 2,
           "metin": "Dîn ü îmân bünyâdı togrulıkla gerçeklik Ol tamâm olmayıcak neyile dîn çatarsın",
           "anlamlar": {
-            "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek"
+            "dîn": "İnanç, imân, tâat, âdet, huy, verilecek karşılığa hükmetmek",
+            "çatarsın": "Kurar, dizer, birbirine bağlar"
           }
         },
         {
@@ -20996,6 +21019,7 @@
           "metin": "Evliyâdur Hakk'un sırrı alnındaki Allah nûrı Anı seven âh u zârı kılsa gerek şimden girü",
           "anlamlar": {
             "seven": "Âşık",
+            "zârı": "Ağlayış, inleme",
             "girü": "Geri, tekrar"
           }
         },
@@ -25307,7 +25331,8 @@
           "numara": 11,
           "metin": "Geçdi yâ ‘ömrümün varı Kor gidersin bu gül-zârı Yûnus'un mûnisi yârı Söyle bülbülcügüm söyle",
           "anlamlar": {
-            "gül": "Sevgili, güzellik"
+            "gül": "Sevgili, güzellik",
+            "zârı": "Ağlayış, inleme"
           }
         }
       ]
