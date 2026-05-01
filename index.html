@@ -313,7 +313,7 @@ function renderWords(text,anlamlar){
   const parts=text.split(/(\s+)/);
   return parts.map(part=>{
     if(/^\s+$/.test(part))return part;
-    const clean=part.toLowerCase().replace(/[^a-zâîûçşğöü']/g,'');
+    const clean=part.toLowerCase().replace(/[^a-zâîûçşğöüı']/g,'');
     const meaning=anlamlar[clean];
     if(meaning){
       const display=isOttoman?toOttoman(part):part;
