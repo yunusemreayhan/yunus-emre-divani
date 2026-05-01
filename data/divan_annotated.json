@@ -251,7 +251,8 @@
             "gül": "Sevgili, güzellik",
             "âşıkıla": "Seven, Allah aşığı",
             "âşık": "Seven, Allah aşığı",
-            "hergiz": "Asla"
+            "hergiz": "Asla",
+            "öginden": "Aklından, zihninden"
           }
         },
         {
@@ -5392,7 +5393,8 @@
           "numara": 2,
           "metin": "Niçe ki eydürem râzum söylemeyem kimseneye Gider bu sabr u karârum dost ögüme düşe gelür",
           "anlamlar": {
-            "dost": "Sevgili, Allah, mürşid"
+            "dost": "Sevgili, Allah, mürşid",
+            "ögüme": "Aklıma, zihnime"
           }
         },
         {
@@ -5570,7 +5572,8 @@
           "numara": 2,
           "metin": "Hergiz ölümin sanmaz ölesi günin anmaz Bu dünyâdan usanmaz gaflet ögin almışdur",
           "anlamlar": {
-            "hergiz": "Asla"
+            "hergiz": "Asla",
+            "ögin": "Aklını, zihnini"
           }
         },
         {
@@ -7351,7 +7354,8 @@
           "metin": "N'idem ben bu gönülile benümile bile turmaz Ma'şûk yüzin gördi meger ögütleyüp ögin dirmez",
           "anlamlar": {
             "gönülile": "Gönül, yürek, kalp, fuad",
-            "ma'şûk": "Sevgili, Allah"
+            "ma'şûk": "Sevgili, Allah",
+            "ögin": "Aklını, zihnini"
           }
         },
         {
@@ -25949,7 +25953,8 @@
           "numara": 14,
           "metin": "Sen bilmez misin Mûsâ ben neden ayrıldugum Şunlar ögüme düşdi beni humâr eyledi",
           "anlamlar": {
-            "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi"
+            "mûsâ": "Kur’ân'da zikredilen peygamberlerden birisi",
+            "ögüme": "Aklıma, zihnime"
           }
         },
         {
@@ -28743,6 +28748,7 @@
           "numara": 9,
           "metin": "Ölenler hâlin bilmez göz açup ögin dirmez Miskîn Yûnus Emre'nün meger bagrı baş oldı",
           "anlamlar": {
+            "ögin": "Aklını, zihnini",
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
             "baş": "Yasa"
           }

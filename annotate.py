@@ -141,6 +141,11 @@ EXTRA_MEANINGS = {
     'hânumân': 'Ev, bark, ocak',
     'hânumânı': 'Ev, bark, ocak',
     'hânmân': 'Ev, bark, ocak',
+    'ög': 'Akıl, hatır, zihin',
+    'öginden': 'Aklından, zihninden',
+    'ögüme': 'Aklıma, zihnime',
+    'ögüni': 'Aklını, zihnini',
+    'ögin': 'Aklını, zihnini',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }
