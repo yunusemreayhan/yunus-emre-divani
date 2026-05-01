@@ -157,6 +157,7 @@ EXTRA_MEANINGS = {
     'peşimân': 'Pişman',
     'peşimâna': 'Pişmanlığa',
     'pişmân': 'Pişman',
+    'assı': 'Fayda, menfaat, kazanç',
     'sırât': 'Cehennem üzerindeki köprü',
     'hûrî': 'Cennet güzeli',
 }

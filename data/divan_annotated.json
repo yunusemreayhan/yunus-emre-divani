@@ -462,7 +462,9 @@
         {
           "numara": 2,
           "metin": "Çün ‘Azrâîl'i ne tuta assı kılmaz ana ata Kimse döymez o heybete halkdan meded irmez ola",
-          "anlamlar": {}
+          "anlamlar": {
+            "assı": "Fayda, menfaat, kazanç"
+          }
         },
         {
           "numara": 3,
@@ -485,7 +487,8 @@
           "metin": "Oglan gider dânışmâna saladur dosta düşmâna Sonra gelmek peşimâna sana assı kılmaz ola",
           "anlamlar": {
             "saladur": "Çağırma, bir şey için bağırarak davet etme",
-            "peşimâna": "Pişmanlığa"
+            "peşimâna": "Pişmanlığa",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -511,7 +514,8 @@
           "metin": "Yûnus miskîn bu ögüdi sen sana virsen yig idi Bu şimdiki mahlûkâta ögüt assı kılmaz ola",
           "anlamlar": {
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
-            "yig": "Yeğ, üstün"
+            "yig": "Yeğ, üstün",
+            "assı": "Fayda, menfaat, kazanç"
           }
         }
       ]
@@ -639,7 +643,8 @@
           "anlamlar": {
             "cân": "Can, ruh, hayat",
             "genc": "Hazine, define",
-            "nihân": "Gizli, saklı"
+            "nihân": "Gizli, saklı",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -2455,6 +2460,7 @@
           "metin": "Ne denlü yirisen çok ol denlü yürisen tok Câna hîç assı yok hep sûret maslahatıdur",
           "anlamlar": {
             "denlü": "Kadar",
+            "assı": "Fayda, menfaat, kazanç",
             "sûret": "Şekil, dış görünüş, beden"
           }
         },
@@ -3126,6 +3132,7 @@
           "metin": "Irak yola bâzirgânlar assı itmege giderler Çün gevher elümde durur di ayruk ne bâzârum var",
           "anlamlar": {
             "bâzirgânlar": "Tâcir, tüccâr",
+            "assı": "Fayda, menfaat, kazanç",
             "gevher": "Mücevher, değerli öz",
             "ayruk": "Başka, artık, gayrı"
           }
@@ -4444,7 +4451,9 @@
         {
           "numara": 5,
           "metin": "Aceb mahlûk irişdi göz yumuban dürişdi Helâl harâm karışdı assı-ziyân olısar",
-          "anlamlar": {}
+          "anlamlar": {
+            "assı": "Fayda, menfaat, kazanç"
+          }
         },
         {
           "numara": 6,
@@ -8832,6 +8841,7 @@
           "anlamlar": {
             "mekseb": "Kazanç",
             "tüvângerdür": "Paralı, zengin",
+            "assı": "Fayda, menfaat, kazanç",
             "fârig": "Vaz geçmiş"
           }
         },
@@ -10138,7 +10148,9 @@
         {
           "numara": 2,
           "metin": "Bizüm il bâzirgânı hîç assı gözetmedi Çün assı bizüm degül ziyânı yagmâya virdük",
-          "anlamlar": {}
+          "anlamlar": {
+            "assı": "Fayda, menfaat, kazanç"
+          }
         },
         {
           "numara": 3,
@@ -17343,6 +17355,7 @@
           "numara": 6,
           "metin": "Küfr ü îmân ol yolda assı-ziyâna geçmez Assı ziyândan fârig varlıgı levhin yuyan",
           "anlamlar": {
+            "assı": "Fayda, menfaat, kazanç",
             "fârig": "Vaz geçmiş"
           }
         },
@@ -18861,7 +18874,8 @@
             "mevcine": "Dalga",
             "gark": "Suda boğulmak, batmak",
             "pes": "O halde, öyle ise",
-            "müzd": "Sevab, ecir, karşılık, mükafat"
+            "müzd": "Sevab, ecir, karşılık, mükafat",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -19247,7 +19261,8 @@
           "anlamlar": {
             "mesel": "Misal, benzer bir şeyle izah getirme",
             "ışk": "Aşk, ilahi sevgi",
-            "dostlık": "Sevgili, Allah, mürşid"
+            "dostlık": "Sevgili, Allah, mürşid",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -19661,6 +19676,7 @@
             "cânını": "Cism-i latif",
             "cânum": "Canım, ruhum",
             "yagmâ": "Yağmalamak",
+            "assı": "Fayda, menfaat, kazanç",
             "dost": "Sevgili, Allah, mürşid",
             "vaslına": "Kavuşma, ulaşma"
           }
@@ -19849,6 +19865,7 @@
           "metin": "Ne kadar çok ise mâlun ecel sana sunar elin Ne assı eyledi Kârûn bu dünyâya batmış iken",
           "anlamlar": {
             "ecel": "Ölüm vaktı, âhirete göçmek",
+            "assı": "Fayda, menfaat, kazanç",
             "kârûn": "Musâ devrinde yaşayan zengin bir kişi"
           }
         },
@@ -21077,6 +21094,7 @@
           "metin": "Gele şol ‘Azrâîl duta assı kılmaz ana ata Binem şol agaçdan ata gidem hey dost diyü diyü",
           "anlamlar": {
             "azrâîl": "Ölüm meleği, dört büyük melekten birisi",
+            "assı": "Fayda, menfaat, kazanç",
             "dost": "Sevgili, Allah, mürşid"
           }
         },
@@ -22968,7 +22986,8 @@
           "anlamlar": {
             "cân": "Can, ruh, hayat",
             "girü": "Geri, tekrar",
-            "pişmânlık": "Pişman"
+            "pişmânlık": "Pişman",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -23068,7 +23087,8 @@
           "metin": "Döküle altûnun mâlun ayrugıla ola hâlün Senden girü kalan mâlun sana bil assı kılmaya",
           "anlamlar": {
             "girü": "Geri, tekrar",
-            "bil": "Bel"
+            "bil": "Bel",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -23897,7 +23917,9 @@
         {
           "numara": 5,
           "metin": "Her kim aradı cismin cisminde buldı hasmın Ne dünyâ âhret ana ne assı ne ziyânda",
-          "anlamlar": {}
+          "anlamlar": {
+            "assı": "Fayda, menfaat, kazanç"
+          }
         },
         {
           "numara": 6,
@@ -24374,6 +24396,7 @@
           "metin": "‘İlm ü ‘amel ne assı bir gönül yıkdunısa ‘Ârif gönül yapdugı berâber hicâz ile",
           "anlamlar": {
             "amel": "İş, hayır, çalışma",
+            "assı": "Fayda, menfaat, kazanç",
             "gönül": "Kalp, yürek, iç dünya",
             "hicâz": "Arabistan'da Mekke-i Mükerreme ile Medine'nin bulunduğu yerler"
           }
@@ -25093,7 +25116,8 @@
           "metin": "Hak içün bir pûlun yok viresin Yâ niçün virürsin assı ziyâne",
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
-            "niçün": "Niçin, neden"
+            "niçün": "Niçin, neden",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -27171,6 +27195,7 @@
           "metin": "‘Işka Mecnûn olanlar assı-ziyândan fârig Korkmaz ıssı sovukdan pes ne biliser odı",
           "anlamlar": {
             "mecnûn": "Deli, aşk delisi",
+            "assı": "Fayda, menfaat, kazanç",
             "fârig": "Vaz geçmiş",
             "pes": "O halde, öyle ise"
           }
@@ -27620,7 +27645,8 @@
           "metin": "Gerçek ‘âşık ögüt bilmez zire ögüt assı kılmaz Karâr itmez ögüt ile bulmak ister ol Sübhân'ı",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
-            "zire": "Zirâ, çünkü"
+            "zire": "Zirâ, çünkü",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -29318,6 +29344,7 @@
           "metin": "‘Âşık kişi ögüt bilmez zirâ ögüt assı kılmaz Unıdur ol kibr ü kîni terk eyler gider dükkânı",
           "anlamlar": {
             "âşık": "Seven, Allah aşığı",
+            "assı": "Fayda, menfaat, kazanç",
             "kibr": "Gurur, gösteriş, benliğini aksettirme",
             "terk": "Bırakmak, vazgeçmek"
           }
@@ -30318,7 +30345,8 @@
           "metin": "Virdi birlikden şarâb kılduk dükkânı harâb Cümlesini terk itdük assı-ziyânumuzı",
           "anlamlar": {
             "şarâb": "İlahi aşk, irfan",
-            "terk": "Bırakmak, vazgeçmek"
+            "terk": "Bırakmak, vazgeçmek",
+            "assı": "Fayda, menfaat, kazanç"
           }
         },
         {
@@ -30334,7 +30362,9 @@
         {
           "numara": 5,
           "metin": "Ne assı var ne ziyân gelsün cânuna kıyan Cümlesinden geçüben bulduk Sultânumuzı",
-          "anlamlar": {}
+          "anlamlar": {
+            "assı": "Fayda, menfaat, kazanç"
+          }
         },
         {
           "numara": 6,
