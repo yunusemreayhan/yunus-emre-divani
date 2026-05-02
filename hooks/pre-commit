@@ -1,0 +1,11 @@
+#!/bin/sh
+# Pre-commit hook: run tests before allowing commit
+# Install: ln -sf ../../hooks/pre-commit .git/hooks/pre-commit
+
+echo "Running tests..."
+node test_annotations.js
+if [ $? -ne 0 ]; then
+  echo "❌ Tests failed. Commit aborted."
+  exit 1
+fi
+echo "✓ All tests passed."
