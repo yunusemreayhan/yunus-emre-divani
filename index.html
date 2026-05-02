@@ -370,7 +370,7 @@ function showPoemByIdx(idx){
   currentPoem=data.şiirler[idx];
   document.getElementById('search-view').style.display='none';
   document.getElementById('poem-view').style.display='block';
-  document.getElementById('poem-title').textContent=`${currentPoem.numara}. Şiir`;
+  document.getElementById('poem-title').textContent=`${currentPoem.numara}${currentPoem.varyant?'b':''}. Şiir`;
   let meta=`Bölüm: ${currentPoem.bölüm}`;
   if(currentPoem.vezin)meta+=` · Vezin: ${currentPoem.vezin}`;
   meta+=` · ${currentPoem.beyitler.length} beyit`;

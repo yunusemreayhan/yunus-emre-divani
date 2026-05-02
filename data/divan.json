@@ -231,6 +231,34 @@
       ]
     },
     {
+      "numara": 5,
+      "bölüm": "NUN",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Ol ezel ‘âleminde ebedi gözlemedin Per ü bâlün bitmedin cevlân arzû kılursın"
+        },
+        {
+          "numara": 6,
+          "metin": "Yitmiş yidi perde var dostunı arzûlama Yidisinden geçmedin yakîn arzû kılursın"
+        },
+        {
+          "numara": 7,
+          "metin": "Otuzı gözde durur otuzı gönüldedür Onun dahı bilmedin görmek arzû kılursın"
+        },
+        {
+          "numara": 8,
+          "metin": "Sen bunda işe geldün uş yine varısarsın Henüz sen kul olmadın sultân arzû kılursın"
+        },
+        {
+          "numara": 9,
+          "metin": "Yûnus düşdün bu derde Eyyûb'layın sabreyle Derde katlanımazsın dermân arzû kılursın"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 6,
       "bölüm": "ELİF",
       "vezin": "",
@@ -882,6 +910,42 @@
       ]
     },
     {
+      "numara": 22,
+      "bölüm": "RA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 25,
+          "metin": "‘Işk makâmı ‘âlîdür ‘ışk kadîm ezelidür ‘Işk sözini söyleyen cümle kudret dilidür"
+        },
+        {
+          "numara": 2,
+          "metin": "Dinleyen ol işiden ol gören ol gösteren ol Her sözi söyleyen ol sûret cân menzilidür"
+        },
+        {
+          "numara": 3,
+          "metin": "Sûret söz kanda buldı kanda sözi iş oldı Sûrete kendü geldi dil hikmetün yolıdur"
+        },
+        {
+          "numara": 4,
+          "metin": "Sûretler ün diyemez söz kendüsüz söylenmez İşler hicâbsuz olmaz risâlet hâsılıdur"
+        },
+        {
+          "numara": 5,
+          "metin": "Bu bizüm ‘işretümüz oldur bu lezzetümüz İçüp esridügümüz ‘ışk şerbeti gülidür"
+        },
+        {
+          "numara": 6,
+          "metin": "Anı ana dirsin anun söyleyen ol söz anun Ol bizümdür biz anun gayri tesbîh dilidür"
+        },
+        {
+          "numara": 7,
+          "metin": "Yûnus sözin tak kılan görmedi münkir olan ‘Ömrin zulmete salan ma'rifet yohsulıdur"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 23,
       "bölüm": "RA",
       "vezin": "",
@@ -944,41 +1008,6 @@
         {
           "numara": 5,
           "metin": "Yûnus imdi sen Hakk'a ir dün ü gün gönlün Hakk'a vir Gönül gözi görmeyince bu baş gözi görmeyiser"
-        }
-      ]
-    },
-    {
-      "numara": 22,
-      "bölüm": "RA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 25,
-          "metin": "‘Işk makâmı ‘âlîdür ‘ışk kadîm ezelidür ‘Işk sözini söyleyen cümle kudret dilidür"
-        },
-        {
-          "numara": 2,
-          "metin": "Dinleyen ol işiden ol gören ol gösteren ol Her sözi söyleyen ol sûret cân menzilidür"
-        },
-        {
-          "numara": 3,
-          "metin": "Sûret söz kanda buldı kanda sözi iş oldı Sûrete kendü geldi dil hikmetün yolıdur"
-        },
-        {
-          "numara": 4,
-          "metin": "Sûretler ün diyemez söz kendüsüz söylenmez İşler hicâbsuz olmaz risâlet hâsılıdur"
-        },
-        {
-          "numara": 5,
-          "metin": "Bu bizüm ‘işretümüz oldur bu lezzetümüz İçüp esridügümüz ‘ışk şerbeti gülidür"
-        },
-        {
-          "numara": 6,
-          "metin": "Anı ana dirsin anun söyleyen ol söz anun Ol bizümdür biz anun gayri tesbîh dilidür"
-        },
-        {
-          "numara": 7,
-          "metin": "Yûnus sözin tak kılan görmedi münkir olan ‘Ömrin zulmete salan ma'rifet yohsulıdur"
         }
       ]
     },
@@ -1106,6 +1135,54 @@
           "metin": "Yûnus bu sözleri kogıl kendözünden elün yugıl Senden ne gele bir digil çün Hak'dan ola hayr u şer"
         }
       ]
+    },
+    {
+      "numara": 28,
+      "bölüm": "RA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 33,
+          "metin": "Ko ölmek endîşesin ‘âşık ölmez bâkîdür Ölmek senün nen ola çün cânun İlâhîdür"
+        },
+        {
+          "numara": 2,
+          "metin": "Ölümden ne korkarsın korkma ebedî varsın Çün kim işe yararsın bu söz fâsid da'vîdür"
+        },
+        {
+          "numara": 3,
+          "metin": "Nazar kıl bu gevhere ya bu bir gizlü nûra Nûr kaçan yavı vara çün Hak nazar-gâhıdur"
+        },
+        {
+          "numara": 4,
+          "metin": "Kâlû belâ dinmedin kadîmden bileyidük Key anlagıl neydügin bilişün kandagıdur"
+        },
+        {
+          "numara": 5,
+          "metin": "Şükr eylegil Hâlik'a ol durur Hayyü'l-Bekâ Ana varursın mutlaka bâri şükrle varı dur"
+        },
+        {
+          "numara": 6,
+          "metin": "Ezelî bilişidük birlige yitmiş idük Sen bu sûrete bakma vücûd cân vi'âsıdur"
+        },
+        {
+          "numara": 7,
+          "metin": "Bu ezelî birligi yâ bu cihân dirligi Yâ bu gönül birligi bil kudret budagıdur"
+        },
+        {
+          "numara": 8,
+          "metin": "Yadlık yokdur bilene dirlik tuta gelene Bilelik söyleyene vuslat yolı kavîdür"
+        },
+        {
+          "numara": 9,
+          "metin": "Hükm-i revân mülkine ol işi kendü bile Çün iş geldi hâsıla bu mülk varlık evidür"
+        },
+        {
+          "numara": 10,
+          "metin": "Yûnus beşâret sana gel dirler dostdan yana Külli şey'in yerci ‘ilâ aslih söz aslıdur"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 29,
@@ -1248,53 +1325,6 @@
         {
           "numara": 7,
           "metin": "Niçeler eydür Yûnus'a çün kocaldun ‘ışkı kogıl Rûzigâr ugramaz ‘ışka ‘ışkun ne ay u yılı var"
-        }
-      ]
-    },
-    {
-      "numara": 28,
-      "bölüm": "RA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 33,
-          "metin": "Ko ölmek endîşesin ‘âşık ölmez bâkîdür Ölmek senün nen ola çün cânun İlâhîdür"
-        },
-        {
-          "numara": 2,
-          "metin": "Ölümden ne korkarsın korkma ebedî varsın Çün kim işe yararsın bu söz fâsid da'vîdür"
-        },
-        {
-          "numara": 3,
-          "metin": "Nazar kıl bu gevhere ya bu bir gizlü nûra Nûr kaçan yavı vara çün Hak nazar-gâhıdur"
-        },
-        {
-          "numara": 4,
-          "metin": "Kâlû belâ dinmedin kadîmden bileyidük Key anlagıl neydügin bilişün kandagıdur"
-        },
-        {
-          "numara": 5,
-          "metin": "Şükr eylegil Hâlik'a ol durur Hayyü'l-Bekâ Ana varursın mutlaka bâri şükrle varı dur"
-        },
-        {
-          "numara": 6,
-          "metin": "Ezelî bilişidük birlige yitmiş idük Sen bu sûrete bakma vücûd cân vi'âsıdur"
-        },
-        {
-          "numara": 7,
-          "metin": "Bu ezelî birligi yâ bu cihân dirligi Yâ bu gönül birligi bil kudret budagıdur"
-        },
-        {
-          "numara": 8,
-          "metin": "Yadlık yokdur bilene dirlik tuta gelene Bilelik söyleyene vuslat yolı kavîdür"
-        },
-        {
-          "numara": 9,
-          "metin": "Hükm-i revân mülkine ol işi kendü bile Çün iş geldi hâsıla bu mülk varlık evidür"
-        },
-        {
-          "numara": 10,
-          "metin": "Yûnus beşâret sana gel dirler dostdan yana Külli şey'in yerci ‘ilâ aslih söz aslıdur"
         }
       ]
     },
@@ -1900,6 +1930,42 @@
       ]
     },
     {
+      "numara": 48,
+      "bölüm": "RA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Bu semâ‘a girmeyen sonına peşmân olur İrişür bizümile ser-te-ser düşmân olur"
+        },
+        {
+          "numara": 2,
+          "metin": "Dostdur bizi okıyan üstümüze şakıyan Şimd'üç buçuk okıyan derin dânışmân olur"
+        },
+        {
+          "numara": 3,
+          "metin": "Dânışmânun câhili onamaz dervîşleri Dervîşile dânışmân yavlak arışgan olur"
+        },
+        {
+          "numara": 4,
+          "metin": "Bir niçenün gönline şeytânlar tolup durur Erenler semâ'ına bunlar gülüşgen olur"
+        },
+        {
+          "numara": 5,
+          "metin": "Dânışmân oldı geldi okıdugında buldı Ehl-i derd dervîşlere cânı karışgan olur"
+        },
+        {
+          "numara": 6,
+          "metin": "İy bî-çâre dânışmân eyit dervîş dervîşân Dervîşlere irişen işine peşmân olur"
+        },
+        {
+          "numara": 7,
+          "metin": "Yûnus eydür Mevlânâ epsem otur yiründe Bu sohbete döymeyen sonra savaşgan olur"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 49,
       "bölüm": "RA",
       "vezin": "Müstef'ilün Müstef'ilün Müstef'ilün Müstef'ilün",
@@ -1992,6 +2058,58 @@
           "metin": "Yûnus sen Tapduk'a kılgıl du‘âlar ‘Âşıklar meydânı ‘Arş'dan uludur"
         }
       ]
+    },
+    {
+      "numara": 50,
+      "bölüm": "RA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "İy dost bunca kıyl u kâl ne maksûd hod bir haber durur Yâ bunca cüst ü cû nedür görene bir nazar durur"
+        },
+        {
+          "numara": 2,
+          "metin": "Taglar aşup berye söküp ırak yire emek döküp İstedügün bundayiken bu ne ‘aceb sefer durur"
+        },
+        {
+          "numara": 3,
+          "metin": "Hîç ırak isteme anı cânından içerü cânı Senünle biledür anı görmemek bî-basar durur"
+        },
+        {
+          "numara": 4,
+          "metin": "Hîç varmagıl ırak sefer ‘ömrün geçer ecel irer Dost bundadur halvet sever ne galaba haşar durur"
+        },
+        {
+          "numara": 5,
+          "metin": "Cânundan ol dahı yakın key edeb bekle key sakın Bilürisen dostlık hakın dâyim sana ol yâr durur"
+        },
+        {
+          "numara": 6,
+          "metin": "Dilün eydür Çalap hâzır pes kulagun niçün sagır Senün sözüne sen münkir va'llâh bu iş hatar durur"
+        },
+        {
+          "numara": 7,
+          "metin": "Sen uyursın ol uyanık eksügüni bilgil bayık Dahı niçe bulam tanık yoldaş u hem râz-dâr durur"
+        },
+        {
+          "numara": 8,
+          "metin": "Mescîd ü medrese sende sen yürürsin perâkende Irak kaldun bu erkânda katı bu iş düşvâr durur"
+        },
+        {
+          "numara": 9,
+          "metin": "Bu tevhîd tonını geyen varlıgını yoga sayan İş bu yola kâyım turan mutlak bilün ol er durur"
+        },
+        {
+          "numara": 10,
+          "metin": "Ol işler tamâm olıcak ol düzenlik dirilicek Gözün hicâbın silicek yir-gök tolu dîdâr durur"
+        },
+        {
+          "numara": 11,
+          "metin": "Yûnus derdile girüben ‘ışkun yolında dem-be-dem Varlıgın yoga sayuban ma'şûka intizâr durur"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 51,
@@ -2267,41 +2385,6 @@
       ]
     },
     {
-      "numara": 48,
-      "bölüm": "RA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Bu semâ‘a girmeyen sonına peşmân olur İrişür bizümile ser-te-ser düşmân olur"
-        },
-        {
-          "numara": 2,
-          "metin": "Dostdur bizi okıyan üstümüze şakıyan Şimd'üç buçuk okıyan derin dânışmân olur"
-        },
-        {
-          "numara": 3,
-          "metin": "Dânışmânun câhili onamaz dervîşleri Dervîşile dânışmân yavlak arışgan olur"
-        },
-        {
-          "numara": 4,
-          "metin": "Bir niçenün gönline şeytânlar tolup durur Erenler semâ'ına bunlar gülüşgen olur"
-        },
-        {
-          "numara": 5,
-          "metin": "Dânışmân oldı geldi okıdugında buldı Ehl-i derd dervîşlere cânı karışgan olur"
-        },
-        {
-          "numara": 6,
-          "metin": "İy bî-çâre dânışmân eyit dervîş dervîşân Dervîşlere irişen işine peşmân olur"
-        },
-        {
-          "numara": 7,
-          "metin": "Yûnus eydür Mevlânâ epsem otur yiründe Bu sohbete döymeyen sonra savaşgan olur"
-        }
-      ]
-    },
-    {
       "numara": 59,
       "bölüm": "RA",
       "vezin": "",
@@ -2364,57 +2447,6 @@
         {
           "numara": 7,
           "metin": "İy Yûnus imdi senün ‘ışkıla geçsün günün Sevdügün kişi senün cânuna cân olısar"
-        }
-      ]
-    },
-    {
-      "numara": 50,
-      "bölüm": "RA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "İy dost bunca kıyl u kâl ne maksûd hod bir haber durur Yâ bunca cüst ü cû nedür görene bir nazar durur"
-        },
-        {
-          "numara": 2,
-          "metin": "Taglar aşup berye söküp ırak yire emek döküp İstedügün bundayiken bu ne ‘aceb sefer durur"
-        },
-        {
-          "numara": 3,
-          "metin": "Hîç ırak isteme anı cânından içerü cânı Senünle biledür anı görmemek bî-basar durur"
-        },
-        {
-          "numara": 4,
-          "metin": "Hîç varmagıl ırak sefer ‘ömrün geçer ecel irer Dost bundadur halvet sever ne galaba haşar durur"
-        },
-        {
-          "numara": 5,
-          "metin": "Cânundan ol dahı yakın key edeb bekle key sakın Bilürisen dostlık hakın dâyim sana ol yâr durur"
-        },
-        {
-          "numara": 6,
-          "metin": "Dilün eydür Çalap hâzır pes kulagun niçün sagır Senün sözüne sen münkir va'llâh bu iş hatar durur"
-        },
-        {
-          "numara": 7,
-          "metin": "Sen uyursın ol uyanık eksügüni bilgil bayık Dahı niçe bulam tanık yoldaş u hem râz-dâr durur"
-        },
-        {
-          "numara": 8,
-          "metin": "Mescîd ü medrese sende sen yürürsin perâkende Irak kaldun bu erkânda katı bu iş düşvâr durur"
-        },
-        {
-          "numara": 9,
-          "metin": "Bu tevhîd tonını geyen varlıgını yoga sayan İş bu yola kâyım turan mutlak bilün ol er durur"
-        },
-        {
-          "numara": 10,
-          "metin": "Ol işler tamâm olıcak ol düzenlik dirilicek Gözün hicâbın silicek yir-gök tolu dîdâr durur"
-        },
-        {
-          "numara": 11,
-          "metin": "Yûnus derdile girüben ‘ışkun yolında dem-be-dem Varlıgın yoga sayuban ma'şûka intizâr durur"
         }
       ]
     },
@@ -3268,6 +3300,50 @@
       ]
     },
     {
+      "numara": 84,
+      "bölüm": "ZA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "İy bana eyü diyen benem kamudan yavuz Alnumı ay bilürem bu gözlerümi yılduz"
+        },
+        {
+          "numara": 2,
+          "metin": "Bu vücûdum şehrinde buçuk pûlluk uçuk yok ‘Amelüm mahalleri ser-te-ser kalmış ıssuz"
+        },
+        {
+          "numara": 3,
+          "metin": "Hücrede vü bucakda Hakk'a lâyık olmadum Kiminde derd ü firâk kiminde eserlü söz"
+        },
+        {
+          "numara": 4,
+          "metin": "Halk hep ayagın turur ben segirdüm oturdum Geçdüm sadır yirine kalın döşek yirüm düz"
+        },
+        {
+          "numara": 5,
+          "metin": "Bunun gibi sâlûslık çün kim elüme girdi Ayruk n'işüme yarar derd ü firâk âh u sûz"
+        },
+        {
+          "numara": 6,
+          "metin": "Olmaz sözi dimezem ben ma‘rifet ehline Zîrâ disem inanmaz agaçda bitdi karpuz"
+        },
+        {
+          "numara": 7,
+          "metin": "Ben bir kitâb okıdum kalem anı yazmadı Mürekkeb eylerisem yitmeye yidi deniz"
+        },
+        {
+          "numara": 8,
+          "metin": "Ben oruç-namâz içün süçi içdüm esridüm Tesbîh-seccâde içün dinlerem şeşte-kopuz"
+        },
+        {
+          "numara": 9,
+          "metin": "Yûnus'un bu sözinden sen ma'nî anlarısan Konya menâresini göresin bir çuvalduz"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 85,
       "bölüm": "RA",
       "vezin": "",
@@ -3324,6 +3400,34 @@
           "metin": "Yûnus senün ‘aybunı gözlegil ayrugı ko Kimsenün ‘ayıbına sen bakmagıl yazıkdur"
         }
       ]
+    },
+    {
+      "numara": 86,
+      "bölüm": "ZA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Sana her işde iy Kâdir bildük tercemân gerekmez Sen olmadugun gönülde dînile îmân gerekmez"
+        },
+        {
+          "numara": 2,
+          "metin": "Yudum şöyle meyyitümi miskînem aran yetîmi Öldürem nefsüm itini gelmesün koman gerekmez"
+        },
+        {
+          "numara": 3,
+          "metin": "Her kim nefsine kalursa müselmân degül ölürse Hayr itsün benden bilürse eglenmen zamân gerekmez"
+        },
+        {
+          "numara": 4,
+          "metin": "Çün kara sakal agardı ak çıkdı karayı örtdi Anı kim Çalap uyardı ol göze tuman gerekmez"
+        },
+        {
+          "numara": 5,
+          "metin": "Yûnus derdiyilen tüter gönlinden Hak ‘ışkı biter Erenler etegin tutar ölürse yuman gerekmez"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 87,
@@ -3570,6 +3674,54 @@
           "metin": "Miskîn Yûnus bil sözüni dosta açup şol gözüni Kangı burcdan bakarısan ol sultâna güneş gelür"
         }
       ]
+    },
+    {
+      "numara": 92,
+      "bölüm": "ZA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Sûfîyem halk içinde tesbîh elümden gitmez Dilüm ma'rifet söyler gönlüm hîç kabûl itmez"
+        },
+        {
+          "numara": 2,
+          "metin": "Boynumda ‘icâzetüm riyâyıla tâ'atüm Endîşem ayruk yirde gözüm yolı gözetmez"
+        },
+        {
+          "numara": 3,
+          "metin": "Söylerem ma‘rifeti sâlûslanuram katı Miskînlige dönmege gönlümden kibir gitmez"
+        },
+        {
+          "numara": 4,
+          "metin": "Hoş dervîşem sabrum yok dilümde inkârum çok Kulagumdan gireni hergiz içüm işitmez"
+        },
+        {
+          "numara": 5,
+          "metin": "‘Âlem çırâkdur sadır gönlüm bunı gözedür N'ideyüm Hak korkusı hergiz içümden gitmez"
+        },
+        {
+          "numara": 6,
+          "metin": "Görenler elüm öper tâc u hırkama bakar Şöyle sanurlar beni zerrece günâh itmez"
+        },
+        {
+          "numara": 7,
+          "metin": "Taşumda ‘ibâdetüm sohbetüm hoş tâ‘atüm İç bâzâra gelicek bin yıllık ‘ayyâr itmez"
+        },
+        {
+          "numara": 8,
+          "metin": "Görenler velî sanur selâm virür utanur Anca iş koyarıdum el irüben güç yitmez"
+        },
+        {
+          "numara": 9,
+          "metin": "Taşum dervîş içüm boş dilüm tatlu sözüm hoş İllâ ben itdügümi dînin degşüren itmez"
+        },
+        {
+          "numara": 10,
+          "metin": "Yûnus eksükligüni Allah'una ‘arz eyle Anun keremi çokdur sen itdügün ol itmez"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 93,
@@ -4023,49 +4175,6 @@
       ]
     },
     {
-      "numara": 84,
-      "bölüm": "ZA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "İy bana eyü diyen benem kamudan yavuz Alnumı ay bilürem bu gözlerümi yılduz"
-        },
-        {
-          "numara": 2,
-          "metin": "Bu vücûdum şehrinde buçuk pûlluk uçuk yok ‘Amelüm mahalleri ser-te-ser kalmış ıssuz"
-        },
-        {
-          "numara": 3,
-          "metin": "Hücrede vü bucakda Hakk'a lâyık olmadum Kiminde derd ü firâk kiminde eserlü söz"
-        },
-        {
-          "numara": 4,
-          "metin": "Halk hep ayagın turur ben segirdüm oturdum Geçdüm sadır yirine kalın döşek yirüm düz"
-        },
-        {
-          "numara": 5,
-          "metin": "Bunun gibi sâlûslık çün kim elüme girdi Ayruk n'işüme yarar derd ü firâk âh u sûz"
-        },
-        {
-          "numara": 6,
-          "metin": "Olmaz sözi dimezem ben ma‘rifet ehline Zîrâ disem inanmaz agaçda bitdi karpuz"
-        },
-        {
-          "numara": 7,
-          "metin": "Ben bir kitâb okıdum kalem anı yazmadı Mürekkeb eylerisem yitmeye yidi deniz"
-        },
-        {
-          "numara": 8,
-          "metin": "Ben oruç-namâz içün süçi içdüm esridüm Tesbîh-seccâde içün dinlerem şeşte-kopuz"
-        },
-        {
-          "numara": 9,
-          "metin": "Yûnus'un bu sözinden sen ma'nî anlarısan Konya menâresini göresin bir çuvalduz"
-        }
-      ]
-    },
-    {
       "numara": 107,
       "bölüm": "ZA",
       "vezin": "Mefâ'îlün Mefâ'îlün Fe'ûlün",
@@ -4117,33 +4226,6 @@
         {
           "numara": 12,
           "metin": "Yûnus bu tevhîde gark oldı gitdi Girü gelmeklige ‘aklı dirilmez"
-        }
-      ]
-    },
-    {
-      "numara": 86,
-      "bölüm": "ZA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Sana her işde iy Kâdir bildük tercemân gerekmez Sen olmadugun gönülde dînile îmân gerekmez"
-        },
-        {
-          "numara": 2,
-          "metin": "Yudum şöyle meyyitümi miskînem aran yetîmi Öldürem nefsüm itini gelmesün koman gerekmez"
-        },
-        {
-          "numara": 3,
-          "metin": "Her kim nefsine kalursa müselmân degül ölürse Hayr itsün benden bilürse eglenmen zamân gerekmez"
-        },
-        {
-          "numara": 4,
-          "metin": "Çün kara sakal agardı ak çıkdı karayı örtdi Anı kim Çalap uyardı ol göze tuman gerekmez"
-        },
-        {
-          "numara": 5,
-          "metin": "Yûnus derdiyilen tüter gönlinden Hak ‘ışkı biter Erenler etegin tutar ölürse yuman gerekmez"
         }
       ]
     },
@@ -4362,6 +4444,50 @@
       ]
     },
     {
+      "numara": 114,
+      "bölüm": "KEF",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "N'iderüz dirlik suyın biz cânı yagmâya virdük Cevherleri sarrâflara ma‘deni yagmâya virdük"
+        },
+        {
+          "numara": 2,
+          "metin": "Bizüm il bâzirgânı hîç assı gözetmedi Çün assı bizüm degül ziyânı yagmâya virdük"
+        },
+        {
+          "numara": 3,
+          "metin": "Bu yolun ‘ârifleri geçürmezler meta‘ı Biz hod ‘uryân giderüz dükkânı yagmâya virdük"
+        },
+        {
+          "numara": 4,
+          "metin": "Bizüm bâzârumuzda yokluk alur müşteri Çün iş böyle harîdâr varını yagmâya virdük"
+        },
+        {
+          "numara": 5,
+          "metin": "Dîn ü millet bâzârın yagmâladı sen ü ben Çıkduk iki aradan sen-beni yagmâya virdük"
+        },
+        {
+          "numara": 6,
+          "metin": "Küfrile îmân sözi hicâb oldı bu yolda Safâlaşduk küfrile îmânı yagmâya virdük"
+        },
+        {
+          "numara": 7,
+          "metin": "Zühdile çok istedük hîç müyesser olmadı Terk idüben küllîsin gümânı yagmâya virdük"
+        },
+        {
+          "numara": 8,
+          "metin": "Yüz bin yıllık ‘ömr olsa bir kuşlıkça degüldür Geçdük bitmez sagışdan zamânı yagmâya virdük"
+        },
+        {
+          "numara": 9,
+          "metin": "Pâyânlu devr-i zamân çok egledi Yûnus'ı Pâyânsuz devre irdi devrânı yagmâya virdük"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 115,
       "bölüm": "ZA",
       "vezin": "",
@@ -4424,53 +4550,6 @@
         {
           "numara": 8,
           "metin": "Yûnus cânun yinile ki dostlugun anıla ‘Işkıla dinlerisen bilesin kudretümüz"
-        }
-      ]
-    },
-    {
-      "numara": 92,
-      "bölüm": "ZA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Sûfîyem halk içinde tesbîh elümden gitmez Dilüm ma'rifet söyler gönlüm hîç kabûl itmez"
-        },
-        {
-          "numara": 2,
-          "metin": "Boynumda ‘icâzetüm riyâyıla tâ'atüm Endîşem ayruk yirde gözüm yolı gözetmez"
-        },
-        {
-          "numara": 3,
-          "metin": "Söylerem ma‘rifeti sâlûslanuram katı Miskînlige dönmege gönlümden kibir gitmez"
-        },
-        {
-          "numara": 4,
-          "metin": "Hoş dervîşem sabrum yok dilümde inkârum çok Kulagumdan gireni hergiz içüm işitmez"
-        },
-        {
-          "numara": 5,
-          "metin": "‘Âlem çırâkdur sadır gönlüm bunı gözedür N'ideyüm Hak korkusı hergiz içümden gitmez"
-        },
-        {
-          "numara": 6,
-          "metin": "Görenler elüm öper tâc u hırkama bakar Şöyle sanurlar beni zerrece günâh itmez"
-        },
-        {
-          "numara": 7,
-          "metin": "Taşumda ‘ibâdetüm sohbetüm hoş tâ‘atüm İç bâzâra gelicek bin yıllık ‘ayyâr itmez"
-        },
-        {
-          "numara": 8,
-          "metin": "Görenler velî sanur selâm virür utanur Anca iş koyarıdum el irüben güç yitmez"
-        },
-        {
-          "numara": 9,
-          "metin": "Taşum dervîş içüm boş dilüm tatlu sözüm hoş İllâ ben itdügümi dînin degşüren itmez"
-        },
-        {
-          "numara": 10,
-          "metin": "Yûnus eksükligüni Allah'una ‘arz eyle Anun keremi çokdur sen itdügün ol itmez"
         }
       ]
     },
@@ -4998,6 +5077,74 @@
       ]
     },
     {
+      "numara": 130,
+      "bölüm": "LAM",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Senün ben dimekligün ma'nîde usûl degül Bir kapu kullarına şaşı bakmak yol degül"
+        },
+        {
+          "numara": 2,
+          "metin": "Sen sana yararısan bu sözden tuyarısan Kancaru bakarısan dimegil sen ol degül"
+        },
+        {
+          "numara": 3,
+          "metin": "Yitmiş iki milletün hem ma‘şûkı ol durur ‘Âşıkı ma‘şûkından ayırmaklık fâl degül"
+        },
+        {
+          "numara": 4,
+          "metin": "Küfrini atar iken îmânun urma sakın Hırs bizümle düşmândur bilişlüdür il degül"
+        },
+        {
+          "numara": 5,
+          "metin": "İş bu sözden bir haber muhtasârdur muhtasâr İt bir eri ihtiyâr kahıtlıkdan bol degül"
+        },
+        {
+          "numara": 6,
+          "metin": "Paşa bu kuş dilidür bunı Süleymân bilür Sana direm iy hâce bu dil tehî dil degül"
+        },
+        {
+          "numara": 7,
+          "metin": "Saga sola bakmadın hoş söyler Tapduk Yûnus Ol gerçege ‘âşıklar küllî sagdur sol degül Muahhar Bazı Mecmûalarda var."
+        },
+        {
+          "numara": 1,
+          "metin": "Müşkili hâlleylemek degmenün işi degül Bir kişiye vir gönli bu yolda taşı degül"
+        },
+        {
+          "numara": 2,
+          "metin": "Bu kelâmun ma'nîsi evliyânun hânıdur Yidürmegil câhile sükkerümüz aşı degül"
+        },
+        {
+          "numara": 3,
+          "metin": "Evliyânun gönlinden şey'li'l-lâhun kesmegil Sana himmet eyleyen gözile kaşı degül"
+        },
+        {
+          "numara": 4,
+          "metin": "Er oldur ki menzilin her dem gösteri tura Degme ‘ârif bu düşi yoramaz işi degül"
+        },
+        {
+          "numara": 5,
+          "metin": "İşde bir yâr bulasın cânun fidî kılasın İnkârıla gelenler erün yoldaşı degül"
+        },
+        {
+          "numara": 6,
+          "metin": "Hak tecellî kılmaga cân aslını bulmaga Gönülden sür sivâyı nazarı taşı degül"
+        },
+        {
+          "numara": 7,
+          "metin": "Biz ol ‘ışk bâdesini ol dost elinden içdük Bize ol kadeh sunan dünyâ dervîşi degül"
+        },
+        {
+          "numara": 8,
+          "metin": "Yûnus bir toganıdı kondı Tapduk kolına Ava şikâre geldi bu yuva kuşı degül"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 131,
       "bölüm": "KÂF",
       "vezin": "",
@@ -5522,49 +5669,6 @@
         {
           "numara": 6,
           "metin": "Toprak eyle yüzüni miskînlere iy Yûnus Cümlesinden ziyâde erün ikrârı gerek"
-        }
-      ]
-    },
-    {
-      "numara": 114,
-      "bölüm": "KEF",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "N'iderüz dirlik suyın biz cânı yagmâya virdük Cevherleri sarrâflara ma‘deni yagmâya virdük"
-        },
-        {
-          "numara": 2,
-          "metin": "Bizüm il bâzirgânı hîç assı gözetmedi Çün assı bizüm degül ziyânı yagmâya virdük"
-        },
-        {
-          "numara": 3,
-          "metin": "Bu yolun ‘ârifleri geçürmezler meta‘ı Biz hod ‘uryân giderüz dükkânı yagmâya virdük"
-        },
-        {
-          "numara": 4,
-          "metin": "Bizüm bâzârumuzda yokluk alur müşteri Çün iş böyle harîdâr varını yagmâya virdük"
-        },
-        {
-          "numara": 5,
-          "metin": "Dîn ü millet bâzârın yagmâladı sen ü ben Çıkduk iki aradan sen-beni yagmâya virdük"
-        },
-        {
-          "numara": 6,
-          "metin": "Küfrile îmân sözi hicâb oldı bu yolda Safâlaşduk küfrile îmânı yagmâya virdük"
-        },
-        {
-          "numara": 7,
-          "metin": "Zühdile çok istedük hîç müyesser olmadı Terk idüben küllîsin gümânı yagmâya virdük"
-        },
-        {
-          "numara": 8,
-          "metin": "Yüz bin yıllık ‘ömr olsa bir kuşlıkça degüldür Geçdük bitmez sagışdan zamânı yagmâya virdük"
-        },
-        {
-          "numara": 9,
-          "metin": "Pâyânlu devr-i zamân çok egledi Yûnus'ı Pâyânsuz devre irdi devrânı yagmâya virdük"
         }
       ]
     },
@@ -6314,73 +6418,6 @@
       ]
     },
     {
-      "numara": 130,
-      "bölüm": "LAM",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Senün ben dimekligün ma'nîde usûl degül Bir kapu kullarına şaşı bakmak yol degül"
-        },
-        {
-          "numara": 2,
-          "metin": "Sen sana yararısan bu sözden tuyarısan Kancaru bakarısan dimegil sen ol degül"
-        },
-        {
-          "numara": 3,
-          "metin": "Yitmiş iki milletün hem ma‘şûkı ol durur ‘Âşıkı ma‘şûkından ayırmaklık fâl degül"
-        },
-        {
-          "numara": 4,
-          "metin": "Küfrini atar iken îmânun urma sakın Hırs bizümle düşmândur bilişlüdür il degül"
-        },
-        {
-          "numara": 5,
-          "metin": "İş bu sözden bir haber muhtasârdur muhtasâr İt bir eri ihtiyâr kahıtlıkdan bol degül"
-        },
-        {
-          "numara": 6,
-          "metin": "Paşa bu kuş dilidür bunı Süleymân bilür Sana direm iy hâce bu dil tehî dil degül"
-        },
-        {
-          "numara": 7,
-          "metin": "Saga sola bakmadın hoş söyler Tapduk Yûnus Ol gerçege ‘âşıklar küllî sagdur sol degül Muahhar Bazı Mecmûalarda var."
-        },
-        {
-          "numara": 1,
-          "metin": "Müşkili hâlleylemek degmenün işi degül Bir kişiye vir gönli bu yolda taşı degül"
-        },
-        {
-          "numara": 2,
-          "metin": "Bu kelâmun ma'nîsi evliyânun hânıdur Yidürmegil câhile sükkerümüz aşı degül"
-        },
-        {
-          "numara": 3,
-          "metin": "Evliyânun gönlinden şey'li'l-lâhun kesmegil Sana himmet eyleyen gözile kaşı degül"
-        },
-        {
-          "numara": 4,
-          "metin": "Er oldur ki menzilin her dem gösteri tura Degme ‘ârif bu düşi yoramaz işi degül"
-        },
-        {
-          "numara": 5,
-          "metin": "İşde bir yâr bulasın cânun fidî kılasın İnkârıla gelenler erün yoldaşı degül"
-        },
-        {
-          "numara": 6,
-          "metin": "Hak tecellî kılmaga cân aslını bulmaga Gönülden sür sivâyı nazarı taşı degül"
-        },
-        {
-          "numara": 7,
-          "metin": "Biz ol ‘ışk bâdesini ol dost elinden içdük Bize ol kadeh sunan dünyâ dervîşi degül"
-        },
-        {
-          "numara": 8,
-          "metin": "Yûnus bir toganıdı kondı Tapduk kolına Ava şikâre geldi bu yuva kuşı degül"
-        }
-      ]
-    },
-    {
       "numara": 165,
       "bölüm": "LAM",
       "vezin": "",
@@ -6855,6 +6892,38 @@
           "metin": "Yûnus Hakk'a kıldı tapu Hak Yûnus'a açdı kapu Bâkî devlet benüm imiş ben kul iken sultân oldum"
         }
       ]
+    },
+    {
+      "numara": 176,
+      "bölüm": "MİM",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "İy dost ‘ışkun denizine girem gark olam yüriyem İki cihân meydân ola devrânum sürem yüriyem"
+        },
+        {
+          "numara": 2,
+          "metin": "Girem denize gark olam ne elif ü mim dal olam Dost bâgında bülbül olam gülleri direm yüriyem"
+        },
+        {
+          "numara": 3,
+          "metin": "Bülbül olubanı ötem gönül olam cânlar ütem Başumı elümde tutam yoluna varam yüriyem"
+        },
+        {
+          "numara": 4,
+          "metin": "Bülbül olubanı gidem iy niçe gönüller güdem Yüzüm ‘ışkıla dem-be-dem topraga sürem yüriyem"
+        },
+        {
+          "numara": 5,
+          "metin": "Şükür gördüm dîdârunı aşdum visâlün yarını Bu benlik senlik şârını terkini uram yüriyem"
+        },
+        {
+          "numara": 6,
+          "metin": "Yûnus'dur ‘ışk âvâresi bî-çâreler bî-çâresi Sendedür derdüm çâresi dermânum soram yüriyem"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 177,
@@ -7793,6 +7862,34 @@
       ]
     },
     {
+      "numara": 196,
+      "bölüm": "NUN",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Şükür şükür ol Çalab'a maksûduma irdüm bugün Müştâkıdum bunca zamân pîrüm yüzin gördüm bugün"
+        },
+        {
+          "numara": 2,
+          "metin": "Kaygu beni almışıdı cânum zebûn olmışıdı Gördüm pîrümün yüzinİ ol kayguyı sürdüm bugün"
+        },
+        {
+          "numara": 3,
+          "metin": "Gelsün yardan ayru düşen gurbetile bagrı bişen Dost bâgçesi içindeki ‘ışk bezmine girdüm bugün"
+        },
+        {
+          "numara": 4,
+          "metin": "Görün görün bu devleti bu ‘ışkıla beşâreti Dost bâgınun içinde ben ‘ışk çadırın kurdum bugün"
+        },
+        {
+          "numara": 5,
+          "metin": "Eydür Yûnus yâr kulıyam dost bâgçesi bülbüliyem Söyleyeyüm şimden girü gülzâruma irdüm bugün"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 197,
       "bölüm": "MİM",
       "vezin": "Müstef'ilün Müstef'ilün Müstef'ilün Müstef'ilün",
@@ -8585,37 +8682,6 @@
       ]
     },
     {
-      "numara": 176,
-      "bölüm": "MİM",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "İy dost ‘ışkun denizine girem gark olam yüriyem İki cihân meydân ola devrânum sürem yüriyem"
-        },
-        {
-          "numara": 2,
-          "metin": "Girem denize gark olam ne elif ü mim dal olam Dost bâgında bülbül olam gülleri direm yüriyem"
-        },
-        {
-          "numara": 3,
-          "metin": "Bülbül olubanı ötem gönül olam cânlar ütem Başumı elümde tutam yoluna varam yüriyem"
-        },
-        {
-          "numara": 4,
-          "metin": "Bülbül olubanı gidem iy niçe gönüller güdem Yüzüm ‘ışkıla dem-be-dem topraga sürem yüriyem"
-        },
-        {
-          "numara": 5,
-          "metin": "Şükür gördüm dîdârunı aşdum visâlün yarını Bu benlik senlik şârını terkini uram yüriyem"
-        },
-        {
-          "numara": 6,
-          "metin": "Yûnus'dur ‘ışk âvâresi bî-çâreler bî-çâresi Sendedür derdüm çâresi dermânum soram yüriyem"
-        }
-      ]
-    },
-    {
       "numara": 214,
       "bölüm": "MİM",
       "vezin": "",
@@ -8661,6 +8727,50 @@
           "metin": "Bu Yûnus'un çün sûreti ölüp toprak olurısa Bâtınumdan ‘ışk sevgüsi bilün ki hîç gitmez benüm"
         }
       ]
+    },
+    {
+      "numara": 214,
+      "bölüm": "NUN",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Dîn ü millet kodurdı ol benüm gönlüm alan Anı gören kişiye ne gönül kalur ne cân"
+        },
+        {
+          "numara": 2,
+          "metin": "Tuymayanlar hâlümi dînin kodı dir bana Neyile dîn beslesin cânsuz gönülsüz kalan"
+        },
+        {
+          "numara": 3,
+          "metin": "Sûretümde varlıgum cânıla gönülidi Kodurdı kamusını bana ‘ışk bagışlayan"
+        },
+        {
+          "numara": 4,
+          "metin": "‘Işkun serhengi beni komaz hîç bir nesneye Ne İslâm'da ne dînde anılmaz küfr ü imân"
+        },
+        {
+          "numara": 5,
+          "metin": "Şart u farz olmaz anda cânı ‘ışkda kalanda Cevâb sözi dil söyler niçe bilsün bu lisân"
+        },
+        {
+          "numara": 6,
+          "metin": "‘Işka mesel baglanmaz ‘ışk işi hisâb olmaz Dostlık ticâretinde anılmaz assı-ziyân"
+        },
+        {
+          "numara": 7,
+          "metin": "Beni benlikden kodı varlık defterin yudı Havf u recâ göstermez hayr u şer elden koyan"
+        },
+        {
+          "numara": 8,
+          "metin": "Elden iş bırakdurdı niteliksüz bakdurdı Bizüm ahvâlümüzde anılmaz nâmla nişân"
+        },
+        {
+          "numara": 9,
+          "metin": "Sorman Yûnus'dan haber dost kandasa anda var Yüz bin gevherden fârig ‘ışk denizine talan"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 215,
@@ -8727,6 +8837,38 @@
           "metin": "Oldur bana Yûnus diyen oldur benüm bagrum delen Oldur beni bensüz koyan hem ben olam bu ben neyim"
         }
       ]
+    },
+    {
+      "numara": 216,
+      "bölüm": "NUN",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "İy gönül bir dem bir vakit dünyâdan usanmaz mısın Bunca fâsid işlerile yüzünden utanmaz mısın"
+        },
+        {
+          "numara": 2,
+          "metin": "Sen seni hoş tutgıl arı istigfâr eyle yârı Îmân bilüne baglanup dîn tonın tonanmaz mısın"
+        },
+        {
+          "numara": 3,
+          "metin": "İy metâ‘ın kalba satan güherine pûllar katan Assıyı ziyâna satan assıya uzanmaz mısın"
+        },
+        {
+          "numara": 4,
+          "metin": "Gayret içinde mübtelâ günâhlar içinde kodı Dîn yolında gönül sayrı ciddile tayanmaz mısın"
+        },
+        {
+          "numara": 5,
+          "metin": "Ölmez vuslat meyin içen ma‘siyyet denizin geçen Meyhâneden ‘azim idüp mescidlere kanmaz mısın"
+        },
+        {
+          "numara": 6,
+          "metin": "Yiri gögi seyrân kılan ‘Arş u Kürsi cevlân uran Yûnus katında iy gönül bir dem eglenmez misin"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 217,
@@ -8941,6 +9083,42 @@
           "metin": "Yûnus turdı girdi yola kamu gurbetleri bile Kendü cigerüm kanıla vasf-ı hâlüm yazar oldum"
         }
       ]
+    },
+    {
+      "numara": 222,
+      "bölüm": "NUN",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Yokdur bende ‘amel tâ‘at Ben n'ideyüm n'eyleyeyin Kopıcak rûz-ı kıyâmet Ben n'ideyüm n'eyleyeyin"
+        },
+        {
+          "numara": 2,
+          "metin": "Dost bana su‘âl idicek ‘Aklum başumdan gidicek Hicâb derdi gark idicek Ben n'ideyin n'eyleyeyin"
+        },
+        {
+          "numara": 3,
+          "metin": "Helâline ola hisâb Harâmına ola ‘azâb ‘İsyânıla yüzüm kara Ben n'ideyin n'eyleyeyin"
+        },
+        {
+          "numara": 4,
+          "metin": "Yitmiş bin zebânî yide Tamu'yı haşrda ilede Mücrimlere heybet ide Ben n'ideyin n'eyleyeyin"
+        },
+        {
+          "numara": 5,
+          "metin": "Bir kez Cehennem silkine 'Âsîlere ide kîne Yâ Rab iricek ol güne Ben n'ideyin n'eyleyeyin"
+        },
+        {
+          "numara": 6,
+          "metin": "‘Âşıklar maksûda ire ‘Ârifler dost yüzin göre Şöyle mücrim yüzi kara Ben n'ideyin n'eyleyeyin"
+        },
+        {
+          "numara": 7,
+          "metin": "Yûnus Emrem derdün katı Hayra geçmez bir tâ‘atı Olmazsa Hak ‘inâyeti Ben n'ideyin n'eyleyeyin"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 223,
@@ -9590,33 +9768,6 @@
       ]
     },
     {
-      "numara": 196,
-      "bölüm": "NUN",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Şükür şükür ol Çalab'a maksûduma irdüm bugün Müştâkıdum bunca zamân pîrüm yüzin gördüm bugün"
-        },
-        {
-          "numara": 2,
-          "metin": "Kaygu beni almışıdı cânum zebûn olmışıdı Gördüm pîrümün yüzinİ ol kayguyı sürdüm bugün"
-        },
-        {
-          "numara": 3,
-          "metin": "Gelsün yardan ayru düşen gurbetile bagrı bişen Dost bâgçesi içindeki ‘ışk bezmine girdüm bugün"
-        },
-        {
-          "numara": 4,
-          "metin": "Görün görün bu devleti bu ‘ışkıla beşâreti Dost bâgınun içinde ben ‘ışk çadırın kurdum bugün"
-        },
-        {
-          "numara": 5,
-          "metin": "Eydür Yûnus yâr kulıyam dost bâgçesi bülbüliyem Söyleyeyüm şimden girü gülzâruma irdüm bugün"
-        }
-      ]
-    },
-    {
       "numara": 241,
       "bölüm": "NUN",
       "vezin": "",
@@ -10178,33 +10329,6 @@
       ]
     },
     {
-      "numara": 5,
-      "bölüm": "NUN",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Ol ezel ‘âleminde ebedi gözlemedin Per ü bâlün bitmedin cevlân arzû kılursın"
-        },
-        {
-          "numara": 6,
-          "metin": "Yitmiş yidi perde var dostunı arzûlama Yidisinden geçmedin yakîn arzû kılursın"
-        },
-        {
-          "numara": 7,
-          "metin": "Otuzı gözde durur otuzı gönüldedür Onun dahı bilmedin görmek arzû kılursın"
-        },
-        {
-          "numara": 8,
-          "metin": "Sen bunda işe geldün uş yine varısarsın Henüz sen kul olmadın sultân arzû kılursın"
-        },
-        {
-          "numara": 9,
-          "metin": "Yûnus düşdün bu derde Eyyûb'layın sabreyle Derde katlanımazsın dermân arzû kılursın"
-        }
-      ]
-    },
-    {
       "numara": 256,
       "bölüm": "NUN",
       "vezin": "",
@@ -10494,6 +10618,42 @@
       ]
     },
     {
+      "numara": 262,
+      "bölüm": "HE",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Muhammed'ün medhini idelüm baş üstine Zîrâ ki ol Muhammed yüridi ‘Arş üstine"
+        },
+        {
+          "numara": 2,
+          "metin": "‘Arş'ına basdı kadem ol Resûlu'llâh benem Düşdi bu cümle sanem ser-nigûn Ferş üstine"
+        },
+        {
+          "numara": 3,
+          "metin": "Bir taşa kıldı nazar mu'cizâtıla yarar Çıkdı ber-Tâ vü Sin ü Yâ dürli nakış üstine"
+        },
+        {
+          "numara": 4,
+          "metin": "Taş elinde söyledi Hak Resûl'sün sen didi Anun içün komadı bir taşı taş üstine"
+        },
+        {
+          "numara": 5,
+          "metin": "Muhammed'e kâfirler üç kez agu virdiler Birin kuzuyla yidi ikin aşın üstine"
+        },
+        {
+          "numara": 6,
+          "metin": "Aguyı kıldı şeker ol Resûlu'llah meger Vir salâvât zenbûr-vâr derdile yaş üstine"
+        },
+        {
+          "numara": 7,
+          "metin": "Yûnus Emrem sen gine Mustafâ'ya kıl selâm Ol dahı kıla edâ yüz ile baş üstine"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 263,
       "bölüm": "NUN",
       "vezin": "",
@@ -10525,49 +10685,6 @@
         {
           "numara": 6,
           "metin": "Yûnus gögüs açup dosta giderken Çalab'um saklasun seni hatardan"
-        }
-      ]
-    },
-    {
-      "numara": 214,
-      "bölüm": "NUN",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Dîn ü millet kodurdı ol benüm gönlüm alan Anı gören kişiye ne gönül kalur ne cân"
-        },
-        {
-          "numara": 2,
-          "metin": "Tuymayanlar hâlümi dînin kodı dir bana Neyile dîn beslesin cânsuz gönülsüz kalan"
-        },
-        {
-          "numara": 3,
-          "metin": "Sûretümde varlıgum cânıla gönülidi Kodurdı kamusını bana ‘ışk bagışlayan"
-        },
-        {
-          "numara": 4,
-          "metin": "‘Işkun serhengi beni komaz hîç bir nesneye Ne İslâm'da ne dînde anılmaz küfr ü imân"
-        },
-        {
-          "numara": 5,
-          "metin": "Şart u farz olmaz anda cânı ‘ışkda kalanda Cevâb sözi dil söyler niçe bilsün bu lisân"
-        },
-        {
-          "numara": 6,
-          "metin": "‘Işka mesel baglanmaz ‘ışk işi hisâb olmaz Dostlık ticâretinde anılmaz assı-ziyân"
-        },
-        {
-          "numara": 7,
-          "metin": "Beni benlikden kodı varlık defterin yudı Havf u recâ göstermez hayr u şer elden koyan"
-        },
-        {
-          "numara": 8,
-          "metin": "Elden iş bırakdurdı niteliksüz bakdurdı Bizüm ahvâlümüzde anılmaz nâmla nişân"
-        },
-        {
-          "numara": 9,
-          "metin": "Sorman Yûnus'dan haber dost kandasa anda var Yüz bin gevherden fârig ‘ışk denizine talan"
         }
       ]
     },
@@ -10626,37 +10743,6 @@
         {
           "numara": 6,
           "metin": "Tapduk eydür bu Yûnus'a bu ‘ışk Hakk'a irse gerek Kamulardan ol yücedür ben ana niçe ireyin"
-        }
-      ]
-    },
-    {
-      "numara": 216,
-      "bölüm": "NUN",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "İy gönül bir dem bir vakit dünyâdan usanmaz mısın Bunca fâsid işlerile yüzünden utanmaz mısın"
-        },
-        {
-          "numara": 2,
-          "metin": "Sen seni hoş tutgıl arı istigfâr eyle yârı Îmân bilüne baglanup dîn tonın tonanmaz mısın"
-        },
-        {
-          "numara": 3,
-          "metin": "İy metâ‘ın kalba satan güherine pûllar katan Assıyı ziyâna satan assıya uzanmaz mısın"
-        },
-        {
-          "numara": 4,
-          "metin": "Gayret içinde mübtelâ günâhlar içinde kodı Dîn yolında gönül sayrı ciddile tayanmaz mısın"
-        },
-        {
-          "numara": 5,
-          "metin": "Ölmez vuslat meyin içen ma‘siyyet denizin geçen Meyhâneden ‘azim idüp mescidlere kanmaz mısın"
-        },
-        {
-          "numara": 6,
-          "metin": "Yiri gögi seyrân kılan ‘Arş u Kürsi cevlân uran Yûnus katında iy gönül bir dem eglenmez misin"
         }
       ]
     },
@@ -10926,39 +11012,32 @@
       ]
     },
     {
-      "numara": 222,
-      "bölüm": "NUN",
+      "numara": 274,
+      "bölüm": "HE",
       "vezin": "",
       "beyitler": [
         {
           "numara": 1,
-          "metin": "Yokdur bende ‘amel tâ‘at Ben n'ideyüm n'eyleyeyin Kopıcak rûz-ı kıyâmet Ben n'ideyüm n'eyleyeyin"
+          "metin": "‘Âlem düşmân olurısa beni dostdan ırımaya Dost kandayısa ben anda düşmânlık ayırımaya"
         },
         {
           "numara": 2,
-          "metin": "Dost bana su‘âl idicek ‘Aklum başumdan gidicek Hicâb derdi gark idicek Ben n'ideyin n'eyleyeyin"
+          "metin": "Dost ehli bizüm ile hem dost bundadur bize ne gam Yüz bin cehd iderse düşmân dost mahfilin turımaya"
         },
         {
           "numara": 3,
-          "metin": "Helâline ola hisâb Harâmına ola ‘azâb ‘İsyânıla yüzüm kara Ben n'ideyin n'eyleyeyin"
+          "metin": "Düşmân bana n'idebile işüm gücüm dostdan yana Dost makâmı cân içinde düşmân eli irimeye"
         },
         {
           "numara": 4,
-          "metin": "Yitmiş bin zebânî yide Tamu'yı haşrda ilede Mücrimlere heybet ide Ben n'ideyin n'eyleyeyin"
+          "metin": "Sultânlar ‘âcizdür anda ne gönüldedür ne cânda Mahrûmdur iki cihânda kim dost yüzi görimeye"
         },
         {
           "numara": 5,
-          "metin": "Bir kez Cehennem silkine 'Âsîlere ide kîne Yâ Rab iricek ol güne Ben n'ideyin n'eyleyeyin"
-        },
-        {
-          "numara": 6,
-          "metin": "‘Âşıklar maksûda ire ‘Ârifler dost yüzin göre Şöyle mücrim yüzi kara Ben n'ideyin n'eyleyeyin"
-        },
-        {
-          "numara": 7,
-          "metin": "Yûnus Emrem derdün katı Hayra geçmez bir tâ‘atı Olmazsa Hak ‘inâyeti Ben n'ideyin n'eyleyeyin"
+          "metin": "Kime kim dost kapu aça düşmânı elinden kaça Yûnus agzı güher saça degme ‘ârif dirimeye"
         }
-      ]
+      ],
+      "varyant": 2
     },
     {
       "numara": 276,
@@ -11068,6 +11147,58 @@
           "metin": "Yûnus imdi tapdur hemin akıtma gözünün nemin Eger bugün eger yarın çün Hakk'içün kurbândasın"
         }
       ]
+    },
+    {
+      "numara": 278,
+      "bölüm": "HE",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Yine yaz günleri geldi Söyle bülbülcügüm söyle Cümle çiçekler zeyn oldı Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 2,
+          "metin": "Kış çıkıcak irdi bahâr Cânunı gafletden uyar Cennet'e döndi her diyâr Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 3,
+          "metin": "Yaşıl ton geydi agaçlar Pervâz urup uçar kuşlar Nefesün cânlar bagışlar Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 4,
+          "metin": "‘Işkıla eylegil cûşı Gider gönlünden teşvîşi Çıkuban gül-zâra karşu Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 5,
+          "metin": "Kuru dikende gül biter Hasretinden gine yiter Dertli m'oldun benden beter Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 6,
+          "metin": "Bülbül ‘âşık durur güle ‘Âşıkun hâlin kim bile Güle karşu hoş ‘ışkıla Söyle bülbücügüm söyle"
+        },
+        {
+          "numara": 7,
+          "metin": "Kudret haznesi açıldı ‘Âleme rahmet saçıldı Hulle tonları biçildi Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 8,
+          "metin": "Şeyhüm andadur ben bunda Cânum karâr kılmaz tende Zârılıgum dün ü günde Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 9,
+          "metin": "Kanadunı aça bilürsin Açuban uça bilürsin Deryâlar geçe bilürsin Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 10,
+          "metin": "Yuvandan yavrun aldılar Seni dîvâne kıldılar Zamân böyl'olur didiler Söyle bülbülcügüm söyle"
+        },
+        {
+          "numara": 11,
+          "metin": "Geçdi yâ ‘ömrümün varı Kor gidersin bu gül-zârı Yûnus'un mûnisi yârı Söyle bülbülcügüm söyle"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 279,
@@ -11392,6 +11523,42 @@
           "metin": "Görün ki Yûnus n'itdi varuban hazrete gitdi Katredür ‘ummâna yitdi tolsa gerek şimden girü"
         }
       ]
+    },
+    {
+      "numara": 286,
+      "bölüm": "YA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Hak nûrı ‘âşıklara her dem nüzûl degül mi Kime kim nüzûl degmez Hak'dan ma‘zûl degül mi"
+        },
+        {
+          "numara": 2,
+          "metin": "Mine'l-kalbi ile'l-kalb yol var dimişler erler Her gönülden gönüle rast togru yol degül mi"
+        },
+        {
+          "numara": 3,
+          "metin": "Kargayıla bülbüli bir kafese koysalar Birbiri sohbetinden dâim melûl degül mi"
+        },
+        {
+          "numara": 4,
+          "metin": "Eyle ki karga diler bülbülden ayrılmaga Bülbülün de gönlinde maksûdı şol degül mi"
+        },
+        {
+          "numara": 5,
+          "metin": "Câhil ile ‘ârifün meseli şuna benzer Câhil katında îmân ma‘lûm mechûl degül mi"
+        },
+        {
+          "numara": 6,
+          "metin": "Işık ile Dânişmend sû'i işler her zamân Dânişmend Işık'a eydür bî-şerî‘at degül mi"
+        },
+        {
+          "numara": 7,
+          "metin": "Yitmiş iki milletün sözini ‘ârif bilür Yûnus Emre sözleri dâim usûl degül mi"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 287,
@@ -12408,6 +12575,46 @@
       ]
     },
     {
+      "numara": 308,
+      "bölüm": "YA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Gerçek ‘âşık olanlarun hemen dostı sever cânı Unıdur kibr ü kînini ma‘şûka terk ider cânı"
+        },
+        {
+          "numara": 2,
+          "metin": "Gerçek ‘âşık ögüt bilmez zire ögüt assı kılmaz Karâr itmez ögüt ile bulmak ister ol Sübhân'ı"
+        },
+        {
+          "numara": 3,
+          "metin": "Gerçek ‘âşık olanlarun yüzinde nişânı olur Dün ü güni turmaz akar gözleri yaşınun kanı"
+        },
+        {
+          "numara": 4,
+          "metin": "Bu cümle ‘âlem sevdügi bu dîn ile bu îmândur Va'llâhi ışksuz gerekmez şol dîn ile şol îmânı"
+        },
+        {
+          "numara": 5,
+          "metin": "Bir ucına varurısa ayru degül ‘âşık cânı Sorun cümle ‘âşıklara kıldan kıla bilür anı"
+        },
+        {
+          "numara": 6,
+          "metin": "Evvel-âhir Hayyü'l-Kayyûm ‘âşıklara ma'şûkıdı ‘Aklun varısa hisâb it geçiser bu ‘ışk devrânı"
+        },
+        {
+          "numara": 7,
+          "metin": "Her kim ‘âşıkam diyüben hasret geçürür varısa Gözi hicâblıdur anun görinmedi ‘ışk nihânı"
+        },
+        {
+          "numara": 8,
+          "metin": "Yûnus yüzün kaldurmagıl ‘âşıklarun ayagından Fidî eyle yüz bir cânı anda bulasın sultânı"
+        }
+      ],
+      "varyant": 2
+    },
+    {
       "numara": 309,
       "bölüm": "HE",
       "vezin": "",
@@ -12896,41 +13103,6 @@
       ]
     },
     {
-      "numara": 262,
-      "bölüm": "HE",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Muhammed'ün medhini idelüm baş üstine Zîrâ ki ol Muhammed yüridi ‘Arş üstine"
-        },
-        {
-          "numara": 2,
-          "metin": "‘Arş'ına basdı kadem ol Resûlu'llâh benem Düşdi bu cümle sanem ser-nigûn Ferş üstine"
-        },
-        {
-          "numara": 3,
-          "metin": "Bir taşa kıldı nazar mu'cizâtıla yarar Çıkdı ber-Tâ vü Sin ü Yâ dürli nakış üstine"
-        },
-        {
-          "numara": 4,
-          "metin": "Taş elinde söyledi Hak Resûl'sün sen didi Anun içün komadı bir taşı taş üstine"
-        },
-        {
-          "numara": 5,
-          "metin": "Muhammed'e kâfirler üç kez agu virdiler Birin kuzuyla yidi ikin aşın üstine"
-        },
-        {
-          "numara": 6,
-          "metin": "Aguyı kıldı şeker ol Resûlu'llah meger Vir salâvât zenbûr-vâr derdile yaş üstine"
-        },
-        {
-          "numara": 7,
-          "metin": "Yûnus Emrem sen gine Mustafâ'ya kıl selâm Ol dahı kıla edâ yüz ile baş üstine"
-        }
-      ]
-    },
-    {
       "numara": 322,
       "bölüm": "HE",
       "vezin": "",
@@ -13108,6 +13280,34 @@
           "metin": "Yûnus kogıl sen bu kurı da‘vâyı Vay ona ki Allah uyandurmaya"
         }
       ]
+    },
+    {
+      "numara": 326,
+      "bölüm": "YA",
+      "vezin": "",
+      "beyitler": [
+        {
+          "numara": 1,
+          "metin": "Yine yüzini gördüm yine yüregüm yandı Dost senün ‘ışkun odı yüregüme dayandı"
+        },
+        {
+          "numara": 2,
+          "metin": "Görklü yüzüni gören gönlini sana viren Bellü tapunda turan ne toydı ne usandı"
+        },
+        {
+          "numara": 3,
+          "metin": "Gevherdür senün özün güneşden arı yüzün Şekerden datlu sözün her kim gördi utandı"
+        },
+        {
+          "numara": 4,
+          "metin": "Şu gönlüm garîb idi cigerüm kebâb idi Görklü yüzüni gördüm içüm taşum bezendi"
+        },
+        {
+          "numara": 5,
+          "metin": "Yûnus Emre bî-karâr şol hûb yüze intizâr Senden ayrılmaz nazar vardı yakıldı yandı"
+        }
+      ],
+      "varyant": 2
     },
     {
       "numara": 327,
@@ -13504,33 +13704,6 @@
       ]
     },
     {
-      "numara": 274,
-      "bölüm": "HE",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "‘Âlem düşmân olurısa beni dostdan ırımaya Dost kandayısa ben anda düşmânlık ayırımaya"
-        },
-        {
-          "numara": 2,
-          "metin": "Dost ehli bizüm ile hem dost bundadur bize ne gam Yüz bin cehd iderse düşmân dost mahfilin turımaya"
-        },
-        {
-          "numara": 3,
-          "metin": "Düşmân bana n'idebile işüm gücüm dostdan yana Dost makâmı cân içinde düşmân eli irimeye"
-        },
-        {
-          "numara": 4,
-          "metin": "Sultânlar ‘âcizdür anda ne gönüldedür ne cânda Mahrûmdur iki cihânda kim dost yüzi görimeye"
-        },
-        {
-          "numara": 5,
-          "metin": "Kime kim dost kapu aça düşmânı elinden kaça Yûnus agzı güher saça degme ‘ârif dirimeye"
-        }
-      ]
-    },
-    {
       "numara": 338,
       "bölüm": "HE",
       "vezin": "",
@@ -13710,57 +13883,6 @@
         {
           "numara": 7,
           "metin": "Yûnus'ı ögen ögsün sögen Yûnus'a sögsün Keçe suya salupdur ne durur irte gice"
-        }
-      ]
-    },
-    {
-      "numara": 278,
-      "bölüm": "HE",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Yine yaz günleri geldi Söyle bülbülcügüm söyle Cümle çiçekler zeyn oldı Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 2,
-          "metin": "Kış çıkıcak irdi bahâr Cânunı gafletden uyar Cennet'e döndi her diyâr Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 3,
-          "metin": "Yaşıl ton geydi agaçlar Pervâz urup uçar kuşlar Nefesün cânlar bagışlar Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 4,
-          "metin": "‘Işkıla eylegil cûşı Gider gönlünden teşvîşi Çıkuban gül-zâra karşu Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 5,
-          "metin": "Kuru dikende gül biter Hasretinden gine yiter Dertli m'oldun benden beter Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 6,
-          "metin": "Bülbül ‘âşık durur güle ‘Âşıkun hâlin kim bile Güle karşu hoş ‘ışkıla Söyle bülbücügüm söyle"
-        },
-        {
-          "numara": 7,
-          "metin": "Kudret haznesi açıldı ‘Âleme rahmet saçıldı Hulle tonları biçildi Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 8,
-          "metin": "Şeyhüm andadur ben bunda Cânum karâr kılmaz tende Zârılıgum dün ü günde Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 9,
-          "metin": "Kanadunı aça bilürsin Açuban uça bilürsin Deryâlar geçe bilürsin Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 10,
-          "metin": "Yuvandan yavrun aldılar Seni dîvâne kıldılar Zamân böyl'olur didiler Söyle bülbülcügüm söyle"
-        },
-        {
-          "numara": 11,
-          "metin": "Geçdi yâ ‘ömrümün varı Kor gidersin bu gül-zârı Yûnus'un mûnisi yârı Söyle bülbülcügüm söyle"
         }
       ]
     },
@@ -14093,41 +14215,6 @@
         {
           "numara": 14,
           "metin": "‘Âşık Yûnus sözlerin muhâl diyü söylemez Ma‘nî yüzin gösterür bu şâ‘irler kocası"
-        }
-      ]
-    },
-    {
-      "numara": 286,
-      "bölüm": "YA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Hak nûrı ‘âşıklara her dem nüzûl degül mi Kime kim nüzûl degmez Hak'dan ma‘zûl degül mi"
-        },
-        {
-          "numara": 2,
-          "metin": "Mine'l-kalbi ile'l-kalb yol var dimişler erler Her gönülden gönüle rast togru yol degül mi"
-        },
-        {
-          "numara": 3,
-          "metin": "Kargayıla bülbüli bir kafese koysalar Birbiri sohbetinden dâim melûl degül mi"
-        },
-        {
-          "numara": 4,
-          "metin": "Eyle ki karga diler bülbülden ayrılmaga Bülbülün de gönlinde maksûdı şol degül mi"
-        },
-        {
-          "numara": 5,
-          "metin": "Câhil ile ‘ârifün meseli şuna benzer Câhil katında îmân ma‘lûm mechûl degül mi"
-        },
-        {
-          "numara": 6,
-          "metin": "Işık ile Dânişmend sû'i işler her zamân Dânişmend Işık'a eydür bî-şerî‘at degül mi"
-        },
-        {
-          "numara": 7,
-          "metin": "Yitmiş iki milletün sözini ‘ârif bilür Yûnus Emre sözleri dâim usûl degül mi"
         }
       ]
     },
@@ -15204,45 +15291,6 @@
       ]
     },
     {
-      "numara": 308,
-      "bölüm": "YA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Gerçek ‘âşık olanlarun hemen dostı sever cânı Unıdur kibr ü kînini ma‘şûka terk ider cânı"
-        },
-        {
-          "numara": 2,
-          "metin": "Gerçek ‘âşık ögüt bilmez zire ögüt assı kılmaz Karâr itmez ögüt ile bulmak ister ol Sübhân'ı"
-        },
-        {
-          "numara": 3,
-          "metin": "Gerçek ‘âşık olanlarun yüzinde nişânı olur Dün ü güni turmaz akar gözleri yaşınun kanı"
-        },
-        {
-          "numara": 4,
-          "metin": "Bu cümle ‘âlem sevdügi bu dîn ile bu îmândur Va'llâhi ışksuz gerekmez şol dîn ile şol îmânı"
-        },
-        {
-          "numara": 5,
-          "metin": "Bir ucına varurısa ayru degül ‘âşık cânı Sorun cümle ‘âşıklara kıldan kıla bilür anı"
-        },
-        {
-          "numara": 6,
-          "metin": "Evvel-âhir Hayyü'l-Kayyûm ‘âşıklara ma'şûkıdı ‘Aklun varısa hisâb it geçiser bu ‘ışk devrânı"
-        },
-        {
-          "numara": 7,
-          "metin": "Her kim ‘âşıkam diyüben hasret geçürür varısa Gözi hicâblıdur anun görinmedi ‘ışk nihânı"
-        },
-        {
-          "numara": 8,
-          "metin": "Yûnus yüzün kaldurmagıl ‘âşıklarun ayagından Fidî eyle yüz bir cânı anda bulasın sultânı"
-        }
-      ]
-    },
-    {
       "numara": 378,
       "bölüm": "YA",
       "vezin": "",
@@ -16093,33 +16141,6 @@
         {
           "numara": 6,
           "metin": "‘Âşıkısan miskîn Yûnus Hazret'e dutgıl yüzüni Anlayana gevher durur söz sarrâfa satdum ahî"
-        }
-      ]
-    },
-    {
-      "numara": 326,
-      "bölüm": "YA",
-      "vezin": "",
-      "beyitler": [
-        {
-          "numara": 1,
-          "metin": "Yine yüzini gördüm yine yüregüm yandı Dost senün ‘ışkun odı yüregüme dayandı"
-        },
-        {
-          "numara": 2,
-          "metin": "Görklü yüzüni gören gönlini sana viren Bellü tapunda turan ne toydı ne usandı"
-        },
-        {
-          "numara": 3,
-          "metin": "Gevherdür senün özün güneşden arı yüzün Şekerden datlu sözün her kim gördi utandı"
-        },
-        {
-          "numara": 4,
-          "metin": "Şu gönlüm garîb idi cigerüm kebâb idi Görklü yüzüni gördüm içüm taşum bezendi"
-        },
-        {
-          "numara": 5,
-          "metin": "Yûnus Emre bî-karâr şol hûb yüze intizâr Senden ayrılmaz nazar vardı yakıldı yandı"
         }
       ]
     },
