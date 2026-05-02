@@ -567,6 +567,7 @@
           "numara": 6,
           "metin": "Agaç ata bindüreler sinden yana göndereler Yir altına indüreler kimse ayruk görmez ola",
           "anlamlar": {
+            "agaç": "Ağaç",
             "sinden": "Mezâr",
             "yir": "Yer, yeryüzü",
             "ayruk": "Başka, artık, gayrı"
@@ -1131,6 +1132,7 @@
           "numara": 3,
           "metin": "Önümce kuyı kazanı Hak tahtın agdursun anı Ardumca taşlar atanı güller nisâr olsun ana",
           "anlamlar": {
+            "kazanı": "Kazan, tencere",
             "hak": "Allah, gerçek, doğru",
             "tahtın": "Yer",
             "taşlar": "Dış, zahir",
@@ -1742,8 +1744,9 @@
           "metin": "Gideridüm ben yol sıra yavlak uzamış bir agaç Böyle latîf böyle şîrîn gönlüm eydür bir kaç sır aç",
           "anlamlar": {
             "yavlak": "Pek çok, gâyet",
-            "latîf": "Cisimsiz, mütenâsip, güzel, mülâyim, yumuşak",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "agaç": "Ağaç",
+            "latîf": "Güzel, ince, zarif, hoş",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "eydür": "Der, söyler"
           }
         },
@@ -1752,25 +1755,37 @@
           "metin": "Böyl' uzamak ne ma‘nîdür çünki bu dünyâ fânîdür Bu fuzûllık nişânıdur gel beri miskînlige geç",
           "anlamlar": {
             "fânîdür": "Geçici olan, yoklukla ilgili",
-            "nişânıdur": "Alâmet, iz, belirti, eser"
+            "fuzûllık": "Gereksizlik, boşuna iş",
+            "nişânıdur": "Alâmet, iz, belirti, eser",
+            "miskînlige": "Hiçbir şeye mâlik olmayan yoksul, halsiz, hareketsiz"
           }
         },
         {
           "numara": 3,
           "metin": "Böyle latîf bezenüben böyle şîrîn düzünüben Gönül Hakk'a uzanuban dilek nedür neye muhtâc",
           "anlamlar": {
-            "latîf": "Cisimsiz, mütenâsip, güzel, mülâyim, yumuşak",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
-            "gönül": "Kalp, yürek, iç dünya"
+            "latîf": "Güzel, ince, zarif, hoş",
+            "bezenüben": "Bezenerek, süslenerek",
+            "şîrîn": "Tatlı, hoş, sevimli",
+            "düzünüben": "Düzünerek, süslenerek",
+            "gönül": "Kalp, yürek, iç dünya",
+            "uzanuban": "Uzanarak, yönelerek",
+            "dilek": "İstek, arzu, dua",
+            "muhtâc": "Muhtaç, ihtiyaç sahibi"
           }
         },
         {
           "numara": 4,
           "metin": "Agaç karır devrân döner kuş budaga bir kez konar Dahı sana kuş konmamış ne gügercin ne hod duraç",
           "anlamlar": {
+            "agaç": "Ağaç",
+            "karır": "Yaşlanır, ağarır, kurur",
             "devrân": "Dünya, felek, zamân, talih",
+            "budaga": "Dala, budağa",
             "kez": "Defa, kere",
-            "hod": "Kendi, esasen, bizzat"
+            "gügercin": "Güvercin",
+            "hod": "Kendi, esasen, bizzat",
+            "duraç": "Durak, konak yeri"
           }
         },
         {
@@ -1779,23 +1794,31 @@
           "anlamlar": {
             "gün": "Gündüz, güneş",
             "zevâl": "Son, yok oluş",
-            "kaddün": "Boy-pos",
-            "yire": "Yere"
+            "kaddün": "Boyun, endamın",
+            "yire": "Yere",
+            "budaklarun": "Dallarının",
+            "kazan": "Kazan, tencere",
+            "saç": "Saç; saçmak, dağıtmak"
           }
         },
         {
           "numara": 6,
           "metin": "Er sırrıdur sırrun senün er yiridür yirün senün Ne yirdedür yirün senün sana soraram iy agaç",
           "anlamlar": {
+            "sırrıdur": "Sırrıdır, gizli hakikatidir",
+            "sırrun": "Sırrın, gizli hakikatin",
             "yiridür": "Yer, yeryüzü",
-            "yirün": "Yer, yeryüzü"
+            "yirün": "Yer, yeryüzü",
+            "agaç": "Ağaç"
           }
         },
         {
           "numara": 7,
           "metin": "Yûnus Emre sen bir niçe eksükligün yüz bin anca Kur'agaca yol sorunca teferrüclen yoluna geç",
           "anlamlar": {
-            "anca": "O kadar, onca"
+            "eksükligün": "Eksikliğin, noksanın",
+            "anca": "O kadar, onca",
+            "teferrüclen": "Gezin, seyret, ferahla"
           }
         }
       ]
@@ -2263,14 +2286,17 @@
             "ışk": "Aşk, ilahi sevgi",
             "yir": "Yer, yeryüzü",
             "nazar": "Göz atmak, yan bakmak, tetkik",
-            "latîf": "Cisimsiz, mütenâsip, güzel, mülâyim, yumuşak"
+            "latîf": "Güzel, ince, zarif, hoş",
+            "bezenüben": "Bezenerek, süslenerek"
           }
         },
         {
           "numara": 2,
           "metin": "Bunlar yazın bezenüben dostdan yana uzanuban Bir sor ahî bunlara sen kancarudur ‘azm-i sefer",
           "anlamlar": {
+            "bezenüben": "Bezenerek, süslenerek",
             "dostdan": "Sevgili, Allah, mürşid",
+            "uzanuban": "Uzanarak, yönelerek",
             "ahî": "Kardeş, fütüvvet ehli",
             "kancarudur": "Nereye, ne tarafa"
           }
@@ -2303,6 +2329,7 @@
           "numara": 6,
           "metin": "Bu sırrı ger tuyayıdun ya bu gamı yiyeyidün Yiründe eriyeyidün gideydi senden kâr u bâr",
           "anlamlar": {
+            "sırrı": "Sır, gizli hakikat",
             "kâr": "Kazanç, iş",
             "bâr": "Yük, kal'a duvarı"
           }
@@ -2454,6 +2481,7 @@
           "metin": "Seni bunda viribidi teferrüc eylegil didi Sen ev yaparsın iy hâce evi tarâş olan kimdür",
           "anlamlar": {
             "viribidi": "Verdi, bıraktı",
+            "teferrüc": "Gezinti, seyir, ferahlama",
             "didi": "Dedi"
           }
         },
@@ -2815,6 +2843,7 @@
           "numara": 2,
           "metin": "Ölene bak gözün aç dökülür sakal u saç Ilan çıyan gelür aç yiyüp içüp sir gider",
           "anlamlar": {
+            "saç": "Saç; saçmak, dağıtmak",
             "ilan": "Yılan",
             "sir": "Tok, doymuş"
           }
@@ -3563,7 +3592,8 @@
           "anlamlar": {
             "berk": "Sağlam, katı, sert, kuvvetli",
             "kuşan": "Kemer bağlamak, silahlanmak, yeltenmek",
-            "degşür": "Değişmek, değiştirmek"
+            "degşür": "Değişmek, değiştirmek",
+            "eksüklük": "Eksik, noksan"
           }
         }
       ]
@@ -3752,6 +3782,7 @@
             "nefsi": "Benlik, ego",
             "'işkıla": "Aşk, candan sevme, sevgi",
             "cân": "Can, ruh, hayat",
+            "sırrına": "Sır, gizli hakikat",
             "pinhân": "Gizli, saklı"
           }
         }
@@ -3854,7 +3885,9 @@
         {
           "numara": 3,
           "metin": "Niçe eyde bile dil niteligün Dile getirmege bin-bir adun var",
-          "anlamlar": {}
+          "anlamlar": {
+            "niteligün": "Nasıl, ne halde"
+          }
         },
         {
           "numara": 4,
@@ -3872,7 +3905,7 @@
           "anlamlar": {
             "hod": "Kendi, esasen, bizzat",
             "resm": "Adet, usûl, tavır, davranış",
-            "kadd": "Boy-pos",
+            "kadd": "Boy, endam",
             "kâmetün": "Boy, endâm",
             "sûretün": "Şekil, yüz, resim,tarz, biçim"
           }
@@ -3907,6 +3940,7 @@
           "metin": "‘Akıllar mât olur niteligünden Ki bir zerrede bin bin ‘ibretün var",
           "anlamlar": {
             "mât": "Saf dışı olmuş, yenik, yenilmiş, mağlup",
+            "niteligünden": "Nasıl, ne halde",
             "zerrede": "Çok küçük parça, atom"
           }
         },
@@ -4433,6 +4467,7 @@
             "eyle": "Öyle, o şekilde",
             "vîrân": "Yıkık, harap",
             "cân": "Can, ruh, hayat",
+            "sırrıdur": "Sırrıdır, gizli hakikatidir",
             "dost": "Sevgili, Allah, mürşid",
             "zâhir": "Görünen, açık, belli, meydanda"
           }
@@ -4455,6 +4490,7 @@
           "anlamlar": {
             "cânı": "Cism-i latif",
             "zevâl": "Son, yok oluş",
+            "sırrı": "Sır, gizli hakikat",
             "arş'dan": "Dokuzuncu gök",
             "yir": "Yer, yeryüzü"
           }
@@ -4606,6 +4642,7 @@
           "numara": 8,
           "metin": "Hiç yogıken oldun diri aç gözüni yolca yüri Anlayasın sen bu sırrı bellü haber manzûr nedür",
           "anlamlar": {
+            "sırrı": "Sır, gizli hakikat",
             "bellü": "Belli, açık",
             "manzûr": "Nazar edilen, bakılan"
           }
@@ -4728,7 +4765,7 @@
           "numara": 9,
           "metin": "Şîrîn hulklar eylegil tatlu sözler söylegil Sohbetlerde Yûnus'ı hergiz unutmayalar",
           "anlamlar": {
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "hulklar": "Huy, tabîat",
             "hergiz": "Asla"
           }
@@ -5087,6 +5124,7 @@
           "metin": "‘Âşıklar tagında ma'şûklar bâgında Budak sürimişler duduksuz yayalar",
           "anlamlar": {
             "âşıklar": "Seven, Allah aşığı",
+            "budak": "Dal, ağaç dalı",
             "duduksuz": "Serbest, rehin olmayan, kapalı olmayan"
           }
         },
@@ -5185,6 +5223,7 @@
           "numara": 7,
           "metin": "Yûnus imdi bildüm dime miskînlige elden koma Kimde miskînlik varısa Hak dîdârın ol göriser",
           "anlamlar": {
+            "miskînlige": "Hiçbir şeye mâlik olmayan yoksul, halsiz, hareketsiz",
             "miskînlik": "Metinde “Fenafillah”, benlik terki anlamlarındadır",
             "hak": "Allah, gerçek, doğru",
             "dîdârın": "Yüz, Allah'ın cemali, vuslat"
@@ -5599,7 +5638,7 @@
             "evvel": "Allah'ın sıfatı",
             "dadı": "Tat, lezzet, çeşni",
             "şehd": "Bal",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "âhir": "Son, nihayet, sonunda",
             "zehr-i": "Zehir (izafet: ...zehiri)"
           }
@@ -5825,6 +5864,7 @@
           "numara": 8,
           "metin": "Adı sanı uşatdum Küfrümi suya atdum Miskînlige el katdum Allah görelüm n'eyler",
           "anlamlar": {
+            "miskînlige": "Hiçbir şeye mâlik olmayan yoksul, halsiz, hareketsiz",
             "n'eyler": "Ne eyler, ne yapar"
           }
         },
@@ -5840,6 +5880,7 @@
           "numara": 10,
           "metin": "‘Âr-nâmusı bırakdum Külümi suya atdum Dervîşlige el katdum Allah görelüm n'eyler",
           "anlamlar": {
+            "dervîşlige": "Yoksul, mütevazî kişi, tarikate girmiş kimse",
             "n'eyler": "Ne eyler, ne yapar"
           }
         },
@@ -6078,6 +6119,7 @@
           "numara": 5,
           "metin": "Esilmiş incü dişleri dökilmiş saru saçları Bitmiş kamu teşvişleri Hak varlıgın almış yatur",
           "anlamlar": {
+            "saçları": "Saç; saçmak, dağıtmak",
             "kamu": "Bütün, hep, herkes",
             "hak": "Allah, gerçek, doğru"
           }
@@ -6507,7 +6549,8 @@
           "anlamlar": {
             "cân": "Can, ruh, hayat",
             "bî-çâre": "Çaresiz, zavallı",
-            "tapduk": "Yunus Emre'nin şeyhi"
+            "tapduk": "Yunus Emre'nin şeyhi",
+            "sırrıdur": "Sırrıdır, gizli hakikatidir"
           }
         }
       ]
@@ -7485,6 +7528,7 @@
           "metin": "Çig bişüp kazan taşmadın rûh cisime ulaşmadın Ana rahmine düşmedin ol togmadın ölen nedür",
           "anlamlar": {
             "çig": "Ham, pişmemiş",
+            "kazan": "Kazan, tencere",
             "rahmine": "Acıma, merhamet etme, Esirgeme"
           }
         },
@@ -7674,6 +7718,7 @@
           "numara": 1,
           "metin": "Dervîşlige kadem uran her ma‘nîde sultân olur Dervîş niçe miskîn ise anun gönli mekân olur Dervîş olan bil baglaya tolaplayın çok aglaya Her kanda tolap varısa anda bâg u bostân olur",
           "anlamlar": {
+            "dervîşlige": "Yoksul, mütevazî kişi, tarikate girmiş kimse",
             "kadem": "Ayak, adım, bir uzunluk ölçüsü, uğur",
             "sultân": "Sultan, hükümdar, manevi otorite",
             "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
@@ -7697,6 +7742,7 @@
           "metin": "Dünyâ seven dervîş degül dervîşligi olmaz kabûl Dervîşlikden kaçanlarun hemân şeyhi şeytân olur",
           "anlamlar": {
             "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
+            "dervîşligi": "Yoksul, mütevazî kişi, tarikate girmiş kimse",
             "kaçanlarun": "Ne vakit, ne zamân",
             "hemân": "Aynı şekilde, öylece, derhâl",
             "şeyhi": "İhtiyar, pir, tasavvufta “mürşid”"
@@ -8309,7 +8355,8 @@
           "numara": 6,
           "metin": "Olmaz sözi dimezem ben ma‘rifet ehline Zîrâ disem inanmaz agaçda bitdi karpuz",
           "anlamlar": {
-            "zîrâ": "Çünkü, zira"
+            "zîrâ": "Çünkü, zira",
+            "agaçda": "Ağaç"
           }
         },
         {
@@ -8480,7 +8527,8 @@
           "metin": "Rızık içün gussa yime kimse rızkın kimse yimez Rızık içün gussa yime pâdişâh eksük eylemez",
           "anlamlar": {
             "gussa": "Tasa, üzüntü",
-            "pâdişâh": "Padişah, mecazen Ruh, Cenâb-ı Hak"
+            "pâdişâh": "Padişah, mecazen Ruh, Cenâb-ı Hak",
+            "eksük": "Eksik, noksan"
           }
         },
         {
@@ -8556,6 +8604,7 @@
           "metin": "‘Âlem ‘ilmin okıyan dört mezheb sırrın tuyan ‘Âciz kaldı bu yolda bu ‘ışka el uramaz",
           "anlamlar": {
             "mezheb": "Yol, din yolu",
+            "sırrın": "Sır, gizli hakikat",
             "tuyan": "Duyan, hisseden"
           }
         },
@@ -8564,6 +8613,7 @@
           "metin": "Bu ‘ışkun sırrı ‘aceb bu ‘ışkı eyle taleb Meger ki vire Çalab anı degme göz görmez",
           "anlamlar": {
             "ışkun": "Aşk, ilahi sevgi",
+            "sırrı": "Sır, gizli hakikat",
             "ışkı": "Aşk, ilahi sevgi",
             "eyle": "Öyle, o şekilde",
             "degme": "Herhangi, her bir, her, rastgele"
@@ -8985,6 +9035,7 @@
           "numara": 7,
           "metin": "Kimün sırrın kim bile çün irilmez bu hâle Yarın anda bell'ola müslümân mürtedümüz",
           "anlamlar": {
+            "sırrın": "Sır, gizli hakikat",
             "yarın": "Yarılmış yer, suyun açtığı uçurum"
           }
         },
@@ -9023,7 +9074,8 @@
           "numara": 3,
           "metin": "Söylerem ma‘rifeti sâlûslanuram katı Miskînlige dönmege gönlümden kibir gitmez",
           "anlamlar": {
-            "katı": "Yan, huzur"
+            "katı": "Yan, huzur",
+            "miskînlige": "Hiçbir şeye mâlik olmayan yoksul, halsiz, hareketsiz"
           }
         },
         {
@@ -9077,6 +9129,7 @@
           "numara": 10,
           "metin": "Yûnus eksükligüni Allah'una ‘arz eyle Anun keremi çokdur sen itdügün ol itmez",
           "anlamlar": {
+            "eksükligüni": "Eksikliğin, noksanın",
             "arz": "Yeryüzü, toprak, zemin, dünya",
             "eyle": "Öyle, o şekilde"
           }
@@ -10007,6 +10060,7 @@
           "metin": "İy çok kitâblar okıyan sen kim dutarsın bana dak Tâ bilesin sırrı ‘ıyân gel ‘ışkdan okı bir varak",
           "anlamlar": {
             "dak": "Özür, kusur",
+            "sırrı": "Sır, gizli hakikat",
             "ıyân": "Aşikar, açık, belli",
             "ışkdan": "Aşk, ilahi sevgi",
             "varak": "Tek yaprak halindeki kâğıt"
@@ -10250,6 +10304,7 @@
           "anlamlar": {
             "bahrine": "Deniz",
             "vücûd": "Vücut, beden, varlık",
+            "sırrını": "Sır, gizli hakikat",
             "ser-te-ser": "Baştan başa, tamamen",
             "vücûdda": "Vücut, beden, varlık"
           }
@@ -11260,7 +11315,8 @@
           "numara": 1,
           "metin": "Ne söz keleci dirisem dilüm seni söyleyicek Kanda yürürsem yürürem senden yana kaçar dilek",
           "anlamlar": {
-            "keleci": "Söz, mânâlı söz"
+            "keleci": "Söz, mânâlı söz",
+            "dilek": "İstek, arzu, dua"
           }
         },
         {
@@ -11466,6 +11522,7 @@
           "anlamlar": {
             "eydür": "Der, söyler",
             "melâmet": "Kınama, ayıplama, azarlama",
+            "şeyhligi": "İhtiyar, pir, tasavvufta “mürşid”",
             "âşık": "Seven, Allah aşığı",
             "eyü": "İyi, güzel",
             "âşıkun": "Seven, Allah aşığı"
@@ -11505,6 +11562,7 @@
           "numara": 4,
           "metin": "Agaçlara varursın köklerinden girürsin Dunı sıra yürürsin uzun elün var senün",
           "anlamlar": {
+            "agaçlara": "Ağaç",
             "dunı": "Alt taraf, kök"
           }
         },
@@ -11868,6 +11926,7 @@
           "metin": "Gör imdi gizlü seyri seyir içinde sırrı Kul bilmez bu tedbîri kime degdi bu nüzûl",
           "anlamlar": {
             "seyri": "Yürüyüş",
+            "sırrı": "Sır, gizli hakikat",
             "tedbîri": "Bir şeyi temin edecek veya def edecek yol"
           }
         },
@@ -12032,6 +12091,7 @@
           "numara": 14,
           "metin": "Su getüreler yumaga kefen saralar komaga Agaç ata bindüreler teneşire düşdi gönül",
           "anlamlar": {
+            "agaç": "Ağaç",
             "gönül": "Kalp, yürek, iç dünya"
           }
         },
@@ -12366,6 +12426,7 @@
           "numara": 2,
           "metin": "Eksük olman ehillerden kaça görün câhillerden Tanrı bîzâr bahillerden bahil dîdâr görür degül",
           "anlamlar": {
+            "eksük": "Eksik, noksan",
             "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
@@ -12548,7 +12609,7 @@
           "metin": "Dünyâ çerb ü şîrîn durur âdem gerekdür yiyesi Kem nesneye tama‘ idüp kesüp kemürüp yutmagıl",
           "anlamlar": {
             "çerb": "Besili, semiz, yağlı",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "kem": "Az, eksik, noksan, fenâ, kötü",
             "tama": "Tamah, açgözlülük, hırs"
           }
@@ -12742,7 +12803,8 @@
           "anlamlar": {
             "dervîşlik": "Yoksul, mütevazî kişi, tarikate girmiş kimse",
             "tâc": "Başlık, maddî ve manevî bir makam işareti",
-            "dervîş": "Yoksul, tarikat ehli, Allah yolcusu"
+            "dervîş": "Yoksul, tarikat ehli, Allah yolcusu",
+            "muhtâc": "Muhtaç, ihtiyaç sahibi"
           }
         },
         {
@@ -12780,6 +12842,7 @@
           "numara": 1,
           "metin": "Senün ben dimekligün ma'nîde usûl degül Bir kapu kullarına şaşı bakmak yol degül",
           "anlamlar": {
+            "dimekligün": "Demek, söylemek",
             "ma'nîde": "Manada, anlamda",
             "usûl": "Ana, baba, ced"
           }
@@ -13323,7 +13386,7 @@
             "terk": "Bırakmak, vazgeçmek",
             "teşvîşi": "Kargaşalık, karışıklık",
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
-            "latîf": "Cisimsiz, mütenâsip, güzel, mülâyim, yumuşak"
+            "latîf": "Güzel, ince, zarif, hoş"
           }
         },
         {
@@ -13364,7 +13427,8 @@
           "anlamlar": {
             "hak": "Allah, gerçek, doğru",
             "kelâmını": "Söz",
-            "habîb'ile": "Sevgili, sevilen, dost"
+            "habîb'ile": "Sevgili, sevilen, dost",
+            "sırr": "Sır, gizli hakikat"
           }
         },
         {
@@ -14488,7 +14552,8 @@
           "metin": "Çün pâdişâh güçlü ola pes kul fuzûl işlü ola Ben senünem bana ne gam ger suç idem ger itmeyem",
           "anlamlar": {
             "pâdişâh": "Padişah, mecazen Ruh, Cenâb-ı Hak",
-            "pes": "O halde, öyle ise"
+            "pes": "O halde, öyle ise",
+            "fuzûl": "Gereksiz, boş, lüzumsuz"
           }
         },
         {
@@ -14710,6 +14775,7 @@
             "tâc": "Başlık, maddî ve manevî bir makam işareti",
             "tahtı": "Yer",
             "ışkına": "Aşk, ilahi sevgi",
+            "sırrı": "Sır, gizli hakikat",
             "tuyan": "Duyan, hisseden"
           }
         },
@@ -14736,6 +14802,7 @@
           "numara": 9,
           "metin": "Adumı Yûnus dakdum sırrum ‘âleme çakdum Levh ü kalemden öndin dilde söylenen benem",
           "anlamlar": {
+            "sırrum": "Sır, gizli hakikat",
             "kalemden": "Halka ait zuhur yerlerinde Hakk'ın taayyünlerine bir evveldir",
             "öndin": "Önce, evvel"
           }
@@ -14900,7 +14967,8 @@
             "habîb'i": "Sevgili, sevilen, dost",
             "mustafâ": "Istıfa edilmiş",
             "dem": "An, zamân, vakit, soluk, nefes",
-            "cânum": "Canım, ruhum"
+            "cânum": "Canım, ruhum",
+            "sırrını": "Sır, gizli hakikat"
           }
         },
         {
@@ -15449,6 +15517,7 @@
           "metin": "Diller damaklar şeşüren ‘ışk kazanını taşuran Hamza'yı Kâf'dan aşuran ol agulu yılan benem",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
+            "kazanını": "Kazan, tencere",
             "kâf'dan": "Eski yazımızda bir harf"
           }
         },
@@ -15867,6 +15936,7 @@
           "metin": "Alur yigidi kocayı yakar ananun içini kızlarun sarı saçını teneşirde çözer ölüm",
           "anlamlar": {
             "yigidi": "Yeğ, üstün",
+            "saçını": "Saç; saçmak, dağıtmak",
             "teneşirde": "Ölülerin yıkandığı tahtadan yapılan dört ayaklı masa"
           }
         },
@@ -16042,6 +16112,7 @@
           "metin": "Geh feleklerde meleklerden dilekler eyleyem Gâhı ‘Arş' u şems ile gerdün olam gerdân olam",
           "anlamlar": {
             "geh": "Bazan, ara sıra",
+            "dilekler": "İstek, arzu, dua",
             "gâhı": "Bazan, ara sıra",
             "arş'": "En yüce gök, Allah'ın makamı",
             "şems": "Güneş",
@@ -16554,6 +16625,7 @@
           "metin": "Çok sorarlar Yûnus'a niçe ‘ışk esrükligi N'itsün ezel bezminde öyle çalındı kalem",
           "anlamlar": {
             "ışk": "Aşk, ilahi sevgi",
+            "esrükligi": "Sarhoş, aşk sarhoşu",
             "ezel": "Başlangıçsız geçmiş, öncesizlik"
           }
         }
@@ -16871,6 +16943,7 @@
           "numara": 1,
           "metin": "Teferrüc eyleyü vardum sabâhın sinleri gördüm Karışmış kara topraga şu nâzük tenleri gördüm",
           "anlamlar": {
+            "teferrüc": "Gezinti, seyir, ferahlama",
             "sinleri": "Mezâr",
             "nâzük": "Nazik, ince"
           }
@@ -17509,7 +17582,8 @@
           "numara": 6,
           "metin": "Yıl on iki ay ‘ışk odı içümde uş yanup durur Yandugunca artar kokum devrüm geçüp solmaz benüm",
           "anlamlar": {
-            "ışk": "Aşk, ilahi sevgi"
+            "ışk": "Aşk, ilahi sevgi",
+            "devrüm": "Dönüş, çağ, zaman"
           }
         },
         {
@@ -17992,6 +18066,7 @@
           "anlamlar": {
             "cevherler": "Kıymetli taş, maya, öz",
             "dost": "Sevgili, Allah, mürşid",
+            "budakdan": "Dal, ağaç dalı",
             "gül": "Sevgili, güzellik"
           }
         },
@@ -17999,6 +18074,7 @@
           "numara": 6,
           "metin": "Ol budakda biter îmân îmân bitse gider gümân Dün-gün işüm budur hemân nefsüme bir Tatar oldum",
           "anlamlar": {
+            "budakda": "Dal, ağaç dalı",
             "gümân": "Şüphe, zann",
             "dün-gün": "Gece gündüz, sürekli",
             "hemân": "Aynı şekilde, öylece, derhâl",
@@ -18747,6 +18823,7 @@
           "numara": 7,
           "metin": "Bu sırrı duyan kanı key ‘ârifise cânı Açıldı güher kânı alana haber itsün",
           "anlamlar": {
+            "sırrı": "Sır, gizli hakikat",
             "kanı": "Hani, nerede",
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
             "cânı": "Cism-i latif",
@@ -18996,6 +19073,7 @@
           "numara": 5,
           "metin": "Yârânlarundan utanup günâhı gizlü işlersin Yaradan Hâlik'un hâzır niçün ondan utanmazsın",
           "anlamlar": {
+            "yârânlarundan": "Dostlar, sevgililer",
             "hâlik'un": "Yaratan, Allah",
             "hâzır": "Hazır, mevcut, her yerde var olan",
             "niçün": "Niçin, neden"
@@ -20242,6 +20320,7 @@
           "numara": 2,
           "metin": "Varayın her bir mahfile sırrum dimeyem her dile Sırdan haber diyenlere mihmân olayın bir zamân",
           "anlamlar": {
+            "sırrum": "Sır, gizli hakikat",
             "dimeyem": "Demeyeyim, söylemeyeyim",
             "mihmân": "Konuk, misafir"
           }
@@ -20322,7 +20401,7 @@
           "anlamlar": {
             "âşıklara": "Seven, Allah aşığı",
             "ışk": "Aşk, ilahi sevgi",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "işkıla": "Aşk, candan sevme, sevgi"
           }
         },
@@ -20507,7 +20586,9 @@
         {
           "numara": 2,
           "metin": "Sıfatun gelmez dile kandalıgun kim bile Sun‘unı dimeklige ben lâyık olamazın",
-          "anlamlar": {}
+          "anlamlar": {
+            "dimeklige": "Demek, söylemek"
+          }
         },
         {
           "numara": 3,
@@ -20626,6 +20707,7 @@
           "anlamlar": {
             "dîdâr": "Yüz, Allah'ın cemali, vuslat",
             "nûrıdur": "Işık, aydınlık",
+            "saçun": "Saç; saçmak, dağıtmak",
             "dünidür": "Gece",
             "cânın": "Cism-i latif"
           }
@@ -21604,7 +21686,8 @@
           "numara": 6,
           "metin": "Karlu taglarun başında salkım salkım olan bulut Saçun çözüp benüm içün yaşın yaşın aglar mısın",
           "anlamlar": {
-            "taglarun": "Dağ"
+            "taglarun": "Dağ",
+            "saçun": "Saç; saçmak, dağıtmak"
           }
         },
         {
@@ -22034,6 +22117,7 @@
           "numara": 5,
           "metin": "Binüp agaç atına yanulup Hızr'a tana Şol kara yir altına gire yatasın birgün",
           "anlamlar": {
+            "agaç": "Ağaç",
             "tana": "Hayrete, şaşkınlığa (tana kalmak: şaşmak)",
             "yir": "Yer, yeryüzü"
           }
@@ -22777,6 +22861,7 @@
           "metin": "Evliyâdur Hakk'un sırrı alnındaki Allah nûrı Anı seven âh u zârı kılsa gerek şimden girü",
           "anlamlar": {
             "hakk'un": "Doğruluk, doğru, gerçek",
+            "sırrı": "Sır, gizli hakikat",
             "nûrı": "Işık, aydınlık",
             "zârı": "Ağlayış, inleme",
             "girü": "Geri, tekrar"
@@ -23123,7 +23208,7 @@
           "metin": "Senün ‘ışkun beni bende alupdur Ne şîrîn derd bu dermândan içerü",
           "anlamlar": {
             "ışkun": "Aşk, ilahi sevgi",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi"
+            "şîrîn": "Tatlı, hoş, sevimli"
           }
         },
         {
@@ -23199,6 +23284,7 @@
           "anlamlar": {
             "azrâîl": "Ölüm meleği, dört büyük melekten birisi",
             "assı": "Fayda, menfaat, kazanç",
+            "agaçdan": "Ağaç",
             "dost": "Sevgili, Allah, mürşid"
           }
         },
@@ -23339,6 +23425,7 @@
             "evinde": "Yiyecek, dane, tohum, içi",
             "yavuz": "Kötü, fena",
             "endîşe": "Düşünce, fikir",
+            "kazan": "Kazan, tencere",
             "âkıbet": "Sonuç, son, akıbet"
           }
         },
@@ -23459,7 +23546,7 @@
           "numara": 8,
           "metin": "‘Işka neçe yanarısam dahı şîrîn gelür bana Cânum fidî olsun beni bu ‘ışk odına atana",
           "anlamlar": {
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "cânum": "Canım, ruhum",
             "fidî": "Feda, kurban",
             "ışk": "Aşk, ilahi sevgi"
@@ -23540,7 +23627,7 @@
           "numara": 6,
           "metin": "Şerî‘at şîrîn olur işidene hoş gelür Ne kim dilerse kılur ol şerî‘at içinde",
           "anlamlar": {
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi"
+            "şîrîn": "Tatlı, hoş, sevimli"
           }
         },
         {
@@ -23920,6 +24007,7 @@
           "numara": 2,
           "metin": "Bu yidisinden birisi eksük olursa olmaya Birisi eksük gerekmez bu sarp yola varanlara",
           "anlamlar": {
+            "eksük": "Eksik, noksan",
             "sarp": "Katı, zor, aşılması güç, yüksek"
           }
         },
@@ -24129,7 +24217,8 @@
           "anlamlar": {
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
             "bellüdür": "Belli, aşikâr, açık",
-            "yârenler": "Arkadaş, dost"
+            "yârenler": "Arkadaş, dost",
+            "eksüklügi": "Eksik, noksan"
           }
         }
       ]
@@ -24153,6 +24242,7 @@
           "metin": "Eydür ki aslum agaç koyın kirişi bir kaç Gel ‘işretüm dinle geç ‘aklı koma beleşde",
           "anlamlar": {
             "eydür": "Der, söyler",
+            "agaç": "Ağaç",
             "kirişi": "Kalın direk"
           }
         },
@@ -24185,6 +24275,7 @@
           "numara": 6,
           "metin": "Agaç deri dirildi kirişile bir oldı ‘Işk denizine taldı bahâne yok bu işde",
           "anlamlar": {
+            "agaç": "Ağaç",
             "deri": "Ter",
             "kirişile": "Kalın direk",
             "işk": "Aşk, candan sevme, sevgi"
@@ -24459,6 +24550,7 @@
             "cânın": "Cism-i latif",
             "cân": "Can, ruh, hayat",
             "işkıla": "Aşk, candan sevme, sevgi",
+            "teferrücün": "Gezinti, seyir, ferahlama",
             "dîdâr": "Yüz, Allah'ın cemali, vuslat"
           }
         },
@@ -24589,7 +24681,9 @@
           "numara": 7,
           "metin": "Toksan bin kelimesi otuz bin ‘âm u hâsı Otuz bin hâslarına otuz bin sırr içinde",
           "anlamlar": {
-            "hâsı": "Has, özel, seçkin"
+            "hâsı": "Has, özel, seçkin",
+            "hâslarına": "Has, özel, seçkin",
+            "sırr": "Sır, gizli hakikat"
           }
         },
         {
@@ -25036,7 +25130,8 @@
           "metin": "Yine yini hazîneden yini hil‘at giydi cihân Yine virildi yini cân ot u agaç sesdi yine",
           "anlamlar": {
             "yini": "Yeni",
-            "cân": "Can, ruh, hayat"
+            "cân": "Can, ruh, hayat",
+            "agaç": "Ağaç"
           }
         },
         {
@@ -25064,7 +25159,8 @@
             "yir": "Yer, yeryüzü",
             "kat": "Yan, huzur",
             "bülbül": "Aşık, derviş",
-            "cân": "Can, ruh, hayat"
+            "cân": "Can, ruh, hayat",
+            "budaga": "Dala, budağa"
           }
         },
         {
@@ -25314,6 +25410,7 @@
           "numara": 3,
           "metin": "Agar pervâze kuşlar Tesbîh okur agaçlar Himmet alan kardaşlar Tur irte namâzına",
           "anlamlar": {
+            "agaçlar": "Ağaç",
             "himmet": "Manevi yardım, gayret, mürşidin yardımı"
           }
         },
@@ -25365,6 +25462,7 @@
           "metin": "Bir ‘imâret göster bana kim sonı vîrân olmaya Kazanı gör ol mâlı kim senden o girü kalmaya",
           "anlamlar": {
             "vîrân": "Yıkık, harap",
+            "kazanı": "Kazan, tencere",
             "girü": "Geri, tekrar"
           }
         },
@@ -25516,7 +25614,7 @@
           "metin": "Zihî şîrîn hûlu dilber ki bu dem turagı cânda Cân evini ala çün dost hemân özi sıgar anda",
           "anlamlar": {
             "zihî": "Ne hoş ne kadar güzel, ne iyi",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "dem": "An, zamân, vakit, soluk, nefes",
             "cânda": "Cism-i latif",
             "cân": "Can, ruh, hayat",
@@ -25599,8 +25697,9 @@
           "numara": 9,
           "metin": "Niçe şîrîn durur gel gör ki kocalar yigit olur Esrükligi ayılmadın ne şûr ider bu meydânda",
           "anlamlar": {
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "kocalar": "İhtiyâr",
+            "esrükligi": "Sarhoş, aşk sarhoşu",
             "meydânda": "Meydan, alan, ortaya çıkma yeri"
           }
         },
@@ -25965,6 +26064,7 @@
           "numara": 7,
           "metin": "İblîs ü şeytân kim ola anda fuzûllık kılmaga Yirlü yirine sen kodun kul geldi kullık kılmaga İy yârânlar siz bu sözi dinlen gönül kulagıla Cân dudagı hâlis gerek birlik şarâbın tatmaga",
           "anlamlar": {
+            "fuzûllık": "Gereksizlik, boşuna iş",
             "yirine": "Yer, yeryüzü",
             "kullık": "Kulluk, kölelik, ibadet",
             "yârânlar": "Dostlar, sevgililer",
@@ -26207,6 +26307,7 @@
           "numara": 4,
           "metin": "Bir bahçeye girmek gerek hoş teferrüc kılmak gerek Bir güli yıylamak gerek hergiz ol gül solmaz ola",
           "anlamlar": {
+            "teferrüc": "Gezinti, seyir, ferahlama",
             "güli": "Sevgili, güzellik",
             "hergiz": "Asla",
             "gül": "Sevgili, güzellik"
@@ -26318,6 +26419,7 @@
             "miskîn": "Yoksul, alçakgönüllü, benliksiz",
             "niçün": "Niçin, neden",
             "fehm": "Anlama, anlayış, kavrama",
+            "sırrı": "Sır, gizli hakikat",
             "tuyanda": "Duyan, hisseden"
           }
         }
@@ -26603,6 +26705,7 @@
           "numara": 8,
           "metin": "Yûnus ‘ışkunla kâ’imdür bu ‘âlem Anunçün devr ider devrân içinde",
           "anlamlar": {
+            "devr": "Dönüş, çağ, zaman",
             "devrân": "Dünya, felek, zamân, talih"
           }
         }
@@ -26706,6 +26809,7 @@
           "metin": "Evvel bahâr olıcak agaçlar tonanıcak Gör niçe medh iderler bülbüller gül üstine",
           "anlamlar": {
             "evvel": "Allah'ın sıfatı",
+            "agaçlar": "Ağaç",
             "bülbüller": "Aşık, derviş",
             "gül": "Sevgili, güzellik"
           }
@@ -26758,7 +26862,7 @@
           "numara": 4,
           "metin": "Kim görmişdür baykuşun gülistâna girdügin Leylekler zikr idemez bir latîf âvâz ile",
           "anlamlar": {
-            "latîf": "Cisimsiz, mütenâsip, güzel, mülâyim, yumuşak",
+            "latîf": "Güzel, ince, zarif, hoş",
             "âvâz": "Sadâ, yüksek ses, şöhret"
           }
         },
@@ -26865,7 +26969,9 @@
         {
           "numara": 15,
           "metin": "Kimi dükkândan bakar kimi hoşluklar sever Kimi bir pûla muhtâc kimisi cân-bâz ile",
-          "anlamlar": {}
+          "anlamlar": {
+            "muhtâc": "Muhtaç, ihtiyaç sahibi"
+          }
         },
         {
           "numara": 16,
@@ -27096,7 +27202,8 @@
           "numara": 1,
           "metin": "Ma‘şûkumı isteyü iş bu cihân içinde Delim teferrüc kıldum zemîn ü âsmân içinde",
           "anlamlar": {
-            "delim": "Çok, birçok, ziyade, fazla"
+            "delim": "Çok, birçok, ziyade, fazla",
+            "teferrüc": "Gezinti, seyir, ferahlama"
           }
         },
         {
@@ -27137,7 +27244,9 @@
         {
           "numara": 6,
           "metin": "Nâ-gehân gördüm bir yüz yokdur anunla hîç söz Sırrın dirisem olmaz sıgmaz lisân içinde",
-          "anlamlar": {}
+          "anlamlar": {
+            "sırrın": "Sır, gizli hakikat"
+          }
         },
         {
           "numara": 7,
@@ -27293,6 +27402,7 @@
           "anlamlar": {
             "nûr": "Işık, aydınlık",
             "nûrıdur": "Işık, aydınlık",
+            "sırrıdur": "Sırrıdır, gizli hakikatidir",
             "uçmak'dan": "Cennet",
             "deriçe": "Küçük kapı, pencere"
           }
@@ -27363,6 +27473,7 @@
           "metin": "Yaşıl ton geydi agaçlar Pervâz urup uçar kuşlar Nefesün cânlar bagışlar Söyle bülbülcügüm söyle",
           "anlamlar": {
             "ton": "Elbise, giysi",
+            "agaçlar": "Ağaç",
             "pervâz": "Kanat açmak",
             "cânlar": "Cism-i latif",
             "bülbülcügüm": "Bülbülcüğüm (sevgi hitabı)"
@@ -27510,6 +27621,7 @@
           "metin": "Dostdan haber kim getürdi sorun seher yillerine Hak Çalab'um bititmesin ayrılıgın kullarına",
           "anlamlar": {
             "dostdan": "Sevgili, Allah, mürşid",
+            "yillerine": "Yel, rüzgar",
             "hak": "Allah, gerçek, doğru"
           }
         },
@@ -27694,6 +27806,7 @@
           "numara": 5,
           "metin": "Dervîşligi sanma hemân sûret düzmegile olur Dilde ise senün işün ‘ışk n'eylesün senünile",
           "anlamlar": {
+            "dervîşligi": "Yoksul, mütevazî kişi, tarikate girmiş kimse",
             "hemân": "Aynı şekilde, öylece, derhâl",
             "sûret": "Şekil, dış görünüş, beden",
             "ışk": "Aşk, ilahi sevgi"
@@ -28042,6 +28155,7 @@
           "metin": "Dördüncüsi hakîkat ere eksük bakmaya Bayram ola gündüzi Kadîr ola gicesi",
           "anlamlar": {
             "hakîkat": "Gerçek, öz",
+            "eksük": "Eksik, noksan",
             "kadîr": "Kudret sahibi, kudretli, çok güçlü Allah'ın bir sıfatı"
           }
         },
@@ -28680,6 +28794,7 @@
           "metin": "Ma‘nî nedür İblîsden câhillik kamu bizden Ne duydun iş bu sözden sırrı esrâr eyledi",
           "anlamlar": {
             "kamu": "Bütün, hep, herkes",
+            "sırrı": "Sır, gizli hakikat",
             "esrâr": "Sırlar, gizli mânâlar, hikmetler"
           }
         },
@@ -28912,7 +29027,7 @@
           "numara": 5,
           "metin": "Böyle şîrîn kılıncıla her kancaru bakarısam Yitmiş iki milletine geçüriserdi sözini",
           "anlamlar": {
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "kancaru": "Nereye, ne tarafa",
             "milletine": "Din, mezhep, aynı dinden olan topluluk"
           }
@@ -29508,6 +29623,7 @@
           "metin": "Çün gölden girü döndi budak üzere kondı Silkindi her bir yönden bir tamla su döküldi",
           "anlamlar": {
             "girü": "Geri, tekrar",
+            "budak": "Dal, ağaç dalı",
             "tamla": "Damla"
           }
         },
@@ -29621,7 +29737,7 @@
           "metin": "Kanı ol şîrîn sözlüler kanı ol güneş yüzlüler Şöyle gâib olmış bular hîç belürmez nişânları",
           "anlamlar": {
             "kanı": "Hani, nerede",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "nişânları": "Alâmet, iz, belirti, eser"
           }
         },
@@ -29900,7 +30016,7 @@
             "günde": "Gündüz, güneş",
             "kez": "Defa, kere",
             "zîrâ": "Çünkü, zira",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi"
+            "şîrîn": "Tatlı, hoş, sevimli"
           }
         },
         {
@@ -30251,6 +30367,7 @@
           "metin": "Bu yola yarak gerek eksük gerek çok gerek Key demür yürek gerek bu sarp yola giresi",
           "anlamlar": {
             "yarak": "Hazırlık, silah, azık",
+            "eksük": "Eksik, noksan",
             "key": "İyi, iyice, hakkıyla, çok iyi şekilde, çok, pek, adamakıllı",
             "sarp": "Katı, zor, aşılması güç, yüksek"
           }
@@ -30546,7 +30663,8 @@
             "sûfî": "Ehl-i tasavvuf",
             "sâlûslık": "Hilekâr, düzenci",
             "hak'dan": "Allah, gerçek, doğru",
-            "artuk": "Başka, başkası, gayrı, fazla, artık"
+            "artuk": "Başka, başkası, gayrı, fazla, artık",
+            "dilek": "İstek, arzu, dua"
           }
         },
         {
@@ -30704,6 +30822,7 @@
           "metin": "Düriş kazan yi-yidür bir gönül ele getür Yüz Ka‘be'den yigrekdür bir gönül ziyâreti",
           "anlamlar": {
             "düriş": "Çalışmak, isbat etmek, gayret etmek",
+            "kazan": "Kazan, tencere",
             "gönül": "Kalp, yürek, iç dünya",
             "yigrekdür": "Daha iyi, müreccâh, üstün"
           }
@@ -31469,7 +31588,8 @@
           "anlamlar": {
             "erenler": "Evliyâ, ermiş kişi",
             "taglar": "Dağ",
-            "işk": "Aşk, candan sevme, sevgi"
+            "işk": "Aşk, candan sevme, sevgi",
+            "kazanına": "Kazan, tencere"
           }
         },
         {
@@ -32074,7 +32194,7 @@
             "ferhâd": "Aşk kahramanı, fedakar aşık",
             "ışk": "Aşk, ilahi sevgi",
             "başın": "Yasa",
-            "şîrîn": "Tatlı, Ferhat'ın sevgilisinin ismi",
+            "şîrîn": "Tatlı, hoş, sevimli",
             "cânını": "Cism-i latif"
           }
         },
@@ -32562,7 +32682,9 @@
         {
           "numara": 5,
           "metin": "Gidüp gine gelmeyiser Gelüp beni bulmayısar Bu begligi sürmeyiser Âh n'ideyüm ‘ömrüm seni",
-          "anlamlar": {}
+          "anlamlar": {
+            "begligi": "Bey, zengin kişi"
+          }
         },
         {
           "numara": 6,
@@ -32786,6 +32908,7 @@
           "anlamlar": {
             "dost": "Sevgili, Allah, mürşid",
             "nûrı": "Işık, aydınlık",
+            "sırrı": "Sır, gizli hakikat",
             "dem": "An, zamân, vakit, soluk, nefes",
             "ansuz": "Onsuz",
             "cânum": "Canım, ruhum"
@@ -32994,7 +33117,8 @@
           "numara": 2,
           "metin": "‘Aceb katre ki deryâ anda mahfî Bu mahfî sırrı sen senden sor indi",
           "anlamlar": {
-            "katre": "Damla, su damlası, bir damla"
+            "katre": "Damla, su damlası, bir damla",
+            "sırrı": "Sır, gizli hakikat"
           }
         },
         {
@@ -33594,7 +33718,9 @@
         {
           "numara": 10,
           "metin": "Rızkun alup seni muhtâc mı kodum Yâ öyünün yiyüben aç mı kodum",
-          "anlamlar": {}
+          "anlamlar": {
+            "muhtâc": "Muhtaç, ihtiyaç sahibi"
+          }
         },
         {
           "numara": 11,
