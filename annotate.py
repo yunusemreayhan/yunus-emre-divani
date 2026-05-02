@@ -268,7 +268,100 @@ EXTRA_MEANINGS = {
     'talbınmak': 'Çırpınmak, sıçramak',
     'döymez': 'Dayanamaz, tahammül edemez',
     'döymek': 'Dayanmak, tahammül etmek',
-    'güm-râh': 'Yolunu kaybetmiş, sapkın',
+    # --- Words from classification analysis (freq>=5, genuinely archaic) ---
+    'ıyân': 'Aşikar, açık, belli',
+    'âhir': 'Son, nihayet, sonunda',
+    'kayusı': 'Kaygısı, endişesi',
+    'ârif': 'Bilen, irfan sahibi, Allah\'ı tanıyan',
+    'ârifler': 'İrfan sahipleri, bilenler',
+    'kogıl': 'Bırak, koy (emir kipi)',
+    'zîrâ': 'Çünkü, zira',
+    'cevlân': 'Dolaşma, dönme, seyir',
+    'ıssı': 'Sahibi, iye',
+    'yavı': 'Kayıp, yitik',
+    'terkin': 'Terkini, vazgeçmesini',
+    'tama': 'Tamah, açgözlülük, hırs',
+    'tama\'': 'Tamah, açgözlülük, hırs',
+    'seyrân': 'Gezinti, seyir, temaşa',
+    'acâyib': 'Acayip, şaşılacak, tuhaf',
+    'kullık': 'Kulluk, kölelik, ibadet',
+    'kulluk': 'Kulluk, kölelik, ibadet',
+    'nendür': 'Nedir, ne şeydir',
+    'kasd': 'Kasıt, niyet, maksat',
+    'su\'âl': 'Sual, soru',
+    'harâb': 'Harap, yıkık, perişan',
+    'meydân': 'Meydan, alan, ortaya çıkma yeri',
+    'yarak': 'Hazırlık, silah, azık',
+    'bâzâr': 'Pazar, çarşı, alışveriş',
+    'beyân': 'Açıklama, bildirme, ifade',
+    'şûk': 'Neşe, sevinç, coşku',
+    'arzû': 'Arzu, istek, özlem',
+    'dutgıl': 'Tut (emir), yapış, sarıl',
+    'hâcet': 'İhtiyaç, gereklilik, dilek',
+    'fidî': 'Feda, kurban',
+    'belâ': 'Bela, sıkıntı, musibet',
+    'esîr': 'Esir, tutsak, bağımlı',
+    'cefâ': 'Eziyet, sıkıntı, zulüm',
+    'kanâ': 'Kana (kan+a), kana boyandı',
+    'tuyan': 'Duyan, hisseden',
+    'hâs': 'Has, özel, seçkin',
+    'izzet': 'Şeref, onur, yücelik',
+    'âkıbet': 'Sonuç, son, akıbet',
+    'inen': 'Çok, pek, gayet',
+    'mahabbet': 'Muhabbet, sevgi, sohbet',
+    'vücûd': 'Vücut, beden, varlık',
+    'küfr': 'Küfür, inkar, nankörlük',
+    'esenledüm': 'Selamladım, veda ettim',
+    'âkıl': 'Akıllı, bilge',
+    'dâr': 'Ev, yurt, mekan; darağacı',
+    'safâ': 'Gönül temizliği, huzur, neşe',
+    'sâfî': 'Saf, temiz, katıksız',
+    'tâlib': 'Talip, isteyen, arayan',
+    'vâsıl': 'Ulaşan, kavuşan, eren',
+    'zâhid': 'Zahit, dünyadan el çeken, sofu',
+    'bülbülcügüm': 'Bülbülcüğüm (sevgi hitabı)',
+    'şarâb': 'Şarap, ilahi aşk şarabı',
+    'şarâbın': 'Şarabını, ilahi aşk şarabını',
+    'kâfir': 'İnkarcı, nankör',
+    'mü\'min': 'İnanan, iman sahibi',
+    'münâfık': 'İki yüzlü, riyakar',
+    'riyâ': 'Gösteriş, ikiyüzlülük',
+    'kanâ\'at': 'Kanaat, yetinme, az ile razı olma',
+    'halîl': 'Dost, İbrahim Peygamber\'in lakabı',
+    'habîb': 'Sevgili, Hz. Muhammed\'in lakabı',
+    'vahdet': 'Birlik, teklik (tasavvuf)',
+    'kesret': 'Çokluk, çeşitlilik',
+    'fenâ': 'Yokluk, geçicilik; benliğin erimesi',
+    'bekâ': 'Sonsuzluk, kalıcılık',
+    'sekrân': 'Sarhoş, mest',
+    'hayrân': 'Hayran, şaşkın, kendinden geçmiş',
+    'sultân': 'Sultan, hükümdar, manevi otorite',
+    # --- Missing words from poem 5 and broader analysis ---
+    'kîl': 'Dedikodu, laf (kîl ü kâl: dedikodu)',
+    'kîl ü kâl': 'Dedikodu, boş laf, söz',
+    'hâzır': 'Hazır, mevcut, her yerde var olan',
+    'teslîm': 'Teslim, boyun eğme, bırakma',
+    'hıdmet': 'Hizmet, kulluk',
+    'pervâne': 'Işığa koşan kelebek, aşık',
+    'sineg': 'Sinek',
+    'sinegile': 'Sinekle, sinek ile',
+    'âsil': 'Asil, soylu',
+    'zâde': 'Oğul, evlat, soyundan gelen',
+    'hisâb': 'Hesap, sayı, muhakeme',
+    'halâyık': 'Yaratıklar, halk, insanlar',
+    'tevbe': 'Tövbe, pişmanlık, dönüş',
+    'lâhî': 'İlahi (meter fragment)',
+    'âhret': 'Ahiret, öbür dünya',
+    'dirligi': 'Dirliği, yaşayışı, geçimi',
+    'kapuda': 'Kapıda, huzurda',
+    'olurısa': 'Olursa, eğer olursa',
+    'kâtil': 'Öldürücü, katil, helak edici',
+    'helâl': 'Helal, dinen uygun, hak edilmiş',
+    'sal': 'Bırak, sal, koyuver (emir)',
+    'âsil': 'Asil, soylu, köklü',
+    'zâde': 'Oğul, evlat, soyundan gelen',
+    'ma\'nîsi': 'Manası, anlamı',
+    'ma\'nîde': 'Manada, anlamda',
     'bâkî': 'Kalıcı, sonsuz, ebedi',
     'mismil': 'Temiz, pak, arı',
     'pâs': 'Kir, pas, gönül karanlığı',
@@ -300,6 +393,50 @@ EXTRA_MEANINGS = {
     'hûrî': 'Cennet güzeli',
 }
 
+# Compound word meanings (hyphenated terms)
+COMPOUND_MEANINGS = {
+    'bî-çâre': 'Çaresiz, zavallı',
+    'dem-be-dem': 'An be an, sürekli',
+    'ser-gerdân': 'Başı dönen, şaşkın, hayran',
+    'ser-mâye': 'Sermaye, ana mal, esas',
+    'ser-mâyesi': 'Sermayesi, asıl varlığı',
+    'ser-te-ser': 'Baştan başa, tamamen',
+    'ber-dâr': 'Asılmış, darağacında',
+    'ene\'l-hak': 'Ben Hakk\'ım (Hallac-ı Mansur\'un sözü)',
+    'el-hamdüli\'llâh': 'Allah\'a hamd olsun',
+    'güm-râh': 'Yolunu kaybetmiş, sapkın',
+    'bî-nihâyet': 'Sonsuz, nihayetsiz',
+    'bî-karâr': 'Kararsız, huzursuz',
+    'bî-gümân': 'Şüphesiz, kuşkusuz',
+    'bî-nişân': 'İşaretsiz, belirsiz, sıfatsız',
+    'assı-ziyân': 'Kâr-zarar, fayda ve ziyan',
+    'evvel-âhir': 'Baştan sona, ilk ve son',
+    'ezel-ebed': 'Başlangıçsız ve sonsuz, ezelden ebede',
+    'lâ-mekân': 'Mekansız, yersiz (Allah sıfatı)',
+    'dün-gün': 'Gece gündüz, sürekli',
+    'yir-gök': 'Yer ve gök, tüm kainat',
+    'sen-ben': 'Benlik, ikilik',
+    'tahte\'s-serâ': 'Yerin altı, toprak altı',
+    'sâz-kâr': 'Uygun, elverişli, yarar',
+    'dünyâ-âhiret': 'Dünya ve ahiret, bu dünya ve öte',
+    'âsil-zâdeler': 'Asil soydan gelenler, soylular',
+    'âsil-zâde': 'Asil soydan gelen, soylu',
+    'âb-ı': 'Su (izafet: ...suyu)',
+    'zehr-i': 'Zehir (izafet: ...zehiri)',
+    'deryâ-yı': 'Deniz (izafet: ...denizi)',
+}
+
+def find_compound_meaning(word, sozluk):
+    """Find meaning of a hyphenated compound word."""
+    w = word.lower().strip("'\".,;:!?()-–")
+    if w in COMPOUND_MEANINGS:
+        return COMPOUND_MEANINGS[w]
+    # Try without suffix (e.g. bî-çâresüz → bî-çâre)
+    for s in ['si', 'sı', 'yi', 'yı', 'nün', 'nun', 'den', 'dan', 'ye', 'ya']:
+        if w.endswith(s) and w[:-len(s)] in COMPOUND_MEANINGS:
+            return COMPOUND_MEANINGS[w[:-len(s)]]
+    return None
+
 def find_meaning(word, sozluk):
     """Find meaning of a word in the glossary. Only exact or very close matches."""
     w = normalize(word)
@@ -311,20 +448,84 @@ def find_meaning(word, sozluk):
               'her', 'iki', 'üç', 'dört', 'beş', 'altı', 'yedi', 'sekiz', 'dokuz', 'on',
               'bin', 'yüz', 'gel', 'git', 'ver', 'gör', 'bak', 'dur', 'tur', 'kıl',
               'olan', 'ola', 'olur', 'oldu', 'ider', 'eder', 'dir', 'dür', 'ana', 'ata',
-              'içün', 'için', 'gibi', 'bigi', 'dahi', 'dahı', 'bile', 'yine', 'gine',
+              'içün', 'için', 'gibi', 'dahi', 'dahı', 'bile', 'yine', 'gine',
               'ise', 'çün', 'çünki', 'eger', 'ger', 'niçe', 'nice', 'nite',
               'kanda', 'anda', 'bunda', 'sana', 'bana', 'anun', 'bunun', 'senün', 'benüm',
               'olsa', 'ola', 'gele', 'gide', 'kala', 'tura', 'diye', 'eyde', 'söyle',
               'degül', 'degil', 'gerek', 'yok', 'var', 'ola', 'olan', 'iken', 'imiş',
               'kişi', 'kişinün', 'cümle', 'hep', 'şol', 'oldı',
               'başum', 'başı', 'yüzin', 'yüzi', 'gözüm', 'gözi', 'dilüm', 'dili',
-              'bilüm', 'bilür', 'bilmez', 'bildi', 'geldi', 'gitdi', 'virdi', 'aldı'}
+              'bilüm', 'bilür', 'bilmez', 'bildi', 'geldi', 'gitdi', 'virdi', 'aldı',
+              # verb forms of eyle- (to do) — prevent false match with adverb 'eyle'
+              'eyleye', 'eyleyem', 'eyleyen', 'eyleyüp', 'eylegil', 'eyledi',
+              'eylemez', 'eylemek', 'eyledüm', 'eyledük', 'eyleriz', 'eylerüz',
+              'eylese', 'eylesün', 'eylesin', 'eylemege', 'eylemedi',
+              # other common verb forms that shouldn't get wrong tooltips
+              'gönülde', 'gönüle', 'gönüller', 'gönüllerde',
+              }
     if w in common:
         return None
     
-    # Check extra meanings first
+    # Pattern-based skip: common verb roots + recognizable suffix = no tooltip
+    common_roots = {'ol','gel','git','ver','vir','al','bul','kal','bil','gör',
+        'dur','tur','kıl','et','it','eyle','de','di','ye','iç','yaz','oku',
+        'çık','gir','geç','düş','at','tut','sat','kes','aç','yap','bak',
+        'sor','sev','öl','doğ','ağla','gül','sus','dinle','bekle',
+        'iste','san','say','dön','bırak','koy','koş','yürü','otur','kalk',
+        'yat','kaç','söyle','ara','bat','yan','duy','sun','var',
+        'çek','sür','yak','dol','tol','vur','kur','boz',
+        'yara','yarat','kod','sakın',
+        'ide','eyde','dile','anla','düşün',
+        'gid','dön','geç','bin','koş',
+        'sev','özen','utan','kork','sevin','acı',
+        'götür','getir','göster','tanı','başla',
+        'bekle','dayan','eriş','iriş','yet','ulaş',
+        'tut','geçir','yürü','gez','uç',
+        'sar','bağla','çöz','ört','giy','taşı','yıka','sil',
+        'öldür','dirilt','yaşa','büyü',
+        'gönder','yolla','düşür','kaldır',
+        'güldür','ağlat','korkut',
+        'hatırla','sabret',
+        'iste','dile','yalvar',
+        'anma','gör','bil','sor','söyle','diy',
+    }
+    # Only match roots of length >= 3 to avoid false positives with 'an','al','at' etc.
+    verb_suffixes = {'mak','mek','maga','mege','maya','meye',
+        'dı','di','du','dü','tı','ti','tu','tü',
+        'düm','dum','dim','dım','tüm','tum',
+        'dün','dun','din','dın',
+        'mış','miş','muş','müş',
+        'ür','ur','ir','ır','er','ar',
+        'maz','mez','mez','maz',
+        'ıp','ip','up','üp','üben','ıban',
+        'sün','sun','sin','sın',
+        'alum','elüm','alım','elim',
+        'ayın','eyin','ayım','eyim',
+        'am','em','um','üm',
+        'eler','alar','iler','ılar',
+        'en','an',
+        'esi','ası','esin','asın',
+        'ınca','ince','unca','ünce',
+        'ıcak','icek','ucak','ücek',
+        'dukça','dükçe','dıkça','dikçe',
+        'iken','üken',
+        'arak','erek',
+        'e','a',  # optative: gele, vara, kıla
+    }
+    if len(w) > 4:
+        for slen in range(min(len(w)-3, 6), 0, -1):
+            root = w[:-slen]
+            suffix = w[len(root):]
+            if len(root) >= 3 and root in common_roots and suffix in verb_suffixes:
+                return None
+    
+    # Check extra meanings first (try both with and without apostrophe)
     if w in EXTRA_MEANINGS:
         return EXTRA_MEANINGS[w]
+    # Try with apostrophe preserved (for words like ma'şûka)
+    w_with_apos = word.lower().strip("\".,;:!?()-–")
+    if w_with_apos in EXTRA_MEANINGS:
+        return EXTRA_MEANINGS[w_with_apos]
     
     # Direct match in glossary
     if w in sozluk:
@@ -349,10 +550,26 @@ def find_meaning(word, sozluk):
                 return shorten(sozluk[w + suffix])
     
     # Try removing common suffixes to find root
-    suffixes = ['dür', 'dur', 'ler', 'lar', 'leri', 'ları', 'ünden', 'unden',
-                'ından', 'inden', 'dan', 'den', 'ıdur', 'idür', 'ıdı', 'idi',
-                'sın', 'sin', 'ına', 'ine', 'ını', 'ini', 'ıla', 'ile',
-                'suz', 'süz', 'lık', 'lik', 'lıg', 'lig']
+    suffixes = ['lerün', 'larun', 'lerinden', 'larından',
+                'lere', 'lara',  # dative plural
+                'dür', 'dur', 'dir', 'dır', 'ler', 'lar', 'leri', 'ları',
+                'ünden', 'unden', 'inden', 'ından',
+                'nün', 'nun', 'nın', 'nin',  # genitive after vowel
+                'dan', 'den', 'tan', 'ten',
+                'ıdur', 'idür', 'udur', 'üdür',
+                'ıdı', 'idi', 'udı', 'üdi',
+                'sın', 'sin', 'sun', 'sün',
+                'ına', 'ine', 'una', 'üne',
+                'ını', 'ini', 'unu', 'ünü',
+                'ıla', 'ile', 'ula', 'üle',
+                'suz', 'süz', 'sız', 'siz',
+                'lık', 'lik', 'luk', 'lük',
+                'lıg', 'lig', 'lug', 'lüg',
+                'ın', 'in', 'un', 'ün',
+                'ım', 'im', 'um', 'üm',
+                'ya', 'ye', 'na', 'ne',
+                'da', 'de', 'ta', 'te',
+                'ı', 'i', 'u', 'ü']
     for s in sorted(suffixes, key=len, reverse=True):
         if w.endswith(s) and len(w) > len(s) + 2:
             root = w[:-len(s)]
@@ -360,6 +577,13 @@ def find_meaning(word, sozluk):
                 return shorten(sozluk[root])
             if root in EXTRA_MEANINGS:
                 return EXTRA_MEANINGS[root]
+            # Also try root without diacritics
+            root_plain = root.replace('â', 'a').replace('î', 'i').replace('û', 'u')
+            if root_plain != root:
+                if root_plain in sozluk:
+                    return shorten(sozluk[root_plain])
+                if root_plain in EXTRA_MEANINGS:
+                    return EXTRA_MEANINGS[root_plain]
     
     return None
 
@@ -369,16 +593,23 @@ def annotate_poem(poem, sozluk):
     
     for beyit in poem['beyitler']:
         text = beyit['metin']
-        # Split into words
-        words = re.findall(r"[\w'âîûçşğöüÂÎÛÇŞĞÖÜ]+", text)
+        # Split into words (include hyphens to catch compounds)
+        words = re.findall(r"[\w'âîûçşğöüÂÎÛÇŞĞÖÜ]+(?:-[\w'âîûçşğöüÂÎÛÇŞĞÖÜ]+)*", text)
         
         word_meanings = {}
         for word in words:
             if len(word) <= 2:  # Skip very short words
                 continue
-            meaning = find_meaning(word, sozluk)
-            if meaning:
-                word_meanings[word.lower()] = meaning
+            # For hyphenated compounds, use the full form as key
+            if '-' in word:
+                compound_key = word.lower()
+                meaning = find_compound_meaning(word, sozluk)
+                if meaning:
+                    word_meanings[compound_key] = meaning
+            else:
+                meaning = find_meaning(word, sozluk)
+                if meaning:
+                    word_meanings[word.lower()] = meaning
         
         annotated_beyitler.append({
             'numara': beyit['numara'],

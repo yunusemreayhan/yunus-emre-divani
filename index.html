@@ -233,10 +233,11 @@ function buildSidebar(){
 
 function updateSidebarList(){
   const q=document.getElementById('sidebar-search').value.toLowerCase();
+  const qf=fuzzyNorm(q);
   const ul=document.getElementById('poem-list-nav');
   const poems=data.şiirler.map((p,i)=>({...p,_idx:i})).filter(p=>{
     if(currentSection!=='all'&&p.bölüm!==currentSection)return false;
-    if(q&&!String(p.numara).includes(q)&&!p.beyitler.some(b=>b.metin.toLowerCase().includes(q)))return false;
+    if(q&&!String(p.numara).includes(q)&&!p.beyitler.some(b=>{const t=b.metin.toLowerCase();return t.includes(q)||fuzzyNorm(t).includes(qf);}))return false;
     return true;
   });
   ul.innerHTML=poems.map(p=>`<li data-idx="${p._idx}" class="${currentPoemIdx===p._idx?'active':''}">
@@ -253,12 +254,32 @@ function showSearchView(){
   renderSearchResults();
 }
 
+// Fuzzy normalize: collapse diacritics and similar chars for search
+function fuzzyNorm(s){
+  return s.toLowerCase()
+    .replace(/[âà]/g,'a').replace(/[îì]/g,'i').replace(/[ûù]/g,'u')
+    .replace(/ö/g,'o').replace(/ü/g,'u').replace(/ı/g,'i')
+    .replace(/ş/g,'s').replace(/ç/g,'c').replace(/ğ/g,'g')
+    .replace(/[''ʿʾ`]/g,'').replace(/-/g,'');
+}
+
 function renderSearchResults(){
-  const q=document.getElementById('main-search').value.toLowerCase().trim();
+  const raw=document.getElementById('main-search').value.toLowerCase().trim();
+  const q=raw;
+  const qf=fuzzyNorm(raw);
   const el=document.getElementById('search-results');
   let poems=data.şiirler.map((p,i)=>({...p,_idx:i}));
   if(q){
-    poems=poems.filter(p=>String(p.numara)===q||p.beyitler.some(b=>b.metin.toLowerCase().includes(q)));
+    poems=poems.filter(p=>{
+      if(String(p.numara)===q)return true;
+      return p.beyitler.some(b=>{
+        const text=b.metin.toLowerCase();
+        // Exact match first, then fuzzy
+        if(text.includes(q))return true;
+        if(fuzzyNorm(text).includes(qf))return true;
+        return false;
+      });
+    });
   }
   if(!poems.length){el.innerHTML='<div class="empty">Sonuç bulunamadı.</div>';return}
   el.innerHTML=poems.map(p=>`<div class="item" data-idx="${p._idx}">
@@ -339,8 +360,10 @@ function renderWords(text,anlamlar){
   const parts=text.split(/(\s+)/);
   return parts.map(part=>{
     if(/^\s+$/.test(part))return part;
-    const clean=part.toLowerCase().replace(/[^a-zâîûçşğöüı']/g,'');
-    const meaning=anlamlar[clean];
+    // For hyphenated compounds, try full form first (with hyphen preserved)
+    const cleanFull=part.toLowerCase().replace(/[^a-zâîûçşğöüı'\-]/g,'');
+    const cleanNoHyphen=part.toLowerCase().replace(/[^a-zâîûçşğöüı']/g,'');
+    const meaning=anlamlar[cleanFull]||anlamlar[cleanNoHyphen];
     if(meaning){
       const display=isOttoman?toOttoman(part):part;
       const tip=isOttoman?toOttoman(meaning):meaning;
