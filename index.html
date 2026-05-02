@@ -466,11 +466,7 @@ function updateNavButtons(){
 
 function navPoem(dir){
   const ni=currentPoemIdx+dir;
-  if(ni>=0&&ni<data.şiirler.length){currentPoemIdx=ni;const p=data.şiirler[ni];currentPoem=p;
-  document.getElementById('poem-title').textContent=`${p.numara}. Şiir`;
-  let meta=`Bölüm: ${p.bölüm}`;if(p.vezin)meta+=` · Vezin: ${p.vezin}`;meta+=` · ${p.beyitler.length} beyit`;
-  document.getElementById('poem-meta').textContent=meta;
-  renderBeyitler();updateNavButtons();updateShareLinks();loadDisqus();updateSidebarList();window.scrollTo(0,0);}
+  if(ni>=0&&ni<data.şiirler.length) showPoemByIdx(ni);
 }
 
 // Event listeners
