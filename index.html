@@ -88,6 +88,27 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
   .beyit .text.ottoman{font-size:1.15rem}
   .poem-header h1{font-size:1.2rem}
 }
+/* TAGS */
+.tag-filters{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:1rem}
+.tag-filters button{padding:.25rem .6rem;border:1px solid var(--border);background:var(--card);border-radius:12px;cursor:pointer;font-size:.72rem;color:var(--muted);transition:all .15s}
+.tag-filters button:hover{border-color:var(--accent2);color:var(--accent2)}
+.tag-filters button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.tag-filters button .count{font-size:.65rem;opacity:.7;margin-left:.2rem}
+.tags{display:flex;flex-wrap:wrap;gap:.3rem;margin-top:.5rem}
+.tags .tag{padding:.15rem .5rem;border-radius:10px;font-size:.7rem;font-weight:500}
+.tags .tag.tema{background:#f0e6d3;color:#7a5230}
+.tags .tag.kavram{background:#e3e8f0;color:#3a5070}
+.tags .tag.duygu{background:#f0e0e8;color:#7a3050}
+.tags .tag.ahlak{background:#e0f0e3;color:#307a3a}
+/* AKAID NOTICE */
+.akaid-notice{background:#fef9e7;border:1px solid #f5e6b8;border-radius:8px;padding:.8rem 1rem;margin-bottom:1.2rem;font-size:.82rem;color:#8a7040;line-height:1.6}
+.akaid-notice::before{content:'⚠️ ';font-size:.9rem}
+/* OZET */
+.poem-header .ozet{font-style:italic;color:var(--muted);font-size:.9rem;margin-top:.4rem;line-height:1.5}
+/* POEM LIST TAGS */
+.poem-list .item .item-tags{display:flex;flex-wrap:wrap;gap:.2rem;margin-top:.3rem}
+.poem-list .item .item-tags .tag{padding:.1rem .4rem;border-radius:8px;font-size:.6rem}
+
 </style>
 </head>
 <body>
@@ -111,8 +132,9 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 <main>
 <div id="search-view">
 <div class="search-wrap">
-<input type="text" id="main-search" placeholder="Kelime veya mısra ara...">
+<input type="text" id="main-search" placeholder="Kelime, mısra veya tema ara...">
 </div>
+<div class="tag-filters" id="tag-filters"></div>
 <div class="poem-list" id="search-results"></div>
 </div>
 <div id="poem-view" style="display:none">
@@ -123,8 +145,11 @@ main{max-width:850px;margin:0 auto;padding:1.5rem 1rem 4rem}
 <div class="poem-header">
 <h1 id="poem-title"></h1>
 <div class="meta" id="poem-meta"></div>
+<div class="ozet" id="poem-ozet"></div>
+<div class="tags" id="poem-tags"></div>
 <button onclick="speakAll()" style="margin-top:.5rem;padding:.3rem .8rem;border:1px solid var(--border);border-radius:6px;background:var(--card);cursor:pointer;font-size:.8rem">🔊 Tümünü Oku</button>
 </div>
+<div class="akaid-notice" id="akaid-notice" style="display:none"></div>
 <div id="beyitler"></div>
 <div class="poem-nav-arrows" style="margin-top:1.5rem">
 <button id="prev-btn2">← Önceki</button>
@@ -207,13 +232,38 @@ function toOttoman(text){
   }).join('');
 }
 
-let data=null,currentPoem=null,currentPoemIdx=-1,currentSection='all',isOttoman=false,linesMode=2;
+let data=null,tags=null,currentPoem=null,currentPoemIdx=-1,currentSection='all',isOttoman=false,linesMode=2,activeTag=null;
 
 async function init(){
-  const r=await fetch('data/divan_annotated.json?t='+Date.now());
-  data=await r.json();
+  const [r1,r2]=await Promise.all([
+    fetch('data/divan_annotated.json?t='+Date.now()),
+    fetch('data/poem_tags.json?t='+Date.now())
+  ]);
+  data=await r1.json();
+  const tagList=await r2.json();
+  // Index tags by numara
+  tags={};
+  tagList.forEach(t=>{tags[t.numara]=t});
+  buildTagFilters();
   buildSidebar();
   showSearchView();
+}
+
+function buildTagFilters(){
+  const counts={};
+  Object.values(tags).forEach(t=>{
+    (t.temalar||[]).forEach(th=>{counts[th]=(counts[th]||0)+1});
+    (t.kavramlar||[]).forEach(k=>{counts[k]=(counts[k]||0)+1});
+  });
+  // Show top themes and kavramlar as filter buttons
+  const sorted=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,16);
+  const el=document.getElementById('tag-filters');
+  el.innerHTML=sorted.map(([tag,c])=>`<button data-tag="${tag}">${tag}<span class="count">${c}</span></button>`).join('');
+  el.querySelectorAll('button').forEach(btn=>btn.onclick=()=>{
+    if(activeTag===btn.dataset.tag){activeTag=null;btn.classList.remove('active');}
+    else{el.querySelectorAll('button').forEach(b=>b.classList.remove('active'));activeTag=btn.dataset.tag;btn.classList.add('active');}
+    renderSearchResults();
+  });
 }
 
 function buildSidebar(){
@@ -237,13 +287,22 @@ function updateSidebarList(){
   const ul=document.getElementById('poem-list-nav');
   const poems=data.şiirler.map((p,i)=>({...p,_idx:i})).filter(p=>{
     if(currentSection!=='all'&&p.bölüm!==currentSection)return false;
-    if(q&&!String(p.numara).includes(q)&&!p.beyitler.some(b=>{const t=b.metin.toLowerCase();return t.includes(q)||fuzzyNorm(t).includes(qf);}))return false;
+    if(q&&!String(p.numara).includes(q)&&!p.beyitler.some(b=>{const t=b.metin.toLowerCase();return t.includes(q)||fuzzyNorm(t).includes(qf);})){
+      // Also search in ozet/tags
+      const tg=tags[p.numara];
+      if(tg&&tg.ozet&&fuzzyNorm(tg.ozet).includes(qf))return true;
+      return false;
+    }
     return true;
   });
-  ul.innerHTML=poems.map(p=>`<li data-idx="${p._idx}" class="${currentPoemIdx===p._idx?'active':''}">
+  ul.innerHTML=poems.map(p=>{
+    const tg=tags[p.numara];
+    const preview=tg?.ozet||p.beyitler[0]?.metin.slice(0,50)||'';
+    return`<li data-idx="${p._idx}" class="${currentPoemIdx===p._idx?'active':''}">
     <strong>${p.numara}.</strong> ${p.bölüm}
-    <div class="preview">${p.beyitler[0]?.metin.slice(0,50)||''}...</div>
-  </li>`).join('');
+    <div class="preview">${preview}</div>
+  </li>`;
+  }).join('');
   ul.querySelectorAll('li').forEach(li=>li.onclick=()=>{showPoemByIdx(+li.dataset.idx);closeSidebar()});
 }
 
@@ -269,23 +328,39 @@ function renderSearchResults(){
   const qf=fuzzyNorm(raw);
   const el=document.getElementById('search-results');
   let poems=data.şiirler.map((p,i)=>({...p,_idx:i}));
+  if(activeTag){
+    poems=poems.filter(p=>{
+      const t=tags[p.numara];
+      if(!t)return false;
+      return (t.temalar||[]).includes(activeTag)||(t.kavramlar||[]).includes(activeTag)||(t.duygular||[]).includes(activeTag)||(t.ahlak||[]).includes(activeTag);
+    });
+  }
   if(q){
     poems=poems.filter(p=>{
       if(String(p.numara)===q)return true;
-      return p.beyitler.some(b=>{
-        const text=b.metin.toLowerCase();
-        // Exact match first, then fuzzy
-        if(text.includes(q))return true;
-        if(fuzzyNorm(text).includes(qf))return true;
-        return false;
-      });
+      // Search in poem text
+      if(p.beyitler.some(b=>{const text=b.metin.toLowerCase();return text.includes(q)||fuzzyNorm(text).includes(qf);}))return true;
+      // Search in tags/ozet
+      const t=tags[p.numara];
+      if(t){
+        if(t.ozet&&fuzzyNorm(t.ozet).includes(qf))return true;
+        if((t.temalar||[]).some(th=>fuzzyNorm(th).includes(qf)))return true;
+        if((t.kavramlar||[]).some(k=>fuzzyNorm(k).includes(qf)))return true;
+      }
+      return false;
     });
   }
   if(!poems.length){el.innerHTML='<div class="empty">Sonuç bulunamadı.</div>';return}
-  el.innerHTML=poems.map(p=>`<div class="item" data-idx="${p._idx}">
-    <h3>${p.numara}. Şiir — ${p.bölüm}</h3>
-    <div class="preview">${p.beyitler[0]?.metin||''}</div>
-  </div>`).join('');
+  el.innerHTML=poems.map(p=>{
+    const t=tags[p.numara];
+    const ozet=t?t.ozet:'';
+    const themeTags=(t?.temalar||[]).slice(0,3).map(th=>`<span class="tag tema">${th}</span>`).join('');
+    return`<div class="item" data-idx="${p._idx}">
+      <h3>${p.numara}. Şiir — ${p.bölüm}</h3>
+      <div class="preview">${ozet||p.beyitler[0]?.metin||''}</div>
+      <div class="item-tags">${themeTags}</div>
+    </div>`;
+  }).join('');
   el.querySelectorAll('.item').forEach(c=>c.onclick=()=>showPoemByIdx(+c.dataset.idx));
 }
 
@@ -300,6 +375,15 @@ function showPoemByIdx(idx){
   if(currentPoem.vezin)meta+=` · Vezin: ${currentPoem.vezin}`;
   meta+=` · ${currentPoem.beyitler.length} beyit`;
   document.getElementById('poem-meta').textContent=meta;
+  // Özet and tags
+  const t=tags[currentPoem.numara];
+  document.getElementById('poem-ozet').textContent=t?.ozet||'';
+  const tagsHtml=[(t?.temalar||[]).map(x=>`<span class="tag tema">${x}</span>`).join(''),(t?.kavramlar||[]).map(x=>`<span class="tag kavram">${x}</span>`).join(''),(t?.duygular||[]).map(x=>`<span class="tag duygu">${x}</span>`).join(''),(t?.ahlak||[]).map(x=>`<span class="tag ahlak">${x}</span>`).join('')].join('');
+  document.getElementById('poem-tags').innerHTML=tagsHtml;
+  // Akaid notice
+  const noticeEl=document.getElementById('akaid-notice');
+  if(t?.akaid_notu){noticeEl.textContent=t.akaid_notu;noticeEl.style.display='block';}
+  else{noticeEl.style.display='none';}
   renderBeyitler();
   updateNavButtons();
   updateShareLinks();
