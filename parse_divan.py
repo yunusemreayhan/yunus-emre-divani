@@ -4,7 +4,7 @@ import json, re, sys, os
 
 SECTIONS = ["ELİF", "BE", "PE", "TE", "ÇE", "RA", "ZA", "SİN", "ŞIN", "GAYIN", "KÂF", "KEF", "LAM", "MİM", "NUN", "VÂV", "HE", "YA"]
 METER_KEYWORDS = ["Müstef'ilün", "Mefâ'îlün", "Fâ'ilâtün", "Fe'ûlün", "Mef'ûlü", "Müfte'îlün"]
-SOURCE_PREFIXES = ['F. ', 'F.', 'K. ', 'K.', 'T. ', 'RY.', 'RY ', 'NO.', 'YE.', 'Rt.', 'HB.', 'B. ', 'Ç.', 'Ç ', 'M. ', 'A. ', 'DTCF', 'Georg', 'Mecmûa', 'Dîvân,', 'Şiir ', 'Cönk', 'Câmiü', 'Mısır']
+SOURCE_PREFIXES = ['F. ', 'F.', 'K. ', 'K.', 'T. ', 'RY.', 'RY ', 'NO.', 'YE.', 'Rt.', 'HB.', 'B. ', 'Ç.', 'Ç ', 'M. ', 'A. ', 'DTCF', 'Georg', 'Mecmûa', 'Dîvân,', 'Şiir ', 'Cönk', 'Câmiü']
 
 def is_meter(line):
     return any(m in line for m in METER_KEYWORDS)
@@ -113,7 +113,22 @@ def parse(text):
                             is_poem = True
                             break
                         if tokens[j][0] == 'number' and tokens[j][1] == 1:
-                            is_poem = True
+                            # Found "1" ahead — but check if AFTER that 1 there's another
+                            # number > 1 (which would be the real poem number, making
+                            # the current number just a page number)
+                            for k in range(j+1, min(len(tokens), j+4)):
+                                if tokens[k][0] in ('empty', 'pageheader'):
+                                    continue
+                                if tokens[k][0] == 'number' and tokens[k][1] > 1:
+                                    # Pattern: page_num → 1 → poem_num → text
+                                    # Current number is a page number, skip it
+                                    is_poem = False
+                                    break
+                                else:
+                                    is_poem = True
+                                    break
+                            else:
+                                is_poem = True
                             break
                         if tokens[j][0] == 'text':
                             # Text directly after number = poem start (no meter, verse 1 implicit)
@@ -139,7 +154,30 @@ def parse(text):
                 continue
             
             elif state == 'in_poem':
-                # Inside a poem: this number is a verse number
+                # Inside a poem: this number is usually a verse number
+                # But check for pattern: 1 → poem_num → text (new poem boundary)
+                if num == 1:
+                    # Check if next number is a poem number (> current poem) followed by text
+                    for k in range(i+1, min(len(tokens), i+4)):
+                        if tokens[k][0] in ('empty', 'pageheader'):
+                            continue
+                        if tokens[k][0] == 'number' and tokens[k][1] > current_poem['numara']:
+                            # This is a new poem boundary — end current poem
+                            if current_verse_num and current_verse_text:
+                                current_poem['beyitler'].append({'numara': current_verse_num, 'metin': current_verse_text.strip()})
+                            if current_poem['beyitler']:
+                                poems.append(current_poem)
+                            current_poem = None
+                            current_verse_num = None
+                            current_verse_text = ""
+                            state = 'between_poems'
+                            break
+                        break
+                    if state == 'between_poems':
+                        # Don't consume the 1, let between_poems handle it (it'll skip it)
+                        i += 1
+                        continue
+                
                 if 1 <= num <= 50:
                     if current_verse_num and current_verse_text:
                         current_poem['beyitler'].append({'numara': current_verse_num, 'metin': current_verse_text.strip()})
