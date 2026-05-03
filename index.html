@@ -428,7 +428,9 @@ function renderBeyitler(){
     const meanings=Object.entries(b.anlamlar||{}).map(([k,v])=>k+': '+v).join(', ');
     const copyText=misra1+'\n'+misra2+(meanings?'\n\n📖 '+meanings:'');
     let textHtml;
-    if(linesMode===4){
+    if(isOttoman&&b.osmanli){
+      textHtml=b.osmanli;
+    } else if(linesMode===4){
       const[m1a,m1b]=splitBeyit(misra1);
       const[m2a,m2b]=splitBeyit(misra2);
       textHtml=[m1a,m1b,m2a,m2b].map(m=>renderWords(m,b.anlamlar||{})).join('<br>');
@@ -449,11 +451,9 @@ function renderWords(text,anlamlar){
     const cleanNoHyphen=part.toLowerCase().replace(/[^a-zâîûçşğöüı']/g,'');
     const meaning=anlamlar[cleanFull]||anlamlar[cleanNoHyphen];
     if(meaning){
-      const display=isOttoman?toOttoman(part):part;
-      const tip=isOttoman?toOttoman(meaning):meaning;
-      return`<span class="word">${display}<span class="tooltip">${tip}</span></span>`;
+      return`<span class="word">${part}<span class="tooltip">${meaning}</span></span>`;
     }
-    return isOttoman?toOttoman(part):part;
+    return part;
   }).join('');
 }
 
